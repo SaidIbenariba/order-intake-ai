@@ -46,7 +46,7 @@ with st.sidebar:
     model = st.text_input("Local model", "qwen2.5vl")
     use_memory = st.toggle("Use customer memory", value=True,
                            help="Wordings and article codes staff already confirmed for each customer.")
-    go = st.button("Process inbox", type="primary", use_container_width=True)
+    go = st.button("Process inbox", type="primary", width="stretch")
     st.divider()
     st.markdown("**Matching cascade**\n1. our SKU or manufacturer code\n2. customer memory\n"
                 "3. text + multilingual embeddings + attributes\n\n**Checks**\n- product not in catalog\n"
@@ -87,7 +87,7 @@ table = pd.DataFrame([{
     "Source": o["route"], "Seconds": o["seconds"],
     "Issues": len(o["issues"]) + sum(len(ln["issues"]) for ln in o["lines"]),
 } for o in orders])
-st.dataframe(table, hide_index=True, use_container_width=True,
+st.dataframe(table, hide_index=True, width="stretch",
              column_config={"Status": st.column_config.TextColumn(width="small")})
 
 st.divider()
@@ -104,12 +104,12 @@ with right:
     mail = read_eml(INBOX / o["file"])
     st.markdown(f"**From** {mail.sender}  \n**Subject** {mail.subject}")
     if mail.attachment_type == "image":
-        st.image(mail.attachment, use_container_width=True)
+        st.image(mail.attachment, width="stretch")
     elif mail.attachment_type == "pdf":
         page = pdfium.PdfDocument(mail.attachment)[0]
         buf = io.BytesIO()
         page.render(scale=1.4).to_pil().save(buf, format="PNG")
-        st.image(buf.getvalue(), use_container_width=True)
+        st.image(buf.getvalue(), width="stretch")
     with st.expander("Email body", expanded=mail.attachment is None):
         st.text(mail.body)
 
@@ -144,7 +144,7 @@ st.divider()
 rows = erp_rows(report)
 c1, c2 = st.columns(2)
 c1.download_button("Download ERP import (CSV)", pd.DataFrame(rows, columns=ERP_COLUMNS).to_csv(index=False),
-                   "erp_import.csv", "text/csv", use_container_width=True)
+                   "erp_import.csv", "text/csv", width="stretch")
 if (OUT / "orders.xlsx").exists():
     c2.download_button("Download workbook (Excel)", (OUT / "orders.xlsx").read_bytes(), "orders.xlsx",
-                       use_container_width=True)
+                       width="stretch")
