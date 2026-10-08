@@ -4,18 +4,7 @@ Customer order emails, PDF purchase orders and phone photos turned into **ERP-re
 
 The model reads. A matcher finds the SKU. Code checks prices, quantities and duplicates. A person decides on anything uncertain, and the system remembers the decision.
 
-```
- order email (.eml) ─► body / PDF / photo ─► local model (Ollama, qwen2.5vl) ─► lines as written
-                                                                                   │
-              ┌────────────────────────────────────────────────────────────────────┘
-              ▼
-   match each line to a SKU                      checks                          output
-   1. our SKU or maker code (CF226A)    ─►   not in catalog              ─►  APPROVED ─► ERP import CSV / JSON
-   2. customer memory (confirmed before)     discontinued → replacement      REVIEW   ─► review screen, top 3
-   3. text + multilingual embeddings         price vs customer price list                 products per line
-      + attributes (A4, 80g, 50L, size M)    quantity vs order history                    (each confirmation
-                                             duplicate PO, unknown sender                  is remembered)
-```
+![How Order Intake AI works: orders in, match every line to a SKU, checks before the ERP, results](docs/overview.png)
 
 ## Why this problem
 
