@@ -1,0 +1,41 @@
+{
+ "sender": "emma@brightsidedental.co.uk",
+ "po_number": "-2026-03080",
+ "order_date": "2026-10-07",
+ "delivery_date": "2026-10-14",
+ "lines": [
+  {
+   "customer_ref": "MAT-1349",
+   "description": "Clairefontaine Trophee color paper A4 80g orange, ream",
+   "quantity": 25.0,
+   "unit_price": null
+  },
+  {
+   "customer_ref": "ART-6192",
+   "description": "env DL 110x220mm white window peel & seal, bx 500",
+   "quantity": 3.0,
+   "unit_price": null
+  }
+ ],
+ "route": "email-body",
+ "seconds": 24.87676349999674,
+ "raw": {
+  "po_number": "PO-2026-03080",
+  "order_date": "",
+  "delivery_date": "14 Oct 2026",
+  "lines": [
+   {
+    "customer_ref": "MAT-1349",
+    "description": "Clairefontaine Trophee color paper A4 80g orange, ream",
+    "quantity": "25",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "ART-6192",
+    "description": "env DL 110x220mm white window peel & seal, bx 500",
+    "quantity": "3",
+    "unit_price": ""
+   }
+  ]
+ }
+}

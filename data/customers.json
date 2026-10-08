@@ -1,0 +1,180 @@
+[
+ {
+  "id": "C001",
+  "name": "Cabinet Dupont Avocats",
+  "domain": "dupont-avocats.fr",
+  "contact": "Claire Dupont",
+  "lang": "fr",
+  "discount": 0.05,
+  "own_codes": false,
+  "knows_skus": false,
+  "formats": [
+   "email",
+   "email",
+   "pdf"
+  ],
+  "po_format": "BC-{y}-{n:04d}"
+ },
+ {
+  "id": "C002",
+  "name": "Clinique des Oliviers",
+  "domain": "clinique-oliviers.fr",
+  "contact": "Karim Haddad",
+  "lang": "fr",
+  "discount": 0.08,
+  "own_codes": true,
+  "knows_skus": false,
+  "formats": [
+   "pdf",
+   "photo"
+  ],
+  "po_format": "CO{n:06d}"
+ },
+ {
+  "id": "C003",
+  "name": "Hotel Atlas Marina",
+  "domain": "atlas-marina-hotel.ma",
+  "contact": "Nadia Bennani",
+  "lang": "fr",
+  "discount": 0.05,
+  "own_codes": false,
+  "knows_skus": false,
+  "formats": [
+   "email",
+   "photo"
+  ],
+  "po_format": "HAM/{y}/{n:03d}"
+ },
+ {
+  "id": "C004",
+  "name": "Ecole Les Tilleuls",
+  "domain": "ecole-tilleuls.fr",
+  "contact": "Sophie Martin",
+  "lang": "fr",
+  "discount": 0.1,
+  "own_codes": false,
+  "knows_skus": false,
+  "formats": [
+   "email",
+   "photo"
+  ],
+  "po_format": "ET-{n:03d}"
+ },
+ {
+  "id": "C005",
+  "name": "Transports Benali SARL",
+  "domain": "benali-transports.ma",
+  "contact": "Youssef Benali",
+  "lang": "fr",
+  "discount": 0.0,
+  "own_codes": false,
+  "knows_skus": true,
+  "formats": [
+   "email",
+   "pdf"
+  ],
+  "po_format": "TB-{y}{n:04d}"
+ },
+ {
+  "id": "C006",
+  "name": "Pharmacie Centrale",
+  "domain": "pharmacie-centrale.be",
+  "contact": "Luc Peeters",
+  "lang": "fr",
+  "discount": 0.05,
+  "own_codes": false,
+  "knows_skus": false,
+  "formats": [
+   "email"
+  ],
+  "po_format": "PC{n:05d}"
+ },
+ {
+  "id": "C007",
+  "name": "Brightside Dental Group",
+  "domain": "brightsidedental.co.uk",
+  "contact": "Emma Clarke",
+  "lang": "en",
+  "discount": 0.05,
+  "own_codes": true,
+  "knows_skus": false,
+  "formats": [
+   "pdf",
+   "email"
+  ],
+  "po_format": "PO-{y}-{n:05d}"
+ },
+ {
+  "id": "C008",
+  "name": "Northgate Academy",
+  "domain": "northgate-academy.org.uk",
+  "contact": "James Walker",
+  "lang": "en",
+  "discount": 0.05,
+  "own_codes": false,
+  "knows_skus": true,
+  "formats": [
+   "email",
+   "pdf"
+  ],
+  "po_format": "NGA{n:05d}"
+ },
+ {
+  "id": "C009",
+  "name": "Lumen Architects Ltd",
+  "domain": "lumen-architects.co.uk",
+  "contact": "Priya Shah",
+  "lang": "en",
+  "discount": 0.05,
+  "own_codes": false,
+  "knows_skus": false,
+  "formats": [
+   "email"
+  ],
+  "po_format": "LA-{n:04d}"
+ },
+ {
+  "id": "C010",
+  "name": "Riverside Coworking",
+  "domain": "riverside-cowork.ie",
+  "contact": "Sean Murphy",
+  "lang": "en",
+  "discount": 0.1,
+  "own_codes": false,
+  "knows_skus": false,
+  "formats": [
+   "email",
+   "photo"
+  ],
+  "po_format": "RC-{y}-{n:03d}"
+ },
+ {
+  "id": "C011",
+  "name": "Kestrel Engineering",
+  "domain": "kestrel-eng.com",
+  "contact": "Daniel Moore",
+  "lang": "en",
+  "discount": 0.1,
+  "own_codes": true,
+  "knows_skus": false,
+  "formats": [
+   "pdf"
+  ],
+  "po_format": "45000{n:05d}"
+ },
+ {
+  "id": "C012",
+  "name": "Harbour View Care Home",
+  "domain": "harbourviewcare.co.uk",
+  "contact": "Grace Evans",
+  "lang": "en",
+  "discount": 0.05,
+  "own_codes": false,
+  "knows_skus": true,
+  "formats": [
+   "email",
+   "pdf"
+  ],
+  "po_format": "HV{n:04d}"
+ }
+]

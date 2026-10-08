@@ -1,0 +1,113 @@
+{
+ "sender": "youssef@benali-transports.ma",
+ "po_number": "TB-20268187",
+ "order_date": "2026-10-01",
+ "delivery_date": "2026-10-03",
+ "lines": [
+  {
+   "customer_ref": null,
+   "description": "pilse alcalines AA, x24",
+   "quantity": 4.0,
+   "unit_price": null
+  },
+  {
+   "customer_ref": null,
+   "description": "enveloppes courrier dl 110x220mm blanches sans fenetre bande detachable, (500)",
+   "quantity": 2.0,
+   "unit_price": null
+  },
+  {
+   "customer_ref": null,
+   "description": "toner Brother TN-2410 noir",
+   "quantity": 8.0,
+   "unit_price": null
+  },
+  {
+   "customer_ref": null,
+   "description": "nettyoant vitres spray 750ml",
+   "quantity": 5.0,
+   "unit_price": null
+  },
+  {
+   "customer_ref": null,
+   "description": "sacs poubelle Raja 100 lires transparent, x10",
+   "quantity": 20.0,
+   "unit_price": null
+  },
+  {
+   "customer_ref": null,
+   "description": "sac poubelle 130l noir, x10",
+   "quantity": 22.0,
+   "unit_price": null
+  },
+  {
+   "customer_ref": null,
+   "description": "Nettoyant virtes spray 5L",
+   "quantity": 4.0,
+   "unit_price": null
+  },
+  {
+   "customer_ref": null,
+   "description": "post-it 76x76mm bleu, paquet de 12",
+   "quantity": 6.0,
+   "unit_price": null
+  }
+ ],
+ "route": "email-body",
+ "seconds": 107.7453360829968,
+ "raw": {
+  "po_number": "TB-20268187",
+  "order_date": "",
+  "delivery_date": "03/10/2026",
+  "lines": [
+   {
+    "customer_ref": "",
+    "description": "pilse alcalines AA, x24",
+    "quantity": "4",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "enveloppes courrier dl 110x220mm blanches sans fenetre bande detachable, (500)",
+    "quantity": "2",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "toner Brother TN-2410 noir",
+    "quantity": "8",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "nettyoant vitres spray 750ml",
+    "quantity": "5",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "sacs poubelle Raja 100 lires transparent, x10",
+    "quantity": "20",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "sac poubelle 130l noir, x10",
+    "quantity": "22",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "Nettoyant virtes spray 5L",
+    "quantity": "4",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "post-it 76x76mm bleu, paquet de 12",
+    "quantity": "6",
+    "unit_price": ""
+   }
+  ]
+ }
+}

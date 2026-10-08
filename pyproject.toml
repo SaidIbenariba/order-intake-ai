@@ -1,0 +1,34 @@
+[project]
+name = "order-intake-ai"
+version = "0.1.0"
+description = "Customer order emails, PDFs and phone photos to ERP-ready orders, with every line matched to a catalog SKU. Runs locally."
+readme = "README.md"
+authors = [
+    { name = "Said Ibenariba" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "httpx>=0.28.1",
+    "numpy>=2.5.3",
+    "openpyxl>=3.1.5",
+    "pdfplumber>=0.11.10",
+    "pillow>=12.3.0",
+    "pydantic>=2.14.0",
+    "pypdfium2>=5.14.0",
+    "rapidfuzz>=3.14.6",
+    "reportlab>=5.0.1",
+    "sentence-transformers>=6.1.0",
+    "streamlit>=1.65.0",
+]
+
+[project.scripts]
+order-intake-ai = "order_intake_ai:main"
+
+[build-system]
+requires = ["uv_build>=0.11.7,<0.12.0"]
+build-backend = "uv_build"
+
+[dependency-groups]
+dev = [
+    "pytest>=9.1.1",
+]

@@ -1,0 +1,53 @@
+{
+ "order_id": "ord_002",
+ "customer_id": "C012",
+ "sender": "grace@harbourviewcare.co.uk",
+ "po_number": "HV8989",
+ "order_date": "2026-10-06",
+ "delivery_date": "2026-10-13",
+ "lines": [
+  {
+   "text": "disposable vinyl gloves PF transparent S, box of 100",
+   "customer_ref": null,
+   "quantity": 11.0,
+   "unit_price": null,
+   "sku": "943916",
+   "kind": "repeat",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "brother tn-2410 toner cartridge black",
+   "customer_ref": null,
+   "quantity": 3.0,
+   "unit_price": null,
+   "sku": "131236",
+   "kind": "new",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "SanDisk usb key 128GB",
+   "customer_ref": null,
+   "quantity": 2.0,
+   "unit_price": null,
+   "sku": "965263",
+   "kind": "new",
+   "ambiguous": false,
+   "anomaly": "discontinued"
+  },
+  {
+   "text": "Rapid staples 23/13, box of 1000",
+   "customer_ref": null,
+   "quantity": 6.0,
+   "unit_price": null,
+   "sku": "125927",
+   "kind": "new",
+   "ambiguous": false,
+   "anomaly": null
+  }
+ ],
+ "anomaly": "discontinued",
+ "format": "email",
+ "with_prices": false
+}

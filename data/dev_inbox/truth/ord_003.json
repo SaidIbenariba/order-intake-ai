@@ -1,0 +1,63 @@
+{
+ "order_id": "ord_003",
+ "customer_id": "C004",
+ "sender": "sophie@ecole-tilleuls.fr",
+ "po_number": "ET-263",
+ "order_date": "2026-10-10",
+ "delivery_date": "2026-10-17",
+ "lines": [
+  {
+   "text": "classeur a levier A4 dos 50mm noir",
+   "customer_ref": null,
+   "quantity": 22.0,
+   "unit_price": null,
+   "sku": "637244",
+   "kind": "repeat",
+   "ambiguous": true,
+   "anomaly": null
+  },
+  {
+   "text": "CF226A TONER LASER HP 26 A NOIRE",
+   "customer_ref": null,
+   "quantity": 1.0,
+   "unit_price": null,
+   "sku": "931800",
+   "kind": "mpn_code",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "baton de colle uhu 21g",
+   "customer_ref": null,
+   "quantity": 9.0,
+   "unit_price": null,
+   "sku": "223695",
+   "kind": "repeat",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "memoire usb Kingston 32 Go",
+   "customer_ref": null,
+   "quantity": 3.0,
+   "unit_price": null,
+   "sku": "659944",
+   "kind": "new",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "papier photocopie Xerox Performer A3 80 grammes blanc",
+   "customer_ref": null,
+   "quantity": 23.0,
+   "unit_price": null,
+   "sku": "403080",
+   "kind": "new",
+   "ambiguous": false,
+   "anomaly": null
+  }
+ ],
+ "anomaly": "duplicate_po",
+ "format": "email",
+ "with_prices": false
+}

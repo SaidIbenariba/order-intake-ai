@@ -1,0 +1,69 @@
+{
+ "sender": "sophie@ecole-tilleuls.fr",
+ "po_number": "ET-943",
+ "order_date": "2026-09-18",
+ "delivery_date": null,
+ "lines": [
+  {
+   "customer_ref": null,
+   "description": "Ramette papier A4 160g blanc",
+   "quantity": 2.0,
+   "unit_price": null,
+   "qty_note": null
+  },
+  {
+   "customer_ref": null,
+   "description": "cartouche toner brother tn-243y jaune",
+   "quantity": 3.0,
+   "unit_price": null,
+   "qty_note": null
+  },
+  {
+   "customer_ref": null,
+   "description": "enveloppes c4 229x324mm blanches sans fenetre bande protectrice, x250",
+   "quantity": 5.0,
+   "unit_price": null,
+   "qty_note": null
+  },
+  {
+   "customer_ref": null,
+   "description": "cahier spirale Clairefontiane A5 ligne 180 pages",
+   "quantity": 73.0,
+   "unit_price": null,
+   "qty_note": null
+  }
+ ],
+ "route": "email-body",
+ "seconds": 27.58023979200516,
+ "raw": {
+  "po_number": "ET-943",
+  "order_date": "",
+  "delivery_date": "",
+  "lines": [
+   {
+    "customer_ref": "",
+    "description": "Ramette papier A4 160g blanc",
+    "quantity": "2",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "cartouche toner brother tn-243y jaune",
+    "quantity": "3",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "enveloppes c4 229x324mm blanches sans fenetre bande protectrice, x250",
+    "quantity": "5",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "cahier spirale Clairefontiane A5 ligne 180 pages",
+    "quantity": "73",
+    "unit_price": ""
+   }
+  ]
+ }
+}

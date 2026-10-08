@@ -1,0 +1,53 @@
+{
+ "order_id": "ord_018",
+ "customer_id": "C008",
+ "sender": "james@northgate-academy.org.uk",
+ "po_number": "NGA01925",
+ "order_date": "2026-09-13",
+ "delivery_date": "2026-09-16",
+ "lines": [
+  {
+   "text": "alkaline cells aaa, 12-pack",
+   "customer_ref": null,
+   "quantity": 3.0,
+   "unit_price": null,
+   "sku": "641083",
+   "kind": "new",
+   "ambiguous": true,
+   "anomaly": null
+  },
+  {
+   "text": "Ref 598873 navigator office ppaer a3 80",
+   "customer_ref": null,
+   "quantity": 21.0,
+   "unit_price": null,
+   "sku": "598873",
+   "kind": "sku_code",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "clairefontaine paper a3 100 g white",
+   "customer_ref": null,
+   "quantity": 16.0,
+   "unit_price": null,
+   "sku": "794628",
+   "kind": "repeat",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "Ref 627616 Duracell batteries AA, 24 pe",
+   "customer_ref": null,
+   "quantity": 7.0,
+   "unit_price": null,
+   "sku": "627616",
+   "kind": "sku_code",
+   "ambiguous": false,
+   "anomaly": null
+  }
+ ],
+ "anomaly": null,
+ "format": "pdf",
+ "with_prices": false
+}

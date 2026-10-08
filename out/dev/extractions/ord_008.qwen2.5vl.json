@@ -1,0 +1,53 @@
+{
+ "sender": "sean@riverside-cowork.ie",
+ "po_number": "RC-2026-903",
+ "order_date": "2026-09-21",
+ "delivery_date": "2026-09-26",
+ "lines": [
+  {
+   "customer_ref": null,
+   "description": "10 Pencil HB Staedtler Noris, x12",
+   "quantity": 10.0,
+   "unit_price": null
+  },
+  {
+   "customer_ref": null,
+   "description": "10 12a toner cartridge black",
+   "quantity": 10.0,
+   "unit_price": null
+  },
+  {
+   "customer_ref": null,
+   "description": "6 Logitech K120 keyboard USB QWERTY",
+   "quantity": 6.0,
+   "unit_price": null
+  }
+ ],
+ "route": "email-body",
+ "seconds": 62.079219332998036,
+ "raw": {
+  "po_number": "RC-2026-903",
+  "order_date": "",
+  "delivery_date": "26/09/2026",
+  "lines": [
+   {
+    "customer_ref": "",
+    "description": "10 Pencil HB Staedtler Noris, x12",
+    "quantity": "10",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "10 12a toner cartridge black",
+    "quantity": "10",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "6 Logitech K120 keyboard USB QWERTY",
+    "quantity": "6",
+    "unit_price": ""
+   }
+  ]
+ }
+}

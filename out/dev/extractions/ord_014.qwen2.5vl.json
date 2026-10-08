@@ -1,0 +1,53 @@
+{
+ "sender": "priya@lumen-architects.co.uk",
+ "po_number": "LA-9423",
+ "order_date": "2026-10-04",
+ "delivery_date": "2026-10-09",
+ "lines": [
+  {
+   "customer_ref": null,
+   "description": "207a toner cartridge cyan",
+   "quantity": 2.0,
+   "unit_price": null
+  },
+  {
+   "customer_ref": null,
+   "description": "alkaline batteries aa, pk 12",
+   "quantity": 1.0,
+   "unit_price": null
+  },
+  {
+   "customer_ref": null,
+   "description": "battery D, x2",
+   "quantity": 3.0,
+   "unit_price": null
+  }
+ ],
+ "route": "email-body",
+ "seconds": 40.00288233300671,
+ "raw": {
+  "po_number": "LA-9423",
+  "order_date": "",
+  "delivery_date": "09/10/2026",
+  "lines": [
+   {
+    "customer_ref": "",
+    "description": "207a toner cartridge cyan",
+    "quantity": "2",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "alkaline batteries aa, pk 12",
+    "quantity": "1",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "battery D, x2",
+    "quantity": "3",
+    "unit_price": ""
+   }
+  ]
+ }
+}

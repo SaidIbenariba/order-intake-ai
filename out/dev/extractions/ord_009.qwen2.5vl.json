@@ -1,0 +1,77 @@
+{
+ "sender": "james@northgate-academy.org.uk",
+ "po_number": "NGA08375",
+ "order_date": "2026-10-04",
+ "delivery_date": "2026-10-09",
+ "lines": [
+  {
+   "customer_ref": null,
+   "description": "ENV C5 162X229MM WHITE WINDOW SELF-SEAL, 500/BOX",
+   "quantity": 2.0,
+   "unit_price": 18.31
+  },
+  {
+   "customer_ref": null,
+   "description": "Paper shredder cross-cut 12 sheets",
+   "quantity": 4.0,
+   "unit_price": 275.27
+  },
+  {
+   "customer_ref": "537416",
+   "description": "HP85A toner blk",
+   "quantity": 1.0,
+   "unit_price": 87.19
+  },
+  {
+   "customer_ref": null,
+   "description": "Slider Memo XB pen extra broad black, x10",
+   "quantity": 2.0,
+   "unit_price": 5.66
+  },
+  {
+   "customer_ref": null,
+   "description": "boss text marker green, (10)",
+   "quantity": 2.0,
+   "unit_price": 3.2
+  }
+ ],
+ "route": "pdf-text",
+ "seconds": 77.05561933301215,
+ "raw": {
+  "po_number": "NGA08375",
+  "order_date": "",
+  "delivery_date": "9 Oct 2026",
+  "lines": [
+   {
+    "customer_ref": "",
+    "description": "ENV C5 162X229MM WHITE WINDOW SELF-SEAL, 500/BOX",
+    "quantity": "2",
+    "unit_price": "18.31"
+   },
+   {
+    "customer_ref": "",
+    "description": "Paper shredder cross-cut 12 sheets",
+    "quantity": "4",
+    "unit_price": "275.27"
+   },
+   {
+    "customer_ref": "537416",
+    "description": "HP85A toner blk",
+    "quantity": "1",
+    "unit_price": "87.19"
+   },
+   {
+    "customer_ref": "",
+    "description": "Slider Memo XB pen extra broad black, x10",
+    "quantity": "2",
+    "unit_price": "5.66"
+   },
+   {
+    "customer_ref": "",
+    "description": "boss text marker green, (10)",
+    "quantity": "2",
+    "unit_price": "3.20"
+   }
+  ]
+ }
+}

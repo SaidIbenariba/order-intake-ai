@@ -1,0 +1,40 @@
+order_ref,customer_id,customer_name,po_number,order_date,delivery_date,line_no,sku,product,unit,quantity,unit_price,line_total
+ord_001,C007,Brightside Dental Group,PO-2026-03080,2026-10-07,2026-10-14,1,516729,"Clairefontaine Trophee coloured paper A4 80g orange, ream of 500 sheets",ream of 500 sheets,25.0,7.84,196.0
+ord_001,C007,Brightside Dental Group,PO-2026-03080,2026-10-07,2026-10-14,2,764978,"Envelopes DL 110x220mm white window peel and seal, box of 500",box of 500,3.0,28.48,85.44
+ord_002,C004,Ecole Les Tilleuls,ET-263,2026-09-22,2026-10-02,1,218368,Brother TN-243C original toner cartridge cyan,each,1.0,63.72,63.72
+ord_002,C004,Ecole Les Tilleuls,ET-263,2026-09-22,2026-10-02,2,504648,"Microfibre cloths 40x40cm blue, pack of 10",pack of 10,12.0,9.29,111.48
+ord_002,C004,Ecole Les Tilleuls,ET-263,2026-09-22,2026-10-02,3,979094,HP 410A original toner cartridge magenta (CF413A),each,4.0,96.33,385.32
+ord_002,C004,Ecole Les Tilleuls,ET-263,2026-09-22,2026-10-02,4,474023,"Paper clips 32mm, box of 100",each,5.0,5.3,26.5
+ord_002,C004,Ecole Les Tilleuls,ET-263,2026-09-22,2026-10-02,5,310694,"Raja bin bags 110L black, roll of 10",roll of 10,8.0,8.74,69.92
+ord_002,C004,Ecole Les Tilleuls,ET-263,2026-09-22,2026-10-02,6,598873,"Navigator copy paper A3 80g white, ream of 500 sheets",ream of 500 sheets,33.0,7.79,257.07
+ord_005,C011,Kestrel Engineering,4500008100,2026-09-25,2026-09-29,1,688808,Clairefontaine spiral notebook A5 seyes 180 pages,each,99.0,2.58,255.42
+ord_005,C011,Kestrel Engineering,4500008100,2026-09-25,2026-09-29,2,786862,"Post-it notes 76x76mm yellow, pack of 12 pads",pack of 12,2.0,8.98,17.96
+ord_005,C011,Kestrel Engineering,4500008100,2026-09-25,2026-09-29,3,710005,"Tea bags Lipton Yellow Label, box of 100",box of 100,9.0,7.19,64.71
+ord_011,C007,Brightside Dental Group,PO-2026-09378,2026-09-22,,1,523791,"Duracell alkaline batteries D, pack of 2",pack of 2,1.0,4.48,4.48
+ord_011,C007,Brightside Dental Group,PO-2026-09378,2026-09-22,,2,149222,"Rapid S27 stapler, 30 sheets capacity",each,8.0,46.09,368.72
+ord_012,C010,Riverside Coworking,RC-2026-277,2026-09-16,,1,238979,"Raja bin bags 30L white, roll of 20",roll of 20,22.0,2.07,45.54
+ord_012,C010,Riverside Coworking,RC-2026-277,2026-09-16,,2,221922,"Disposable vinyl gloves powder-free transparent size M, box of 100",box of 100,15.0,9.31,139.65
+ord_012,C010,Riverside Coworking,RC-2026-277,2026-09-16,,3,537228,"Pencil HB Staedtler Noris, box of 12",each,7.0,10.47,73.29
+ord_012,C010,Riverside Coworking,RC-2026-277,2026-09-16,,4,550379,"Mineral water 1.5L, pack of 6",pack of 6,21.0,3.69,77.49
+ord_012,C010,Riverside Coworking,RC-2026-277,2026-09-16,,5,721533,"Pilot BPS-GP ballpoint pen retractable blue, box of 12",box of 12,5.0,2.7,13.5
+ord_013,C003,Hotel Atlas Marina,HAM/2026/671,2026-09-24,2026-10-03,1,225420,Dishwashing liquid 5L,each,5.0,11.7,58.5
+ord_013,C003,Hotel Atlas Marina,HAM/2026/671,2026-09-24,2026-10-03,2,537416,HP 85A original toner cartridge black (CE285A),each,3.0,87.19,261.57
+ord_013,C003,Hotel Atlas Marina,HAM/2026/671,2026-09-24,2026-10-03,3,503092,"Envelopes DL 110x220mm white no window peel and seal, box of 500",box of 500,3.0,34.14,102.42
+ord_014,C009,Lumen Architects Ltd,LA-9423,2026-10-04,2026-10-09,1,863580,HP 207A original toner cartridge cyan (W2211A),each,2.0,122.54,245.08
+ord_014,C009,Lumen Architects Ltd,LA-9423,2026-10-04,2026-10-09,2,955341,"Energizer alkaline batteries AA, pack of 12",pack of 12,1.0,12.88,12.88
+ord_014,C009,Lumen Architects Ltd,LA-9423,2026-10-04,2026-10-09,3,523791,"Duracell alkaline batteries D, pack of 2",pack of 2,3.0,4.48,13.44
+ord_016,C005,Transports Benali SARL,TB-20261585,2026-09-10,2026-09-12,1,318872,"Edding 360 whiteboard marker round tip red, box of 10",box of 10,1.0,2.76,2.76
+ord_016,C005,Transports Benali SARL,TB-20261585,2026-09-10,2026-09-12,2,247325,Clairefontaine spiral notebook A4 seyes 180 pages,each,54.0,3.04,164.16
+ord_016,C005,Transports Benali SARL,TB-20261585,2026-09-10,2026-09-12,3,818499,"Raja bin bags 100L transparent, roll of 10",roll of 10,40.0,5.68,227.2
+ord_016,C005,Transports Benali SARL,TB-20261585,2026-09-10,2026-09-12,4,457404,Glass cleaner spray 5L,each,9.0,9.44,84.96
+ord_017,C008,Northgate Academy,NGA01412,2026-10-06,,1,133015,"Rapid staples 24/6 galvanised, box of 5000",box of 5000,7.0,7.69,53.83
+ord_017,C008,Northgate Academy,NGA01412,2026-10-06,,2,770662,Eraser Staedtler Mars plastic,each,4.0,11.33,45.32
+ord_017,C008,Northgate Academy,NGA01412,2026-10-06,,3,643893,HP 207A original toner cartridge magenta (W2213A),each,2.0,106.46,212.92
+ord_017,C008,Northgate Academy,NGA01412,2026-10-06,,4,744353,Brother TN-243M original toner cartridge magenta,each,2.0,60.04,120.08
+ord_017,C008,Northgate Academy,NGA01412,2026-10-06,,5,794628,"Clairefontaine copy paper A3 100g white, ream of 500 sheets",ream of 500 sheets,8.0,10.17,81.36
+ord_022,C012,Harbour View Care Home,HV5788,2026-09-14,2026-09-16,1,598873,"Navigator copy paper A3 80g white, ream of 500 sheets",ream of 500 sheets,34.0,8.22,279.48
+ord_022,C012,Harbour View Care Home,HV5788,2026-09-14,2026-09-16,2,341404,Brother TN-243BK original toner cartridge black,each,3.0,54.35,163.05
+ord_022,C012,Harbour View Care Home,HV5788,2026-09-14,2026-09-16,3,550379,"Mineral water 1.5L, pack of 6",pack of 6,2.0,3.89,7.78
+ord_022,C012,Harbour View Care Home,HV5788,2026-09-14,2026-09-16,4,304142,Logitech M185 wireless mouse grey,each,5.0,12.9,64.5
+ord_022,C012,Harbour View Care Home,HV5788,2026-09-14,2026-09-16,5,149222,"Rapid S27 stapler, 30 sheets capacity",each,12.0,46.09,553.08
+ord_022,C012,Harbour View Care Home,HV5788,2026-09-14,2026-09-16,6,537416,HP 85A original toner cartridge black (CE285A),each,1.0,87.19,87.19

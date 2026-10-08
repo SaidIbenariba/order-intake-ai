@@ -1,0 +1,108 @@
+{
+ "sender": "luc@pharmacie-centrale.be",
+ "po_number": "PC09855",
+ "order_date": "2026-09-01",
+ "delivery_date": "2026-09-04",
+ "lines": [
+  {
+   "customer_ref": null,
+   "description": "sacs poubelle Sacs Pro 110 L noir, roueau de 10",
+   "quantity": 7.0,
+   "unit_price": 5.36,
+   "qty_note": null
+  },
+  {
+   "customer_ref": null,
+   "description": "toner 054 cyan",
+   "quantity": 8.0,
+   "unit_price": 86.54,
+   "qty_note": null
+  },
+  {
+   "customer_ref": null,
+   "description": "toner HP 59X noir (CF259X)",
+   "quantity": 4.0,
+   "unit_price": 132.15,
+   "qty_note": null
+  },
+  {
+   "customer_ref": null,
+   "description": "stylo retractable BPS-GP rouge, boite de 12",
+   "quantity": 2.0,
+   "unit_price": 3.6,
+   "qty_note": null
+  },
+  {
+   "customer_ref": null,
+   "description": "gel hydro 1 litres",
+   "quantity": 3.0,
+   "unit_price": 4.33,
+   "qty_note": null
+  },
+  {
+   "customer_ref": null,
+   "description": "gants usage unique nitrile non poudres noir sz m, bte de 100",
+   "quantity": 7.0,
+   "unit_price": 10.36,
+   "qty_note": null
+  },
+  {
+   "customer_ref": null,
+   "description": "cle 32 Go",
+   "quantity": 3.0,
+   "unit_price": 5.49,
+   "qty_note": null
+  }
+ ],
+ "route": "pdf-text",
+ "seconds": 40.38101533301233,
+ "raw": {
+  "po_number": "PC09855",
+  "order_date": "01/09/2026",
+  "delivery_date": "04/09/2026",
+  "lines": [
+   {
+    "customer_ref": "",
+    "description": "sacs poubelle Sacs Pro 110 L noir, roueau de 10",
+    "quantity": "7",
+    "unit_price": "5,36"
+   },
+   {
+    "customer_ref": "",
+    "description": "toner 054 cyan",
+    "quantity": "8",
+    "unit_price": "86,54"
+   },
+   {
+    "customer_ref": "",
+    "description": "toner HP 59X noir (CF259X)",
+    "quantity": "4",
+    "unit_price": "132,15"
+   },
+   {
+    "customer_ref": "",
+    "description": "stylo retractable BPS-GP rouge, boite de 12",
+    "quantity": "2",
+    "unit_price": "3,60"
+   },
+   {
+    "customer_ref": "",
+    "description": "gel hydro 1 litres",
+    "quantity": "3",
+    "unit_price": "4,33"
+   },
+   {
+    "customer_ref": "",
+    "description": "gants usage unique nitrile non poudres noir sz m, bte de 100",
+    "quantity": "7",
+    "unit_price": "10,36"
+   },
+   {
+    "customer_ref": "",
+    "description": "cle 32 Go",
+    "quantity": "3",
+    "unit_price": "5,49"
+   }
+  ]
+ }
+}

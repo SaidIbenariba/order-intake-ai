@@ -1,0 +1,53 @@
+{
+ "sender": "daniel@kestrel-eng.com",
+ "po_number": "4500004296",
+ "order_date": "2026-09-04",
+ "delivery_date": "2026-09-11",
+ "lines": [
+  {
+   "customer_ref": "MAT-8464",
+   "description": "envelopes c5 162x229mm wht non window self adhesive, 500 per box",
+   "quantity": 5.0,
+   "unit_price": 30.68
+  },
+  {
+   "customer_ref": "MAT-4343",
+   "description": "notes 76x76mm yellow",
+   "quantity": 3.0,
+   "unit_price": 8.98
+  },
+  {
+   "customer_ref": "FN-3841",
+   "description": "env DL 110x220mm white widnow peel & seal, x500",
+   "quantity": 2.0,
+   "unit_price": 26.98
+  }
+ ],
+ "route": "pdf-text",
+ "seconds": 45.06564908300061,
+ "raw": {
+  "po_number": "4500004296",
+  "order_date": "",
+  "delivery_date": "11/09/2026",
+  "lines": [
+   {
+    "customer_ref": "MAT-8464",
+    "description": "envelopes c5 162x229mm wht non window self adhesive, 500 per box",
+    "quantity": "5",
+    "unit_price": "30.68"
+   },
+   {
+    "customer_ref": "MAT-4343",
+    "description": "notes 76x76mm yellow",
+    "quantity": "3",
+    "unit_price": "8.98"
+   },
+   {
+    "customer_ref": "FN-3841",
+    "description": "env DL 110x220mm white widnow peel & seal, x500",
+    "quantity": "2",
+    "unit_price": "26.98"
+   }
+  ]
+ }
+}

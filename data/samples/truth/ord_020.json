@@ -1,0 +1,53 @@
+{
+ "order_id": "ord_020",
+ "customer_id": "C010",
+ "sender": "sean@riverside-cowork.ie",
+ "po_number": "RC-2026-556",
+ "order_date": "2026-09-29",
+ "delivery_date": "2026-10-07",
+ "lines": [
+  {
+   "text": "micro fibre wipes 40x40cm green, pack of 10",
+   "customer_ref": null,
+   "quantity": 10.0,
+   "unit_price": null,
+   "sku": "541139",
+   "kind": "new",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "trash bags 30 L white, x20",
+   "customer_ref": null,
+   "quantity": 11.0,
+   "unit_price": null,
+   "sku": "238979",
+   "kind": "repeat",
+   "ambiguous": true,
+   "anomaly": null
+  },
+  {
+   "text": "paper a3 80g white, ream of 500 sheeets",
+   "customer_ref": null,
+   "quantity": 48.0,
+   "unit_price": null,
+   "sku": "598873",
+   "kind": "repeat",
+   "ambiguous": true,
+   "anomaly": null
+  },
+  {
+   "text": "Pencil HB Staedtler Noris, x12",
+   "customer_ref": null,
+   "quantity": 7.0,
+   "unit_price": null,
+   "sku": "537228",
+   "kind": "repeat",
+   "ambiguous": false,
+   "anomaly": null
+  }
+ ],
+ "anomaly": "duplicate_po",
+ "format": "photo",
+ "with_prices": false
+}

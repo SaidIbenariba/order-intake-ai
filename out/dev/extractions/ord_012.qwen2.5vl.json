@@ -1,0 +1,77 @@
+{
+ "sender": "sean@riverside-cowork.ie",
+ "po_number": "RC-2026-277",
+ "order_date": "2026-09-16",
+ "delivery_date": null,
+ "lines": [
+  {
+   "customer_ref": null,
+   "description": "trash bags 30 L white, x20",
+   "quantity": 22.0,
+   "unit_price": 2.07
+  },
+  {
+   "customer_ref": null,
+   "description": "disposable vinyl gloves pf transparent m, bx 100",
+   "quantity": 15.0,
+   "unit_price": 9.31
+  },
+  {
+   "customer_ref": null,
+   "description": "Pencil HB Staedtler Noris, x12",
+   "quantity": 7.0,
+   "unit_price": 10.47
+  },
+  {
+   "customer_ref": null,
+   "description": "Mineral water 1.5 litres, pack of 6",
+   "quantity": 21.0,
+   "unit_price": 3.69
+  },
+  {
+   "customer_ref": null,
+   "description": "Pilot BPS-GP ballpoint retractable blue, (12)",
+   "quantity": 5.0,
+   "unit_price": 2.7
+  }
+ ],
+ "route": "vision",
+ "seconds": 129.20912283399957,
+ "raw": {
+  "po_number": "RC-2026-277",
+  "order_date": "16 Sep 2026",
+  "delivery_date": "",
+  "lines": [
+   {
+    "customer_ref": "",
+    "description": "trash bags 30 L white, x20",
+    "quantity": "22",
+    "unit_price": "2.07"
+   },
+   {
+    "customer_ref": "",
+    "description": "disposable vinyl gloves pf transparent m, bx 100",
+    "quantity": "15",
+    "unit_price": "9.31"
+   },
+   {
+    "customer_ref": "",
+    "description": "Pencil HB Staedtler Noris, x12",
+    "quantity": "7",
+    "unit_price": "10.47"
+   },
+   {
+    "customer_ref": "",
+    "description": "Mineral water 1.5 litres, pack of 6",
+    "quantity": "21",
+    "unit_price": "3.69"
+   },
+   {
+    "customer_ref": "",
+    "description": "Pilot BPS-GP ballpoint retractable blue, (12)",
+    "quantity": "5",
+    "unit_price": "2.70"
+   }
+  ]
+ }
+}

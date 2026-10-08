@@ -1,0 +1,63 @@
+{
+ "order_id": "ord_010",
+ "customer_id": "C007",
+ "sender": "emma@brightsidedental.co.uk",
+ "po_number": "PO-2026-03938",
+ "order_date": "2026-09-05",
+ "delivery_date": "2026-09-14",
+ "lines": [
+  {
+   "text": "S27 stapler, 30 sheets capacity",
+   "customer_ref": "FN-9111",
+   "quantity": 2.0,
+   "unit_price": null,
+   "sku": "149222",
+   "kind": "repeat",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "env DL 110x220mm white window peel & seal, bx 500",
+   "customer_ref": "ART-6192",
+   "quantity": 4.0,
+   "unit_price": null,
+   "sku": "764978",
+   "kind": "repeat",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "Clairefontaine Trophee color paper A4 80g orange, ream",
+   "customer_ref": "MAT-1349",
+   "quantity": 12.0,
+   "unit_price": null,
+   "sku": "516729",
+   "kind": "repeat",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "alcohol hand gel 500ml",
+   "customer_ref": "ART-5635",
+   "quantity": 2.0,
+   "unit_price": null,
+   "sku": "565928",
+   "kind": "new",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "clairefontaine spiral pad a5 seyes 180 pages",
+   "customer_ref": "FN-8228",
+   "quantity": 79.0,
+   "unit_price": null,
+   "sku": "688808",
+   "kind": "repeat",
+   "ambiguous": false,
+   "anomaly": null
+  }
+ ],
+ "anomaly": null,
+ "format": "email",
+ "with_prices": false
+}

@@ -1,0 +1,82 @@
+{
+ "sender": "karim@clinique-oliviers.fr",
+ "po_number": "CO000018",
+ "order_date": "2026-09-02",
+ "delivery_date": "2026-09-06",
+ "lines": [
+  {
+   "customer_ref": "FN-6312",
+   "description": "sacs poubelle 100 L transparent, rouleau de 10",
+   "quantity": 4.0,
+   "unit_price": 6.62,
+   "qty_note": null
+  },
+  {
+   "customer_ref": "FN-3925",
+   "description": "EAU MINERALE 1,5L, PACK DE",
+   "quantity": 6.0,
+   "unit_price": 3.77,
+   "qty_note": null
+  },
+  {
+   "customer_ref": "MAT-2318",
+   "description": "bloc spirale Oxford A5 ligne 180 pages",
+   "quantity": 51.0,
+   "unit_price": 3.84,
+   "qty_note": null
+  },
+  {
+   "customer_ref": "MAT-3572",
+   "description": "ganst nitrile non poudres bleu taille L, bte 100",
+   "quantity": 17.0,
+   "unit_price": 7.61,
+   "qty_note": null
+  },
+  {
+   "customer_ref": "ART-5186",
+   "description": "feutre tableau blanche edding 360 rouge, (10)",
+   "quantity": 4.0,
+   "unit_price": 2.54,
+   "qty_note": null
+  }
+ ],
+ "route": "vision",
+ "seconds": 94.21758583400515,
+ "raw": {
+  "po_number": "CO000018",
+  "order_date": "02/09/2026",
+  "delivery_date": "06/09/2026",
+  "lines": [
+   {
+    "customer_ref": "FN-6312",
+    "description": "sacs poubelle 100 L transparent, rouleau de 10",
+    "quantity": "4",
+    "unit_price": "6,62"
+   },
+   {
+    "customer_ref": "FN-3925",
+    "description": "EAU MINERALE 1,5L, PACK DE 6",
+    "quantity": "6",
+    "unit_price": "3,77"
+   },
+   {
+    "customer_ref": "MAT-2318",
+    "description": "bloc spirale Oxford A5 ligne 180 pages",
+    "quantity": "51",
+    "unit_price": "3,84"
+   },
+   {
+    "customer_ref": "MAT-3572",
+    "description": "ganst nitrile non poudres bleu taille L, bte 100",
+    "quantity": "17",
+    "unit_price": "7,61"
+   },
+   {
+    "customer_ref": "ART-5186",
+    "description": "feutre tableau blanche edding 360 rouge, (10)",
+    "quantity": "4",
+    "unit_price": "2,54"
+   }
+  ]
+ }
+}

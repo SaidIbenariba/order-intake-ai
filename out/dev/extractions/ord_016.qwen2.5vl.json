@@ -1,0 +1,65 @@
+{
+ "sender": "youssef@benali-transports.ma",
+ "po_number": "TB-20261585",
+ "order_date": "2026-09-10",
+ "delivery_date": "2026-09-12",
+ "lines": [
+  {
+   "customer_ref": null,
+   "description": "MARQUEUR EFFACABLE EDIDNG 360 ROUGE, X10",
+   "quantity": 1.0,
+   "unit_price": null
+  },
+  {
+   "customer_ref": null,
+   "description": "cahier spirale Clairefontaine A4 grands carreaux 180 pages 54",
+   "quantity": 54.0,
+   "unit_price": null
+  },
+  {
+   "customer_ref": null,
+   "description": "sacs poubelle Raja 100 lires transparent, x10",
+   "quantity": 40.0,
+   "unit_price": null
+  },
+  {
+   "customer_ref": null,
+   "description": "Nettoyant virtes spray 5L",
+   "quantity": 9.0,
+   "unit_price": null
+  }
+ ],
+ "route": "pdf-text",
+ "seconds": 49.02514316700399,
+ "raw": {
+  "po_number": "TB-20261585",
+  "order_date": "10/09/2026",
+  "delivery_date": "12/09/2026",
+  "lines": [
+   {
+    "customer_ref": "",
+    "description": "MARQUEUR EFFACABLE EDIDNG 360 ROUGE, X10",
+    "quantity": "1",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "cahier spirale Clairefontaine A4 grands carreaux 180 pages 54",
+    "quantity": "54",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "sacs poubelle Raja 100 lires transparent, x10",
+    "quantity": "40",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "Nettoyant virtes spray 5L",
+    "quantity": "9",
+    "unit_price": ""
+   }
+  ]
+ }
+}

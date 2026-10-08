@@ -1,0 +1,53 @@
+{
+ "order_id": "ord_009",
+ "customer_id": "C003",
+ "sender": "nadia@atlas-marina-hotel.ma",
+ "po_number": "HAM/2026/188",
+ "order_date": "2026-09-23",
+ "delivery_date": null,
+ "lines": [
+  {
+   "text": "ENVELOPPES DL 110X220MM BLANCHES SANS FENETRE BANDE PROTECTRICE, BTE 500",
+   "customer_ref": null,
+   "quantity": 2.0,
+   "unit_price": null,
+   "sku": "503092",
+   "kind": "repeat",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "classeur levier carton A4 dos 5 cm vert",
+   "customer_ref": null,
+   "quantity": 15.0,
+   "unit_price": null,
+   "sku": "718529",
+   "kind": "new",
+   "ambiguous": true,
+   "anomaly": null
+  },
+  {
+   "text": "Nettoyant sols 5 litres",
+   "customer_ref": null,
+   "quantity": 6.0,
+   "unit_price": null,
+   "sku": "987498",
+   "kind": "repeat",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "gants nitrile non poudres bleu M, bte de 100",
+   "customer_ref": null,
+   "quantity": 6.0,
+   "unit_price": null,
+   "sku": "509871",
+   "kind": "repeat",
+   "ambiguous": false,
+   "anomaly": null
+  }
+ ],
+ "anomaly": null,
+ "format": "email",
+ "with_prices": false
+}

@@ -1,0 +1,43 @@
+{
+ "sender": "nadia@atlas-marina-hotel.ma",
+ "po_number": "HAM/2026/821",
+ "order_date": "2026-09-13",
+ "delivery_date": "2026-09-16",
+ "lines": [
+  {
+   "customer_ref": null,
+   "description": "NETTOYANT VITRES SPRAY 5 LITRES",
+   "quantity": 2.0,
+   "unit_price": 8.97,
+   "qty_note": null
+  },
+  {
+   "customer_ref": null,
+   "description": "post-it 76x76mm jaune, 12 blocs",
+   "quantity": 4.0,
+   "unit_price": 8.06,
+   "qty_note": null
+  }
+ ],
+ "route": "vision",
+ "seconds": 50.744657959003234,
+ "raw": {
+  "po_number": "HAM/2026/821",
+  "order_date": "13/09/2026",
+  "delivery_date": "16/09/2026",
+  "lines": [
+   {
+    "customer_ref": "",
+    "description": "NETTOYANT VITRES SPRAY 5 LITRES",
+    "quantity": "2",
+    "unit_price": "8,97"
+   },
+   {
+    "customer_ref": "",
+    "description": "post-it 76x76mm jaune, 12 blocs",
+    "quantity": "4",
+    "unit_price": "8,06"
+   }
+  ]
+ }
+}

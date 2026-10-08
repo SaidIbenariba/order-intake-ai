@@ -1,0 +1,83 @@
+{
+ "order_id": "ord_007",
+ "customer_id": "C011",
+ "sender": "daniel@kestrel-eng.com",
+ "po_number": "4500008998",
+ "order_date": "2026-09-08",
+ "delivery_date": null,
+ "lines": [
+  {
+   "text": "Esselte lever arch A4 80 mm blu",
+   "customer_ref": "FN-1870",
+   "quantity": 8.0,
+   "unit_price": 3.49,
+   "sku": "393831",
+   "kind": "repeat",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "nitrile gloves non-powdered blu XL, (100)",
+   "customer_ref": "FN-2417",
+   "quantity": 27.0,
+   "unit_price": 7.21,
+   "sku": "491280",
+   "kind": "new",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "notes 76x76mm yellow",
+   "customer_ref": "MAT-4343",
+   "quantity": 3.0,
+   "unit_price": 8.98,
+   "sku": "786862",
+   "kind": "repeat",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "Oxford spiral notebook A4 squared 5x5 180 pages",
+   "customer_ref": "MAT-8113",
+   "quantity": 11.0,
+   "unit_price": 3.46,
+   "sku": "627067",
+   "kind": "repeat",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "SanDisk usb stick 128GB",
+   "customer_ref": "ART-9827",
+   "quantity": 4.0,
+   "unit_price": 9.69,
+   "sku": "965263",
+   "kind": "new",
+   "ambiguous": false,
+   "anomaly": "discontinued"
+  },
+  {
+   "text": "tinted paper a4 80grs pink, 500 sht ream",
+   "customer_ref": "MAT-1172",
+   "quantity": 26.0,
+   "unit_price": 8.27,
+   "sku": "323872",
+   "kind": "new",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "office paper A4 90grs white, ream of 500 sheets",
+   "customer_ref": "MAT-9366",
+   "quantity": 26.0,
+   "unit_price": 5.1,
+   "sku": "573780",
+   "kind": "new",
+   "ambiguous": true,
+   "anomaly": null
+  }
+ ],
+ "anomaly": "discontinued",
+ "format": "pdf",
+ "with_prices": true
+}

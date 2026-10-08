@@ -1,0 +1,95 @@
+{
+ "sender": "emma@brightsidedental.co.uk",
+ "po_number": "PO-2026-09074",
+ "order_date": "2026-10-03",
+ "delivery_date": "2026-10-10",
+ "lines": [
+  {
+   "customer_ref": null,
+   "description": "FN-1716 latex gloves powder-free wht sz S, 100 per box",
+   "quantity": 21.0,
+   "unit_price": null,
+   "qty_note": null
+  },
+  {
+   "customer_ref": null,
+   "description": "FN-9111 S27 stapler, 30 sheets capacity",
+   "quantity": 2.0,
+   "unit_price": null,
+   "qty_note": null
+  },
+  {
+   "customer_ref": "ART-4249",
+   "description": "Energizer batts AA, 4 per pack",
+   "quantity": 3.0,
+   "unit_price": null,
+   "qty_note": null
+  },
+  {
+   "customer_ref": null,
+   "description": "FN-3183 multipurose paper a4 90 grammes white, 500 sheets",
+   "quantity": 39.0,
+   "unit_price": null,
+   "qty_note": null
+  },
+  {
+   "customer_ref": null,
+   "description": "FN-6636 raja trash bags 100 l black, x10",
+   "quantity": 27.0,
+   "unit_price": null,
+   "qty_note": null
+  },
+  {
+   "customer_ref": "MAT-2711",
+   "description": "BIN BAGS 130 L TRANSPARENT, X10",
+   "quantity": 12.0,
+   "unit_price": null,
+   "qty_note": null
+  }
+ ],
+ "route": "email-body",
+ "seconds": 47.79104558400286,
+ "raw": {
+  "po_number": "PO-2026-09074",
+  "order_date": "",
+  "delivery_date": "10/10/2026",
+  "lines": [
+   {
+    "customer_ref": "",
+    "description": "21 FN-1716 latex gloves powder-free wht sz S, 100 per box",
+    "quantity": "21",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "2 FN-9111 S27 stapler, 30 sheets capacity",
+    "quantity": "2",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "ART-4249",
+    "description": "Energizer batts AA, 4 per pack",
+    "quantity": "3",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "39 FN-3183 multipurose paper a4 90 grammes white, 500 sheets",
+    "quantity": "39",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "27 FN-6636 raja trash bags 100 l black, x10",
+    "quantity": "27",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "MAT-2711",
+    "description": "BIN BAGS 130 L TRANSPARENT, X10",
+    "quantity": "12",
+    "unit_price": ""
+   }
+  ]
+ }
+}

@@ -1,0 +1,43 @@
+{
+ "order_id": "ord_028",
+ "customer_id": "C012",
+ "sender": "grace@harbourviewcare.co.uk",
+ "po_number": "HV0676",
+ "order_date": "2026-09-20",
+ "delivery_date": null,
+ "lines": [
+  {
+   "text": "Ref 286309 Bic Cristal Fine ballpoinnt",
+   "customer_ref": null,
+   "quantity": 2.0,
+   "unit_price": null,
+   "sku": "286309",
+   "kind": "sku_code",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "printer paper A3 80gsm wht, ream",
+   "customer_ref": null,
+   "quantity": 510.0,
+   "unit_price": null,
+   "sku": "598873",
+   "kind": "repeat",
+   "ambiguous": true,
+   "anomaly": "qty_outlier"
+  },
+  {
+   "text": "Ref 223695 Glue stick UHU 21g",
+   "customer_ref": null,
+   "quantity": 2.0,
+   "unit_price": null,
+   "sku": "223695",
+   "kind": "sku_code",
+   "ambiguous": false,
+   "anomaly": null
+  }
+ ],
+ "anomaly": "qty_outlier",
+ "format": "email",
+ "with_prices": false
+}

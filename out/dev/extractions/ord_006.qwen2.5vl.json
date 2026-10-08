@@ -1,0 +1,65 @@
+{
+ "sender": "daniel@kestrel-eng.com",
+ "po_number": "4500004296",
+ "order_date": "2026-09-07",
+ "delivery_date": "2026-09-12",
+ "lines": [
+  {
+   "customer_ref": "ART-7743",
+   "description": "wireound notebook A5 lined 100 pages",
+   "quantity": 30.0,
+   "unit_price": 4.02
+  },
+  {
+   "customer_ref": "MAT-6996",
+   "description": "raja refuse sacks 30-litre black, 20 per roll",
+   "quantity": 30.0,
+   "unit_price": 2.19
+  },
+  {
+   "customer_ref": "FN-3166",
+   "description": "wirebound nottebook A4 lined 100 pages",
+   "quantity": 68.0,
+   "unit_price": 1.9
+  },
+  {
+   "customer_ref": "FN-8055",
+   "description": "env C5 162x229mm wht window peel and seal, 500/box",
+   "quantity": 4.0,
+   "unit_price": 15.54
+  }
+ ],
+ "route": "pdf-text",
+ "seconds": 108.64141583400487,
+ "raw": {
+  "po_number": "4500004296",
+  "order_date": "",
+  "delivery_date": "12 Sep 2026",
+  "lines": [
+   {
+    "customer_ref": "ART-7743",
+    "description": "wireound notebook A5 lined 100 pages",
+    "quantity": "30",
+    "unit_price": "4.02"
+   },
+   {
+    "customer_ref": "MAT-6996",
+    "description": "raja refuse sacks 30-litre black, 20 per roll",
+    "quantity": "30",
+    "unit_price": "2.19"
+   },
+   {
+    "customer_ref": "FN-3166",
+    "description": "wirebound nottebook A4 lined 100 pages",
+    "quantity": "68",
+    "unit_price": "1.90"
+   },
+   {
+    "customer_ref": "FN-8055",
+    "description": "env C5 162x229mm wht window peel and seal, 500/box",
+    "quantity": "4",
+    "unit_price": "15.54"
+   }
+  ]
+ }
+}

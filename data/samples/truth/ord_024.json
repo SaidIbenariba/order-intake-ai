@@ -1,0 +1,53 @@
+{
+ "order_id": "ord_024",
+ "customer_id": "C012",
+ "sender": "grace@harbourviewcare.co.uk",
+ "po_number": "HV0667",
+ "order_date": "2026-09-13",
+ "delivery_date": "2026-09-17",
+ "lines": [
+  {
+   "text": "batteries d, pk 2",
+   "customer_ref": null,
+   "quantity": 9.0,
+   "unit_price": null,
+   "sku": "710519",
+   "kind": "repeat",
+   "ambiguous": true,
+   "anomaly": null
+  },
+  {
+   "text": "Ref 687878 Ground coffee Carte Noire 25",
+   "customer_ref": null,
+   "quantity": 16.0,
+   "unit_price": null,
+   "sku": "687878",
+   "kind": "sku_code",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "alkaline batteries AA, pack of 24",
+   "customer_ref": null,
+   "quantity": 4.0,
+   "unit_price": null,
+   "sku": "650483",
+   "kind": "repeat",
+   "ambiguous": true,
+   "anomaly": null
+  },
+  {
+   "text": "printer paper A3 80gsm wht, ream",
+   "customer_ref": null,
+   "quantity": 34.0,
+   "unit_price": null,
+   "sku": "598873",
+   "kind": "repeat",
+   "ambiguous": true,
+   "anomaly": null
+  }
+ ],
+ "anomaly": null,
+ "format": "email",
+ "with_prices": false
+}

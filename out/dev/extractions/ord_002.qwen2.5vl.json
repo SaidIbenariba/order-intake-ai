@@ -1,0 +1,89 @@
+{
+ "sender": "sophie@ecole-tilleuls.fr",
+ "po_number": "ET-263",
+ "order_date": "2026-09-22",
+ "delivery_date": "2026-10-02",
+ "lines": [
+  {
+   "customer_ref": null,
+   "description": "cartouche toner TN-243C cyan",
+   "quantity": 1.0,
+   "unit_price": null
+  },
+  {
+   "customer_ref": null,
+   "description": "LAVETTES MICROFIBRE 40X40CM BLEU, X10",
+   "quantity": 12.0,
+   "unit_price": null
+  },
+  {
+   "customer_ref": null,
+   "description": "toner HP 410 A magenta",
+   "quantity": 4.0,
+   "unit_price": null
+  },
+  {
+   "customer_ref": null,
+   "description": "Trombones 32mm, x100",
+   "quantity": 5.0,
+   "unit_price": null
+  },
+  {
+   "customer_ref": null,
+   "description": "sacs a dechets Raja 110 lt noir, 10 par rouleau",
+   "quantity": 8.0,
+   "unit_price": null
+  },
+  {
+   "customer_ref": null,
+   "description": "ramette reprographique Navigator A3 80grs blanc, 500 ff",
+   "quantity": 33.0,
+   "unit_price": null
+  }
+ ],
+ "route": "vision",
+ "seconds": 94.95705679200182,
+ "raw": {
+  "po_number": "ET-263",
+  "order_date": "",
+  "delivery_date": "02/10/2026",
+  "lines": [
+   {
+    "customer_ref": "",
+    "description": "cartouche toner TN-243C cyan",
+    "quantity": "1",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "LAVETTES MICROFIBRE 40X40CM BLEU, X10",
+    "quantity": "12",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "toner HP 410 A magenta",
+    "quantity": "4",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "Trombones 32mm, x100",
+    "quantity": "5",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "sacs a dechets Raja 110 lt noir, 10 par rouleau",
+    "quantity": "8",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "ramette reprographique Navigator A3 80grs blanc, 500 ff",
+    "quantity": "33",
+    "unit_price": ""
+   }
+  ]
+ }
+}

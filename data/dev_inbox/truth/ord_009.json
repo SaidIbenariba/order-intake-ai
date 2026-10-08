@@ -1,0 +1,63 @@
+{
+ "order_id": "ord_009",
+ "customer_id": "C008",
+ "sender": "james@northgate-academy.org.uk",
+ "po_number": "NGA08375",
+ "order_date": "2026-10-04",
+ "delivery_date": "2026-10-09",
+ "lines": [
+  {
+   "text": "ENV C5 162X229MM WHITE WINDOW SELF-SEAL, 500/BOX",
+   "customer_ref": null,
+   "quantity": 2.0,
+   "unit_price": 18.31,
+   "sku": "320088",
+   "kind": "repeat",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "Paper shredder cross-cut 12 sheets",
+   "customer_ref": null,
+   "quantity": 4.0,
+   "unit_price": 275.27,
+   "sku": null,
+   "kind": "not_in_catalog",
+   "ambiguous": false,
+   "anomaly": "not_in_catalog"
+  },
+  {
+   "text": "Ref 537416 HP85A toner blk",
+   "customer_ref": null,
+   "quantity": 1.0,
+   "unit_price": 87.19,
+   "sku": "537416",
+   "kind": "sku_code",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "Slider Memo XB pen extra broad black, x10",
+   "customer_ref": null,
+   "quantity": 2.0,
+   "unit_price": 5.66,
+   "sku": "562990",
+   "kind": "repeat",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "boss text marker green, (10)",
+   "customer_ref": null,
+   "quantity": 2.0,
+   "unit_price": 3.2,
+   "sku": "266173",
+   "kind": "new",
+   "ambiguous": false,
+   "anomaly": null
+  }
+ ],
+ "anomaly": "not_in_catalog",
+ "format": "pdf",
+ "with_prices": true
+}

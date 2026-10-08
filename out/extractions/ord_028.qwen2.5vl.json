@@ -1,0 +1,56 @@
+{
+ "sender": "luc@pharmacie-centrale.be",
+ "po_number": "PC02825",
+ "order_date": "2026-10-08",
+ "delivery_date": null,
+ "lines": [
+  {
+   "customer_ref": null,
+   "description": "toner laser hp59a noire",
+   "quantity": 3.0,
+   "unit_price": null,
+   "qty_note": null
+  },
+  {
+   "customer_ref": null,
+   "description": "bloc spirale oxford a4 carreaux 5x5 180 pages",
+   "quantity": 24.0,
+   "unit_price": null,
+   "qty_note": null
+  },
+  {
+   "customer_ref": null,
+   "description": "cahier spirales A5 petits carreaux 100 pages",
+   "quantity": 67.0,
+   "unit_price": null,
+   "qty_note": null
+  }
+ ],
+ "route": "email-body",
+ "seconds": 27.496855957986554,
+ "raw": {
+  "po_number": "PC02825",
+  "order_date": "",
+  "delivery_date": "",
+  "lines": [
+   {
+    "customer_ref": "",
+    "description": "toner laser hp59a noire",
+    "quantity": "3",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "bloc spirale oxford a4 carreaux 5x5 180 pages",
+    "quantity": "24",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "cahier spirales A5 petits carreaux 100 pages",
+    "quantity": "67",
+    "unit_price": ""
+   }
+  ]
+ }
+}

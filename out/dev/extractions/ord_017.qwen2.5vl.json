@@ -1,0 +1,77 @@
+{
+ "sender": "james@northgate-academy.org.uk",
+ "po_number": "NGA01412",
+ "order_date": "2026-10-06",
+ "delivery_date": "2026-10-06",
+ "lines": [
+  {
+   "customer_ref": null,
+   "description": "Rapid staples 24/6 galv, (5000)",
+   "quantity": 7.0,
+   "unit_price": null
+  },
+  {
+   "customer_ref": null,
+   "description": "eraser staedtler mars plastic",
+   "quantity": 4.0,
+   "unit_price": null
+  },
+  {
+   "customer_ref": null,
+   "description": "hp 207 a laser toner magenta (w2213a)",
+   "quantity": 2.0,
+   "unit_price": null
+  },
+  {
+   "customer_ref": null,
+   "description": "Brother TN-243M laser toner magenta",
+   "quantity": 2.0,
+   "unit_price": null
+  },
+  {
+   "customer_ref": null,
+   "description": "clairefontaine paper a3 100 g white",
+   "quantity": 8.0,
+   "unit_price": null
+  }
+ ],
+ "route": "pdf-text",
+ "seconds": 48.48007000000507,
+ "raw": {
+  "po_number": "NGA01412",
+  "order_date": "",
+  "delivery_date": "06/10/2026",
+  "lines": [
+   {
+    "customer_ref": "",
+    "description": "Rapid staples 24/6 galv, (5000)",
+    "quantity": "7",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "eraser staedtler mars plastic",
+    "quantity": "4",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "hp 207 a laser toner magenta (w2213a)",
+    "quantity": "2",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "Brother TN-243M laser toner magenta",
+    "quantity": "2",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "clairefontaine paper a3 100 g white",
+    "quantity": "8",
+    "unit_price": ""
+   }
+  ]
+ }
+}

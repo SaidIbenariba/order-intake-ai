@@ -1,0 +1,83 @@
+{
+ "order_id": "ord_005",
+ "customer_id": "C009",
+ "sender": "priya@lumen-architects.co.uk",
+ "po_number": "LA-9185",
+ "order_date": "2026-09-27",
+ "delivery_date": "2026-10-05",
+ "lines": [
+  {
+   "text": "disposable nitrile gloves powder-free blu size m, 100/box",
+   "customer_ref": null,
+   "quantity": 13.0,
+   "unit_price": null,
+   "sku": "509871",
+   "kind": "repeat",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "Leitz arch file A4 80mm yellow",
+   "customer_ref": null,
+   "quantity": 54.0,
+   "unit_price": null,
+   "sku": "146624",
+   "kind": "repeat",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "SACS PRO GARBAGE BAGS 50 L BLU, X20",
+   "customer_ref": null,
+   "quantity": 12.0,
+   "unit_price": null,
+   "sku": "899011",
+   "kind": "repeat",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "Leitz lever arch file A4 80 mm red",
+   "customer_ref": null,
+   "quantity": 32.0,
+   "unit_price": null,
+   "sku": "243241",
+   "kind": "repeat",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "Correction tape Tipp-Ex Mini Pocket 5mmx6m",
+   "customer_ref": null,
+   "quantity": 18.0,
+   "unit_price": null,
+   "sku": "152847",
+   "kind": "repeat",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "Rapid staples 24/6, (1000)",
+   "customer_ref": null,
+   "quantity": 4.0,
+   "unit_price": null,
+   "sku": "574456",
+   "kind": "new",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "bean coffee Qualita Oro 1kg",
+   "customer_ref": null,
+   "quantity": 40.0,
+   "unit_price": null,
+   "sku": "399631",
+   "kind": "repeat",
+   "ambiguous": false,
+   "anomaly": null
+  }
+ ],
+ "anomaly": null,
+ "format": "email",
+ "with_prices": false
+}

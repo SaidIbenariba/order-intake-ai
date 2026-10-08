@@ -1,0 +1,82 @@
+{
+ "sender": "sophie@ecole-tilleuls.fr",
+ "po_number": "ET-050",
+ "order_date": "2026-10-01",
+ "delivery_date": "2026-10-06",
+ "lines": [
+  {
+   "customer_ref": null,
+   "description": "CRG-054M toner laser Canon 054 magenta",
+   "quantity": 3.0,
+   "unit_price": null,
+   "qty_note": null
+  },
+  {
+   "customer_ref": null,
+   "description": "cartouche hp 410a noir",
+   "quantity": 1.0,
+   "unit_price": null,
+   "qty_note": null
+  },
+  {
+   "customer_ref": null,
+   "description": "enveloppes courrier c4 229x324mm blanches sans fenetre auto-adhesive, (250)",
+   "quantity": 5.0,
+   "unit_price": null,
+   "qty_note": null
+  },
+  {
+   "customer_ref": null,
+   "description": "cartouche toner TN-2420 noir",
+   "quantity": 4.0,
+   "unit_price": null,
+   "qty_note": null
+  },
+  {
+   "customer_ref": null,
+   "description": "sacs a dechets Sacs Pro 30 lt noire, 20 par rouleau",
+   "quantity": 12.0,
+   "unit_price": null,
+   "qty_note": null
+  }
+ ],
+ "route": "vision",
+ "seconds": 93.21103054199193,
+ "raw": {
+  "po_number": "ET-050",
+  "order_date": "01/10/2026",
+  "delivery_date": "06/10/2026",
+  "lines": [
+   {
+    "customer_ref": "",
+    "description": "CRG-054M toner laser Canon 054 magenta",
+    "quantity": "3",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "cartouche hp 410a noir",
+    "quantity": "1",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "enveloppes courrier c4 229x324mm blanches sans fenetre auto-adhesive, (250)",
+    "quantity": "5",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "cartouche toner TN-2420 noir",
+    "quantity": "4",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "sacs a dechets Sacs Pro 30 lt noire, 20 par rouleau",
+    "quantity": "12",
+    "unit_price": ""
+   }
+  ]
+ }
+}

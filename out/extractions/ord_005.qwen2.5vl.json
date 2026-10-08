@@ -1,0 +1,108 @@
+{
+ "sender": "priya@lumen-architects.co.uk",
+ "po_number": "LA-9185",
+ "order_date": "2026-09-27",
+ "delivery_date": "2026-10-05",
+ "lines": [
+  {
+   "customer_ref": null,
+   "description": "disposable nitrile gloves powder-free blu size m, 100/box",
+   "quantity": 13.0,
+   "unit_price": null,
+   "qty_note": null
+  },
+  {
+   "customer_ref": null,
+   "description": "Leitz arch file A4 80mm yellow",
+   "quantity": 54.0,
+   "unit_price": null,
+   "qty_note": null
+  },
+  {
+   "customer_ref": null,
+   "description": "SACS PRO GARBAGE BAGS 50 L BLU, X20",
+   "quantity": 12.0,
+   "unit_price": null,
+   "qty_note": null
+  },
+  {
+   "customer_ref": null,
+   "description": "Leitz lever arch file A4 80 mm red",
+   "quantity": 32.0,
+   "unit_price": null,
+   "qty_note": null
+  },
+  {
+   "customer_ref": null,
+   "description": "Correction tape Tipp-Ex Mini Pocket 5mmx6m",
+   "quantity": 18.0,
+   "unit_price": null,
+   "qty_note": null
+  },
+  {
+   "customer_ref": null,
+   "description": "Rapid staples 24/6, (1000)",
+   "quantity": 4.0,
+   "unit_price": null,
+   "qty_note": null
+  },
+  {
+   "customer_ref": null,
+   "description": "bean coffee Qualita Oro 1kg",
+   "quantity": 40.0,
+   "unit_price": null,
+   "qty_note": null
+  }
+ ],
+ "route": "email-body",
+ "seconds": 35.496445208002115,
+ "raw": {
+  "po_number": "LA-9185",
+  "order_date": "",
+  "delivery_date": "5 Oct 2026",
+  "lines": [
+   {
+    "customer_ref": "",
+    "description": "disposable nitrile gloves powder-free blu size m, 100/box",
+    "quantity": "13",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "Leitz arch file A4 80mm yellow",
+    "quantity": "54",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "SACS PRO GARBAGE BAGS 50 L BLU, X20",
+    "quantity": "12",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "Leitz lever arch file A4 80 mm red",
+    "quantity": "32",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "Correction tape Tipp-Ex Mini Pocket 5mmx6m",
+    "quantity": "18",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "Rapid staples 24/6, (1000)",
+    "quantity": "4",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "bean coffee Qualita Oro 1kg",
+    "quantity": "40",
+    "unit_price": ""
+   }
+  ]
+ }
+}

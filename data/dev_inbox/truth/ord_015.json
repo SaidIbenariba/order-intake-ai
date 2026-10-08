@@ -1,0 +1,93 @@
+{
+ "order_id": "ord_015",
+ "customer_id": "C005",
+ "sender": "youssef@benali-transports.ma",
+ "po_number": "TB-20268187",
+ "order_date": "2026-10-01",
+ "delivery_date": "2026-10-03",
+ "lines": [
+  {
+   "text": "pilse alcalines AA, x24",
+   "customer_ref": null,
+   "quantity": 4.0,
+   "unit_price": null,
+   "sku": "650483",
+   "kind": "repeat",
+   "ambiguous": true,
+   "anomaly": null
+  },
+  {
+   "text": "enveloppes courrier dl 110x220mm blanches sans fenetre bande detachable, (500)",
+   "customer_ref": null,
+   "quantity": 2.0,
+   "unit_price": null,
+   "sku": "503092",
+   "kind": "new",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "toner Brother TN-2410 noir",
+   "customer_ref": null,
+   "quantity": 8.0,
+   "unit_price": null,
+   "sku": "131236",
+   "kind": "repeat",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "nettyoant vitres spray 750ml",
+   "customer_ref": null,
+   "quantity": 5.0,
+   "unit_price": null,
+   "sku": "203231",
+   "kind": "repeat",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "sacs poubelle Raja 100 lires transparent, x10",
+   "customer_ref": null,
+   "quantity": 20.0,
+   "unit_price": null,
+   "sku": "818499",
+   "kind": "repeat",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "sac poubelle 130l noir, x10",
+   "customer_ref": null,
+   "quantity": 22.0,
+   "unit_price": null,
+   "sku": "805626",
+   "kind": "repeat",
+   "ambiguous": true,
+   "anomaly": null
+  },
+  {
+   "text": "Nettoyant virtes spray 5L",
+   "customer_ref": null,
+   "quantity": 4.0,
+   "unit_price": null,
+   "sku": "457404",
+   "kind": "repeat",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "post-it 76x76mm bleu, paquet de 12",
+   "customer_ref": null,
+   "quantity": 6.0,
+   "unit_price": null,
+   "sku": "963856",
+   "kind": "new",
+   "ambiguous": false,
+   "anomaly": null
+  }
+ ],
+ "anomaly": null,
+ "format": "email",
+ "with_prices": false
+}

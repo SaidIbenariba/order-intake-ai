@@ -1,0 +1,77 @@
+{
+ "sender": "daniel@kestrel-eng.com",
+ "po_number": "4500002112",
+ "order_date": "2026-09-18",
+ "delivery_date": "2026-09-25",
+ "lines": [
+  {
+   "customer_ref": "FN-8055",
+   "description": "env C5 162x229mm wht window peel and seal, 500/box",
+   "quantity": 6.0,
+   "unit_price": 15.54
+  },
+  {
+   "customer_ref": "FN-9823",
+   "description": "toilet tissue 2-ply, 48 per pack rolls",
+   "quantity": 3.0,
+   "unit_price": 18.48
+  },
+  {
+   "customer_ref": "FN-1870",
+   "description": "Esselte lever arch A4 80 mm blu",
+   "quantity": 2.0,
+   "unit_price": 3.49
+  },
+  {
+   "customer_ref": "ART-8908",
+   "description": "spiral notebook A5 seyes 180 pages",
+   "quantity": 66.0,
+   "unit_price": 2.58
+  },
+  {
+   "customer_ref": "FN-5722",
+   "description": "MAILING ENVELOPES DL 110X220MM WHITE NON WIDNOW STRIP SEAL, (500)",
+   "quantity": 4.0,
+   "unit_price": 32.35
+  }
+ ],
+ "route": "pdf-text",
+ "seconds": 59.425453999996535,
+ "raw": {
+  "po_number": "4500002112",
+  "order_date": "18 Sep 2026",
+  "delivery_date": "25 Sep 2026",
+  "lines": [
+   {
+    "customer_ref": "FN-8055",
+    "description": "env C5 162x229mm wht window peel and seal, 500/box",
+    "quantity": "6",
+    "unit_price": "15.54"
+   },
+   {
+    "customer_ref": "FN-9823",
+    "description": "toilet tissue 2-ply, 48 per pack rolls",
+    "quantity": "3",
+    "unit_price": "18.48"
+   },
+   {
+    "customer_ref": "FN-1870",
+    "description": "Esselte lever arch A4 80 mm blu",
+    "quantity": "2",
+    "unit_price": "3.49"
+   },
+   {
+    "customer_ref": "ART-8908",
+    "description": "spiral notebook A5 seyes 180 pages",
+    "quantity": "66",
+    "unit_price": "2.58"
+   },
+   {
+    "customer_ref": "FN-5722",
+    "description": "MAILING ENVELOPES DL 110X220MM WHITE NON WIDNOW STRIP SEAL, (500)",
+    "quantity": "4",
+    "unit_price": "32.35"
+   }
+  ]
+ }
+}

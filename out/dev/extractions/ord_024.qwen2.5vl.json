@@ -1,0 +1,113 @@
+{
+ "sender": "sean@riverside-cowork.ie",
+ "po_number": "RC-2026-608",
+ "order_date": "2026-09-17",
+ "delivery_date": "2026-09-23",
+ "lines": [
+  {
+   "customer_ref": null,
+   "description": "all purpose cleaner 5-litre",
+   "quantity": 8.0,
+   "unit_price": null
+  },
+  {
+   "customer_ref": null,
+   "description": "latex gloves non-powdered white sz S, 100 per box",
+   "quantity": 5.0,
+   "unit_price": null
+  },
+  {
+   "customer_ref": "TN-2420",
+   "description": "laser toner black",
+   "quantity": 2.0,
+   "unit_price": null
+  },
+  {
+   "customer_ref": null,
+   "description": "sacs pro bin bags 130l transparent, 10/roll",
+   "quantity": 14.0,
+   "unit_price": null
+  },
+  {
+   "customer_ref": null,
+   "description": "scissors 21cm stainless steel",
+   "quantity": 4.0,
+   "unit_price": null
+  },
+  {
+   "customer_ref": null,
+   "description": "self-stick notes 76x127mm pink, 12/pack",
+   "quantity": 5.0,
+   "unit_price": null
+  },
+  {
+   "customer_ref": "AVERY L7160",
+   "description": "STICKY LABELS 63.5X38.1MM, 21 PER SHEET, 100 SHEETS",
+   "quantity": 2.0,
+   "unit_price": null
+  },
+  {
+   "customer_ref": "Avery L7651",
+   "description": "labels 38.1x21.2mm, 65 per sheet, 100 sheets",
+   "quantity": 1.0,
+   "unit_price": null
+  }
+ ],
+ "route": "email-body",
+ "seconds": 71.4089764579985,
+ "raw": {
+  "po_number": "RC-2026-608",
+  "order_date": "",
+  "delivery_date": "23 Sep 2026",
+  "lines": [
+   {
+    "customer_ref": "",
+    "description": "all purpose cleaner 5-litre",
+    "quantity": "8",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "latex gloves non-powdered white sz S, 100 per box",
+    "quantity": "5",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "TN-2420",
+    "description": "laser toner black",
+    "quantity": "2",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "sacs pro bin bags 130l transparent, 10/roll",
+    "quantity": "14",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "scissors 21cm stainless steel",
+    "quantity": "4",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "self-stick notes 76x127mm pink, 12/pack",
+    "quantity": "5",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "AVERY L7160",
+    "description": "STICKY LABELS 63.5X38.1MM, 21 PER SHEET, 100 SHEETS",
+    "quantity": "2",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "Avery L7651",
+    "description": "labels 38.1x21.2mm, 65 per sheet, 100 sheets",
+    "quantity": "1",
+    "unit_price": ""
+   }
+  ]
+ }
+}

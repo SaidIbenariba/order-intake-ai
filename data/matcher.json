@@ -1,0 +1,8 @@
+{
+ "tau": 0.4,
+ "margin": 0.09,
+ "tuned_on": "dev seed 1",
+ "hybrid_lines": 624,
+ "hybrid_auto": 466,
+ "hybrid_wrong": 0
+}

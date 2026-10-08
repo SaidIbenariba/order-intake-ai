@@ -1,0 +1,101 @@
+{
+ "sender": "luc@pharmacie-centrale.be",
+ "po_number": "PC00173",
+ "order_date": "2026-09-25",
+ "delivery_date": null,
+ "lines": [
+  {
+   "customer_ref": null,
+   "description": "6 cle usb 3.0 kingston 16 go",
+   "quantity": 6.0,
+   "unit_price": null
+  },
+  {
+   "customer_ref": null,
+   "description": "2 marqueur tableau blanches edding 360 bleue, 10 par boite",
+   "quantity": 2.0,
+   "unit_price": null
+  },
+  {
+   "customer_ref": null,
+   "description": "2 cle usb 64 go",
+   "quantity": 2.0,
+   "unit_price": null
+  },
+  {
+   "customer_ref": null,
+   "description": "13 ramette reproographique A3 90 g/m2 blanche",
+   "quantity": 13.0,
+   "unit_price": null
+  },
+  {
+   "customer_ref": null,
+   "description": "40 sac poubelle 50 lt noire, 20 par rouleau",
+   "quantity": 40.0,
+   "unit_price": null
+  },
+  {
+   "customer_ref": null,
+   "description": "32 sac poubelle 100-litre noire, 10 par rouleau",
+   "quantity": 32.0,
+   "unit_price": null
+  },
+  {
+   "customer_ref": null,
+   "description": "10 stylo retractable BPS-GP rouge, boite de 12",
+   "quantity": 10.0,
+   "unit_price": null
+  }
+ ],
+ "route": "email-body",
+ "seconds": 63.62616404201253,
+ "raw": {
+  "po_number": "PC00173",
+  "order_date": "",
+  "delivery_date": "",
+  "lines": [
+   {
+    "customer_ref": "",
+    "description": "6 cle usb 3.0 kingston 16 go",
+    "quantity": "6",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "2 marqueur tableau blanches edding 360 bleue, 10 par boite",
+    "quantity": "2",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "2 cle usb 64 go",
+    "quantity": "2",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "13 ramette reproographique A3 90 g/m2 blanche",
+    "quantity": "13",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "40 sac poubelle 50 lt noire, 20 par rouleau",
+    "quantity": "40",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "32 sac poubelle 100-litre noire, 10 par rouleau",
+    "quantity": "32",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "10 stylo retractable BPS-GP rouge, boite de 12",
+    "quantity": "10",
+    "unit_price": ""
+   }
+  ]
+ }
+}

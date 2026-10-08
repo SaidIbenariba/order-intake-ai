@@ -1,0 +1,69 @@
+{
+ "sender": "sean@riverside-cowork.ie",
+ "po_number": "RC-2026-556",
+ "order_date": "2026-09-29",
+ "delivery_date": "2026-10-07",
+ "lines": [
+  {
+   "customer_ref": null,
+   "description": "micro fibre wipes 40x40cm green, pack of",
+   "quantity": 10.0,
+   "unit_price": null,
+   "qty_note": null
+  },
+  {
+   "customer_ref": null,
+   "description": "trash bags 30 L white, x20",
+   "quantity": 11.0,
+   "unit_price": null,
+   "qty_note": null
+  },
+  {
+   "customer_ref": null,
+   "description": "paper a3 80g white, ream of 500 sheets",
+   "quantity": 48.0,
+   "unit_price": null,
+   "qty_note": null
+  },
+  {
+   "customer_ref": null,
+   "description": "Pencil HB Staedtler Noris, x12",
+   "quantity": 7.0,
+   "unit_price": null,
+   "qty_note": null
+  }
+ ],
+ "route": "vision",
+ "seconds": 88.05653524999798,
+ "raw": {
+  "po_number": "RC-2026-556",
+  "order_date": "29/09/2026",
+  "delivery_date": "7 Oct 2026",
+  "lines": [
+   {
+    "customer_ref": "",
+    "description": "micro fibre wipes 40x40cm green, pack of 10",
+    "quantity": "10",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "trash bags 30 L white, x20",
+    "quantity": "11",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "paper a3 80g white, ream of 500 sheets",
+    "quantity": "48",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "Pencil HB Staedtler Noris, x12",
+    "quantity": "7",
+    "unit_price": ""
+   }
+  ]
+ }
+}

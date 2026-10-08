@@ -1,0 +1,56 @@
+{
+ "sender": "sean@riverside-cowork.ie",
+ "po_number": "RC-2026-840",
+ "order_date": "2026-09-22",
+ "delivery_date": null,
+ "lines": [
+  {
+   "customer_ref": null,
+   "description": "disposable vinyl gloves pf transparent m, bx 100 :",
+   "quantity": 8.0,
+   "unit_price": null,
+   "qty_note": null
+  },
+  {
+   "customer_ref": null,
+   "description": "TN-2420 Brother TN-2420 laser toner black :",
+   "quantity": 3.0,
+   "unit_price": null,
+   "qty_note": null
+  },
+  {
+   "customer_ref": null,
+   "description": "paper a3 80g white, ream of 500 sheeets :",
+   "quantity": 48.0,
+   "unit_price": null,
+   "qty_note": null
+  }
+ ],
+ "route": "email-body",
+ "seconds": 27.73109674999432,
+ "raw": {
+  "po_number": "RC-2026-840",
+  "order_date": "",
+  "delivery_date": "",
+  "lines": [
+   {
+    "customer_ref": "",
+    "description": "disposable vinyl gloves pf transparent m, bx 100 : 8",
+    "quantity": "8",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "TN-2420 Brother TN-2420 laser toner black : 3",
+    "quantity": "3",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "paper a3 80g white, ream of 500 sheeets : 48",
+    "quantity": "48",
+    "unit_price": ""
+   }
+  ]
+ }
+}

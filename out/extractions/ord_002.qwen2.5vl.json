@@ -1,0 +1,69 @@
+{
+ "sender": "grace@harbourviewcare.co.uk",
+ "po_number": "HV8989",
+ "order_date": "2026-10-06",
+ "delivery_date": "2026-10-13",
+ "lines": [
+  {
+   "customer_ref": null,
+   "description": "disposable vinyl gloves PF transparent S, box of 100",
+   "quantity": 11.0,
+   "unit_price": null,
+   "qty_note": null
+  },
+  {
+   "customer_ref": null,
+   "description": "brother tn-2410 toner cartridge black",
+   "quantity": 3.0,
+   "unit_price": null,
+   "qty_note": null
+  },
+  {
+   "customer_ref": null,
+   "description": "SanDisk usb key 128GB",
+   "quantity": 2.0,
+   "unit_price": null,
+   "qty_note": null
+  },
+  {
+   "customer_ref": null,
+   "description": "Rapid staples 23/13, box of 1000",
+   "quantity": 6.0,
+   "unit_price": null,
+   "qty_note": null
+  }
+ ],
+ "route": "email-body",
+ "seconds": 20.944337166991318,
+ "raw": {
+  "po_number": "HV8989",
+  "order_date": "",
+  "delivery_date": "13 Oct 2026",
+  "lines": [
+   {
+    "customer_ref": "",
+    "description": "11 disposable vinyl gloves PF transparent S, box of 100",
+    "quantity": "11",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "3 brother tn-2410 toner cartridge black",
+    "quantity": "3",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "2 SanDisk usb key 128GB",
+    "quantity": "2",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "6 Rapid staples 23/13, box of 1000",
+    "quantity": "6",
+    "unit_price": ""
+   }
+  ]
+ }
+}

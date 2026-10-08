@@ -1,0 +1,89 @@
+{
+ "sender": "grace@harbourviewcare.co.uk",
+ "po_number": "HV5788",
+ "order_date": "2026-09-14",
+ "delivery_date": "2026-09-16",
+ "lines": [
+  {
+   "customer_ref": null,
+   "description": "printer paper A3 80gsm wht, ream",
+   "quantity": 34.0,
+   "unit_price": 8.22
+  },
+  {
+   "customer_ref": null,
+   "description": "TN-243BK toner cartridge blk",
+   "quantity": 3.0,
+   "unit_price": 54.35
+  },
+  {
+   "customer_ref": null,
+   "description": "Mineral water 1.5 lt, 6-pack",
+   "quantity": 2.0,
+   "unit_price": 3.89
+  },
+  {
+   "customer_ref": null,
+   "description": "Logitech M185 mouse grey",
+   "quantity": 5.0,
+   "unit_price": 12.9
+  },
+  {
+   "customer_ref": null,
+   "description": "S27 stapler, 30 sheets capacity",
+   "quantity": 12.0,
+   "unit_price": 46.09
+  },
+  {
+   "customer_ref": "537416",
+   "description": "hp85a laser toner black",
+   "quantity": 1.0,
+   "unit_price": 87.19
+  }
+ ],
+ "route": "pdf-text",
+ "seconds": 62.156437124998774,
+ "raw": {
+  "po_number": "HV5788",
+  "order_date": "14/09/2026",
+  "delivery_date": "16/09/2026",
+  "lines": [
+   {
+    "customer_ref": "",
+    "description": "printer paper A3 80gsm wht, ream",
+    "quantity": "34",
+    "unit_price": "8.22"
+   },
+   {
+    "customer_ref": "",
+    "description": "TN-243BK toner cartridge blk",
+    "quantity": "3",
+    "unit_price": "54.35"
+   },
+   {
+    "customer_ref": "",
+    "description": "Mineral water 1.5 lt, 6-pack",
+    "quantity": "2",
+    "unit_price": "3.89"
+   },
+   {
+    "customer_ref": "",
+    "description": "Logitech M185 mouse grey",
+    "quantity": "5",
+    "unit_price": "12.90"
+   },
+   {
+    "customer_ref": "",
+    "description": "S27 stapler, 30 sheets capacity",
+    "quantity": "12",
+    "unit_price": "46.09"
+   },
+   {
+    "customer_ref": "537416",
+    "description": "hp85a laser toner black",
+    "quantity": "1",
+    "unit_price": "87.19"
+   }
+  ]
+ }
+}

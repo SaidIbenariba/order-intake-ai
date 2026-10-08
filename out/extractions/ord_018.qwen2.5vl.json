@@ -1,0 +1,56 @@
+{
+ "sender": "sean@riverside-cowork.ie",
+ "po_number": "RC-2026-747",
+ "order_date": "2026-09-22",
+ "delivery_date": "2026-09-27",
+ "lines": [
+  {
+   "customer_ref": null,
+   "description": "sticky notes 38x51mm yellow, 12/pack",
+   "quantity": 5.0,
+   "unit_price": null,
+   "qty_note": null
+  },
+  {
+   "customer_ref": null,
+   "description": "Canon 054 toner black",
+   "quantity": 3.0,
+   "unit_price": null,
+   "qty_note": null
+  },
+  {
+   "customer_ref": null,
+   "description": "sacs pro bin bags 130l transparent, 10/roll",
+   "quantity": 270.0,
+   "unit_price": null,
+   "qty_note": null
+  }
+ ],
+ "route": "email-body",
+ "seconds": 29.48065158299869,
+ "raw": {
+  "po_number": "RC-2026-747",
+  "order_date": "",
+  "delivery_date": "27 Sep 2026",
+  "lines": [
+   {
+    "customer_ref": "",
+    "description": "5 sticky notes 38x51mm yellow, 12/pack",
+    "quantity": "5",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "3 Canon 054 toner black",
+    "quantity": "3",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "270 sacs pro bin bags 130l transparent, 10/roll",
+    "quantity": "270",
+    "unit_price": ""
+   }
+  ]
+ }
+}

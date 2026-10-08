@@ -1,0 +1,73 @@
+{
+ "order_id": "ord_014",
+ "customer_id": "C007",
+ "sender": "emma@brightsidedental.co.uk",
+ "po_number": "PO-2026-09074",
+ "order_date": "2026-10-03",
+ "delivery_date": "2026-10-10",
+ "lines": [
+  {
+   "text": "latex gloves powder-free wht sz S, 100 per box",
+   "customer_ref": "FN-1716",
+   "quantity": 21.0,
+   "unit_price": null,
+   "sku": "930838",
+   "kind": "new",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "S27 stapler, 30 sheets capacity",
+   "customer_ref": "FN-9111",
+   "quantity": 2.0,
+   "unit_price": null,
+   "sku": "149222",
+   "kind": "repeat",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "Energizer batts AA, 4 per pack",
+   "customer_ref": "ART-4249",
+   "quantity": 3.0,
+   "unit_price": null,
+   "sku": "616986",
+   "kind": "new",
+   "ambiguous": false,
+   "anomaly": "discontinued"
+  },
+  {
+   "text": "multipurose paper a4 90 grammes white, 500 sheets",
+   "customer_ref": "FN-3183",
+   "quantity": 39.0,
+   "unit_price": null,
+   "sku": "353695",
+   "kind": "new",
+   "ambiguous": true,
+   "anomaly": null
+  },
+  {
+   "text": "raja trash bags 100 l black, x10",
+   "customer_ref": "FN-6636",
+   "quantity": 27.0,
+   "unit_price": null,
+   "sku": "232124",
+   "kind": "repeat",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "BIN BAGS 130 L TRANSPARENT, X10",
+   "customer_ref": "MAT-2711",
+   "quantity": 12.0,
+   "unit_price": null,
+   "sku": "838943",
+   "kind": "repeat",
+   "ambiguous": true,
+   "anomaly": null
+  }
+ ],
+ "anomaly": "discontinued",
+ "format": "email",
+ "with_prices": false
+}

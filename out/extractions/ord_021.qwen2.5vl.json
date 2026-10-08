@@ -1,0 +1,95 @@
+{
+ "sender": "nadia@atlas-marina-hotel.ma",
+ "po_number": "HAM/2026/617",
+ "order_date": "2026-09-04",
+ "delivery_date": null,
+ "lines": [
+  {
+   "customer_ref": null,
+   "description": "gants nitrile non poudres bleu M, bte de 100",
+   "quantity": 24.0,
+   "unit_price": null,
+   "qty_note": null
+  },
+  {
+   "customer_ref": null,
+   "description": "NETTOYANT VITRES SPRAY 5 LITRES",
+   "quantity": 4.0,
+   "unit_price": null,
+   "qty_note": null
+  },
+  {
+   "customer_ref": null,
+   "description": "SACS ORDURES SACS PRO 130 LT TRANSPARENT, 10 PAR ROULEAU",
+   "quantity": 33.0,
+   "unit_price": null,
+   "qty_note": null
+  },
+  {
+   "customer_ref": null,
+   "description": "ENVELOPPES C4 229X324MM BLANCHES AVEC FENETRE BANDE PROTECTRICE, X250",
+   "quantity": 2.0,
+   "unit_price": null,
+   "qty_note": null
+  },
+  {
+   "customer_ref": null,
+   "description": "papier photocopie clairefontaine a4 100 gramems blanches",
+   "quantity": 26.0,
+   "unit_price": null,
+   "qty_note": null
+  },
+  {
+   "customer_ref": null,
+   "description": "stylo a bille fine cristal fine noirs, (50)",
+   "quantity": 4.0,
+   "unit_price": null,
+   "qty_note": null
+  }
+ ],
+ "route": "email-body",
+ "seconds": 56.00965612499567,
+ "raw": {
+  "po_number": "HAM/2026/617",
+  "order_date": "",
+  "delivery_date": "",
+  "lines": [
+   {
+    "customer_ref": "",
+    "description": "24 gants nitrile non poudres bleu M, bte de 100",
+    "quantity": "24",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "4 NETTOYANT VITRES SPRAY 5 LITRES",
+    "quantity": "4",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "33 SACS ORDURES SACS PRO 130 LT TRANSPARENT, 10 PAR ROULEAU",
+    "quantity": "33",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "2 ENVELOPPES C4 229X324MM BLANCHES AVEC FENETRE BANDE PROTECTRICE, X250",
+    "quantity": "2",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "26 papier photocopie clairefontaine a4 100 gramems blanches",
+    "quantity": "26",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "4 stylo a bille fine cristal fine noirs, (50)",
+    "quantity": "4",
+    "unit_price": ""
+   }
+  ]
+ }
+}

@@ -1,0 +1,4886 @@
+{
+ "model": "qwen2.5vl",
+ "memory": true,
+ "tau": 0.4,
+ "margin": 0.09,
+ "orders": [
+  {
+   "file": "ord_001.eml",
+   "sender": "sean@riverside-cowork.ie",
+   "customer_id": "C010",
+   "customer_name": "Riverside Coworking",
+   "po_number": "RC-2026-556",
+   "order_date": "2026-10-01",
+   "delivery_date": "2026-10-03",
+   "route": "email-body",
+   "seconds": 42.5,
+   "status": "APPROVED",
+   "issues": [],
+   "lines": [
+    {
+     "line_no": 1,
+     "customer_ref": null,
+     "description": "Stabilo Boss text marker pink, 10 per box",
+     "quantity": 4.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "hybrid",
+      "sku": "306139",
+      "name": "Stabilo Boss Original highlighter pink, box of 10",
+      "unit": "box of 10",
+      "score": 0.831,
+      "margin": 0.516,
+      "reason": "clear best match",
+      "candidates": [
+       {
+        "sku": "306139",
+        "name": "Stabilo Boss Original highlighter pink, box of 10",
+        "score": 0.8305
+       },
+       {
+        "sku": "537228",
+        "name": "Pencil HB Staedtler Noris, box of 12",
+        "score": 0.3144
+       },
+       {
+        "sku": "710005",
+        "name": "Tea bags Lipton Yellow Label, box of 100",
+        "score": 0.2889
+       }
+      ]
+     },
+     "price": 4.58,
+     "issues": []
+    },
+    {
+     "line_no": 2,
+     "customer_ref": null,
+     "description": "blach 2.6% 5 lt",
+     "quantity": 4.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "hybrid",
+      "sku": "304940",
+      "name": "Bleach 2.6% 5L",
+      "unit": "each",
+      "score": 0.771,
+      "margin": 0.255,
+      "reason": "clear best match",
+      "candidates": [
+       {
+        "sku": "304940",
+        "name": "Bleach 2.6% 5L",
+        "score": 0.7712
+       },
+       {
+        "sku": "225420",
+        "name": "Dishwashing liquid 5L",
+        "score": 0.516
+       },
+       {
+        "sku": "987498",
+        "name": "Floor cleaner 5L",
+        "score": 0.5053
+       }
+      ]
+     },
+     "price": 10.16,
+     "issues": []
+    }
+   ]
+  },
+  {
+   "file": "ord_002.eml",
+   "sender": "grace@harbourviewcare.co.uk",
+   "customer_id": "C012",
+   "customer_name": "Harbour View Care Home",
+   "po_number": "HV8989",
+   "order_date": "2026-10-06",
+   "delivery_date": "2026-10-13",
+   "route": "email-body",
+   "seconds": 20.9,
+   "status": "REVIEW",
+   "issues": [],
+   "lines": [
+    {
+     "line_no": 1,
+     "customer_ref": null,
+     "description": "disposable vinyl gloves PF transparent S, box of 100",
+     "quantity": 11.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "memory",
+      "sku": "943916",
+      "name": "Disposable vinyl gloves powder-free transparent size S, box of 100",
+      "unit": "box of 100",
+      "score": 1.0,
+      "margin": 1.0,
+      "reason": "same wording confirmed for this customer before",
+      "candidates": [
+       {
+        "sku": "943916",
+        "name": "Disposable vinyl gloves powder-free transparent size S, box of 100",
+        "score": 1.0
+       }
+      ]
+     },
+     "price": 8.64,
+     "issues": []
+    },
+    {
+     "line_no": 2,
+     "customer_ref": null,
+     "description": "brother tn-2410 toner cartridge black",
+     "quantity": 3.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "code",
+      "sku": "131236",
+      "name": "Brother TN-2410 original toner cartridge black",
+      "unit": "each",
+      "score": 1.0,
+      "margin": 1.0,
+      "reason": "product code in the line",
+      "candidates": [
+       {
+        "sku": "131236",
+        "name": "Brother TN-2410 original toner cartridge black",
+        "score": 1.0
+       }
+      ]
+     },
+     "price": 52.37,
+     "issues": []
+    },
+    {
+     "line_no": 3,
+     "customer_ref": null,
+     "description": "SanDisk usb key 128GB",
+     "quantity": 2.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "hybrid",
+      "sku": "965263",
+      "name": "SanDisk USB 3.0 flash drive 128GB",
+      "unit": "each",
+      "score": 0.813,
+      "margin": 0.542,
+      "reason": "clear best match",
+      "candidates": [
+       {
+        "sku": "965263",
+        "name": "SanDisk USB 3.0 flash drive 128GB",
+        "score": 0.8132
+       },
+       {
+        "sku": "223695",
+        "name": "Glue stick UHU 21g",
+        "score": 0.2708
+       },
+       {
+        "sku": "480949",
+        "name": "Rubber bands assorted 100g",
+        "score": 0.2498
+       }
+      ]
+     },
+     "price": 10.23,
+     "issues": [
+      {
+       "code": "discontinued",
+       "message": "Discontinued. Proposed replacement: 715141 Kingston USB 3.0 flash drive 128GB"
+      }
+     ]
+    },
+    {
+     "line_no": 4,
+     "customer_ref": null,
+     "description": "Rapid staples 23/13, box of 1000",
+     "quantity": 6.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "hybrid",
+      "sku": "125927",
+      "name": "Rapid staples 23/13 galvanised, box of 1000",
+      "unit": "box of 1000",
+      "score": 0.94,
+      "margin": 0.53,
+      "reason": "clear best match",
+      "candidates": [
+       {
+        "sku": "125927",
+        "name": "Rapid staples 23/13 galvanised, box of 1000",
+        "score": 0.9401
+       },
+       {
+        "sku": "430452",
+        "name": "Wooden stirrers 14cm, box of 1000",
+        "score": 0.4105
+       },
+       {
+        "sku": "114693",
+        "name": "Paper cups 20cl white, case of 1000",
+        "score": 0.4086
+       }
+      ]
+     },
+     "price": 1.64,
+     "issues": []
+    }
+   ]
+  },
+  {
+   "file": "ord_003.eml",
+   "sender": "luc@pharmacie-centrale.be",
+   "customer_id": "C006",
+   "customer_name": "Pharmacie Centrale",
+   "po_number": "PC06132",
+   "order_date": "2026-10-01",
+   "delivery_date": "2026-10-05",
+   "route": "email-body",
+   "seconds": 21.5,
+   "status": "APPROVED",
+   "issues": [],
+   "lines": [
+    {
+     "line_no": 1,
+     "customer_ref": null,
+     "description": "cahier spirales A5 petits carreaux 100 pages",
+     "quantity": 67.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "memory",
+      "sku": "707074",
+      "name": "Clairefontaine spiral notebook A5 squared 5x5 100 pages",
+      "unit": "each",
+      "score": 1.0,
+      "margin": 1.0,
+      "reason": "same wording confirmed for this customer before",
+      "candidates": [
+       {
+        "sku": "707074",
+        "name": "Clairefontaine spiral notebook A5 squared 5x5 100 pages",
+        "score": 1.0
+       }
+      ]
+     },
+     "price": 3.26,
+     "issues": []
+    },
+    {
+     "line_no": 2,
+     "customer_ref": null,
+     "description": "cle kingston 128 go",
+     "quantity": 1.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "hybrid",
+      "sku": "715141",
+      "name": "Kingston USB 3.0 flash drive 128GB",
+      "unit": "each",
+      "score": 0.916,
+      "margin": 0.649,
+      "reason": "clear best match",
+      "candidates": [
+       {
+        "sku": "715141",
+        "name": "Kingston USB 3.0 flash drive 128GB",
+        "score": 0.9159
+       },
+       {
+        "sku": "223695",
+        "name": "Glue stick UHU 21g",
+        "score": 0.267
+       },
+       {
+        "sku": "326672",
+        "name": "Kingston USB 3.0 flash drive 64GB",
+        "score": 0.2592
+       }
+      ]
+     },
+     "price": 17.18,
+     "issues": []
+    },
+    {
+     "line_no": 3,
+     "customer_ref": null,
+     "description": "gants vinyle transparent l, bte 100",
+     "quantity": 20.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "memory",
+      "sku": "267810",
+      "name": "Disposable vinyl gloves powder-free transparent size L, box of 100",
+      "unit": "box of 100",
+      "score": 1.0,
+      "margin": 1.0,
+      "reason": "same wording confirmed for this customer before",
+      "candidates": [
+       {
+        "sku": "267810",
+        "name": "Disposable vinyl gloves powder-free transparent size L, box of 100",
+        "score": 1.0
+       }
+      ]
+     },
+     "price": 9.7,
+     "issues": []
+    },
+    {
+     "line_no": 4,
+     "customer_ref": null,
+     "description": "stylo retractable BPS-GP rouge, boite de 12",
+     "quantity": 10.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "memory",
+      "sku": "731262",
+      "name": "Pilot BPS-GP ballpoint pen retractable red, box of 12",
+      "unit": "box of 12",
+      "score": 1.0,
+      "margin": 1.0,
+      "reason": "same wording confirmed for this customer before",
+      "candidates": [
+       {
+        "sku": "731262",
+        "name": "Pilot BPS-GP ballpoint pen retractable red, box of 12",
+        "score": 1.0
+       }
+      ]
+     },
+     "price": 3.6,
+     "issues": []
+    }
+   ]
+  },
+  {
+   "file": "ord_004.eml",
+   "sender": "luc@pharmacie-centrale.be",
+   "customer_id": "C006",
+   "customer_name": "Pharmacie Centrale",
+   "po_number": "PC09855",
+   "order_date": "2026-09-01",
+   "delivery_date": "2026-09-04",
+   "route": "pdf-text",
+   "seconds": 40.4,
+   "status": "REVIEW",
+   "issues": [],
+   "lines": [
+    {
+     "line_no": 1,
+     "customer_ref": null,
+     "description": "sacs poubelle Sacs Pro 110 L noir, roueau de 10",
+     "quantity": 7.0,
+     "unit_price_written": 5.36,
+     "match": {
+      "status": "AUTO",
+      "method": "memory",
+      "sku": "981028",
+      "name": "Sacs Pro bin bags 110L black, roll of 10",
+      "unit": "roll of 10",
+      "score": 1.0,
+      "margin": 1.0,
+      "reason": "same wording confirmed for this customer before",
+      "candidates": [
+       {
+        "sku": "981028",
+        "name": "Sacs Pro bin bags 110L black, roll of 10",
+        "score": 1.0
+       }
+      ]
+     },
+     "price": 5.36,
+     "issues": []
+    },
+    {
+     "line_no": 2,
+     "customer_ref": null,
+     "description": "toner 054 cyan",
+     "quantity": 8.0,
+     "unit_price_written": 86.54,
+     "match": {
+      "status": "AUTO",
+      "method": "memory",
+      "sku": "890386",
+      "name": "Canon 054 original toner cartridge cyan (CRG-054C)",
+      "unit": "each",
+      "score": 1.0,
+      "margin": 1.0,
+      "reason": "same wording confirmed for this customer before",
+      "candidates": [
+       {
+        "sku": "890386",
+        "name": "Canon 054 original toner cartridge cyan (CRG-054C)",
+        "score": 1.0
+       }
+      ]
+     },
+     "price": 86.54,
+     "issues": []
+    },
+    {
+     "line_no": 3,
+     "customer_ref": null,
+     "description": "toner HP 59X noir (CF259X)",
+     "quantity": 4.0,
+     "unit_price_written": 132.15,
+     "match": {
+      "status": "AUTO",
+      "method": "code",
+      "sku": "181442",
+      "name": "HP 59X original toner cartridge black (CF259X)",
+      "unit": "each",
+      "score": 1.0,
+      "margin": 1.0,
+      "reason": "product code in the line",
+      "candidates": [
+       {
+        "sku": "181442",
+        "name": "HP 59X original toner cartridge black (CF259X)",
+        "score": 1.0
+       }
+      ]
+     },
+     "price": 132.15,
+     "issues": []
+    },
+    {
+     "line_no": 4,
+     "customer_ref": null,
+     "description": "stylo retractable BPS-GP rouge, boite de 12",
+     "quantity": 2.0,
+     "unit_price_written": 3.6,
+     "match": {
+      "status": "AUTO",
+      "method": "memory",
+      "sku": "731262",
+      "name": "Pilot BPS-GP ballpoint pen retractable red, box of 12",
+      "unit": "box of 12",
+      "score": 1.0,
+      "margin": 1.0,
+      "reason": "same wording confirmed for this customer before",
+      "candidates": [
+       {
+        "sku": "731262",
+        "name": "Pilot BPS-GP ballpoint pen retractable red, box of 12",
+        "score": 1.0
+       }
+      ]
+     },
+     "price": 3.6,
+     "issues": []
+    },
+    {
+     "line_no": 5,
+     "customer_ref": null,
+     "description": "gel hydro 1 litres",
+     "quantity": 3.0,
+     "unit_price_written": 4.33,
+     "match": {
+      "status": "AUTO",
+      "method": "memory",
+      "sku": "676104",
+      "name": "Hand sanitiser gel 1L",
+      "unit": "each",
+      "score": 1.0,
+      "margin": 1.0,
+      "reason": "same wording confirmed for this customer before",
+      "candidates": [
+       {
+        "sku": "676104",
+        "name": "Hand sanitiser gel 1L",
+        "score": 1.0
+       }
+      ]
+     },
+     "price": 3.87,
+     "issues": [
+      {
+       "code": "price_mismatch",
+       "message": "Customer wrote 4.33, their price is 3.87."
+      }
+     ]
+    },
+    {
+     "line_no": 6,
+     "customer_ref": null,
+     "description": "gants usage unique nitrile non poudres noir sz m, bte de 100",
+     "quantity": 7.0,
+     "unit_price_written": 10.36,
+     "match": {
+      "status": "AUTO",
+      "method": "hybrid",
+      "sku": "527772",
+      "name": "Disposable nitrile gloves powder-free black size M, box of 100",
+      "unit": "box of 100",
+      "score": 0.925,
+      "margin": 0.546,
+      "reason": "clear best match",
+      "candidates": [
+       {
+        "sku": "527772",
+        "name": "Disposable nitrile gloves powder-free black size M, box of 100",
+        "score": 0.9254
+       },
+       {
+        "sku": "798449",
+        "name": "Facial tissues box of 100",
+        "score": 0.3789
+       },
+       {
+        "sku": "637244",
+        "name": "Esselte lever arch file A4 50mm black",
+        "score": 0.3226
+       }
+      ]
+     },
+     "price": 10.36,
+     "issues": []
+    },
+    {
+     "line_no": 7,
+     "customer_ref": null,
+     "description": "cle 32 Go",
+     "quantity": 3.0,
+     "unit_price_written": 5.49,
+     "match": {
+      "status": "REVIEW",
+      "method": "hybrid",
+      "sku": null,
+      "name": null,
+      "unit": null,
+      "score": 0.849,
+      "margin": 0.001,
+      "reason": "close alternatives (SanDisk USB 3.0 flash drive 32GB)",
+      "candidates": [
+       {
+        "sku": "659944",
+        "name": "Kingston USB 3.0 flash drive 32GB",
+        "score": 0.8489
+       },
+       {
+        "sku": "835437",
+        "name": "SanDisk USB 3.0 flash drive 32GB",
+        "score": 0.8483
+       },
+       {
+        "sku": "223695",
+        "name": "Glue stick UHU 21g",
+        "score": 0.3516
+       }
+      ]
+     },
+     "price": null,
+     "issues": [
+      {
+       "code": "choose_product",
+       "message": "Pick the product: close alternatives (SanDisk USB 3.0 flash drive 32GB)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "file": "ord_005.eml",
+   "sender": "priya@lumen-architects.co.uk",
+   "customer_id": "C009",
+   "customer_name": "Lumen Architects Ltd",
+   "po_number": "LA-9185",
+   "order_date": "2026-09-27",
+   "delivery_date": "2026-10-05",
+   "route": "email-body",
+   "seconds": 35.5,
+   "status": "APPROVED",
+   "issues": [],
+   "lines": [
+    {
+     "line_no": 1,
+     "customer_ref": null,
+     "description": "disposable nitrile gloves powder-free blu size m, 100/box",
+     "quantity": 13.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "memory",
+      "sku": "509871",
+      "name": "Disposable nitrile gloves powder-free blue size M, box of 100",
+      "unit": "box of 100",
+      "score": 1.0,
+      "margin": 1.0,
+      "reason": "same wording confirmed for this customer before",
+      "candidates": [
+       {
+        "sku": "509871",
+        "name": "Disposable nitrile gloves powder-free blue size M, box of 100",
+        "score": 1.0
+       }
+      ]
+     },
+     "price": 9.83,
+     "issues": []
+    },
+    {
+     "line_no": 2,
+     "customer_ref": null,
+     "description": "Leitz arch file A4 80mm yellow",
+     "quantity": 54.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "memory",
+      "sku": "146624",
+      "name": "Leitz lever arch file A4 80mm yellow",
+      "unit": "each",
+      "score": 1.0,
+      "margin": 1.0,
+      "reason": "same wording confirmed for this customer before",
+      "candidates": [
+       {
+        "sku": "146624",
+        "name": "Leitz lever arch file A4 80mm yellow",
+        "score": 1.0
+       }
+      ]
+     },
+     "price": 3.52,
+     "issues": []
+    },
+    {
+     "line_no": 3,
+     "customer_ref": null,
+     "description": "SACS PRO GARBAGE BAGS 50 L BLU, X20",
+     "quantity": 12.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "memory",
+      "sku": "899011",
+      "name": "Sacs Pro bin bags 50L blue, roll of 20",
+      "unit": "roll of 20",
+      "score": 1.0,
+      "margin": 1.0,
+      "reason": "same wording confirmed for this customer before",
+      "candidates": [
+       {
+        "sku": "899011",
+        "name": "Sacs Pro bin bags 50L blue, roll of 20",
+        "score": 1.0
+       }
+      ]
+     },
+     "price": 2.94,
+     "issues": []
+    },
+    {
+     "line_no": 4,
+     "customer_ref": null,
+     "description": "Leitz lever arch file A4 80 mm red",
+     "quantity": 32.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "memory",
+      "sku": "243241",
+      "name": "Leitz lever arch file A4 80mm red",
+      "unit": "each",
+      "score": 1.0,
+      "margin": 1.0,
+      "reason": "same wording confirmed for this customer before",
+      "candidates": [
+       {
+        "sku": "243241",
+        "name": "Leitz lever arch file A4 80mm red",
+        "score": 1.0
+       }
+      ]
+     },
+     "price": 3.94,
+     "issues": []
+    },
+    {
+     "line_no": 5,
+     "customer_ref": null,
+     "description": "Correction tape Tipp-Ex Mini Pocket 5mmx6m",
+     "quantity": 18.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "memory",
+      "sku": "152847",
+      "name": "Correction tape Tipp-Ex Mini Pocket 5mmx6m",
+      "unit": "each",
+      "score": 1.0,
+      "margin": 1.0,
+      "reason": "same wording confirmed for this customer before",
+      "candidates": [
+       {
+        "sku": "152847",
+        "name": "Correction tape Tipp-Ex Mini Pocket 5mmx6m",
+        "score": 1.0
+       }
+      ]
+     },
+     "price": 14.72,
+     "issues": []
+    },
+    {
+     "line_no": 6,
+     "customer_ref": null,
+     "description": "Rapid staples 24/6, (1000)",
+     "quantity": 4.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "hybrid",
+      "sku": "574456",
+      "name": "Rapid staples 24/6 galvanised, box of 1000",
+      "unit": "box of 1000",
+      "score": 0.89,
+      "margin": 0.534,
+      "reason": "clear best match",
+      "candidates": [
+       {
+        "sku": "574456",
+        "name": "Rapid staples 24/6 galvanised, box of 1000",
+        "score": 0.89
+       },
+       {
+        "sku": "114693",
+        "name": "Paper cups 20cl white, case of 1000",
+        "score": 0.3557
+       },
+       {
+        "sku": "430452",
+        "name": "Wooden stirrers 14cm, box of 1000",
+        "score": 0.3417
+       }
+      ]
+     },
+     "price": 2.18,
+     "issues": []
+    },
+    {
+     "line_no": 7,
+     "customer_ref": null,
+     "description": "bean coffee Qualita Oro 1kg",
+     "quantity": 40.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "memory",
+      "sku": "399631",
+      "name": "Coffee beans Lavazza Qualita Oro 1kg",
+      "unit": "each",
+      "score": 1.0,
+      "margin": 1.0,
+      "reason": "same wording confirmed for this customer before",
+      "candidates": [
+       {
+        "sku": "399631",
+        "name": "Coffee beans Lavazza Qualita Oro 1kg",
+        "score": 1.0
+       }
+      ]
+     },
+     "price": 18.23,
+     "issues": []
+    }
+   ]
+  },
+  {
+   "file": "ord_006.eml",
+   "sender": "nadia@atlas-marina-hotel.ma",
+   "customer_id": "C003",
+   "customer_name": "Hotel Atlas Marina",
+   "po_number": "HAM/2026/821",
+   "order_date": "2026-09-13",
+   "delivery_date": "2026-09-16",
+   "route": "vision",
+   "seconds": 50.7,
+   "status": "REVIEW",
+   "issues": [],
+   "lines": [
+    {
+     "line_no": 1,
+     "customer_ref": null,
+     "description": "NETTOYANT VITRES SPRAY 5 LITRES",
+     "quantity": 2.0,
+     "unit_price_written": 8.97,
+     "match": {
+      "status": "AUTO",
+      "method": "memory",
+      "sku": "457404",
+      "name": "Glass cleaner spray 5L",
+      "unit": "each",
+      "score": 1.0,
+      "margin": 1.0,
+      "reason": "same wording confirmed for this customer before",
+      "candidates": [
+       {
+        "sku": "457404",
+        "name": "Glass cleaner spray 5L",
+        "score": 1.0
+       }
+      ]
+     },
+     "price": 8.97,
+     "issues": []
+    },
+    {
+     "line_no": 2,
+     "customer_ref": null,
+     "description": "post-it 76x76mm jaune, 12 blocs",
+     "quantity": 4.0,
+     "unit_price_written": 8.06,
+     "match": {
+      "status": "AUTO",
+      "method": "memory",
+      "sku": "786862",
+      "name": "Post-it notes 76x76mm yellow, pack of 12 pads",
+      "unit": "pack of 12",
+      "score": 1.0,
+      "margin": 1.0,
+      "reason": "same wording confirmed for this customer before",
+      "candidates": [
+       {
+        "sku": "786862",
+        "name": "Post-it notes 76x76mm yellow, pack of 12 pads",
+        "score": 1.0
+       }
+      ]
+     },
+     "price": 9.48,
+     "issues": [
+      {
+       "code": "price_mismatch",
+       "message": "Customer wrote 8.06, their price is 9.48."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "file": "ord_007.eml",
+   "sender": "sophie@ecole-tilleuls.fr",
+   "customer_id": "C004",
+   "customer_name": "Ecole Les Tilleuls",
+   "po_number": "ET-996",
+   "order_date": "2026-10-02",
+   "delivery_date": null,
+   "route": "email-body",
+   "seconds": 29.2,
+   "status": "APPROVED",
+   "issues": [],
+   "lines": [
+    {
+     "line_no": 1,
+     "customer_ref": null,
+     "description": "LAVETTES MICROFIBRE 40X40CM BLEU, X10",
+     "quantity": 6.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "memory",
+      "sku": "504648",
+      "name": "Microfibre cloths 40x40cm blue, pack of 10",
+      "unit": "pack of 10",
+      "score": 1.0,
+      "margin": 1.0,
+      "reason": "same wording confirmed for this customer before",
+      "candidates": [
+       {
+        "sku": "504648",
+        "name": "Microfibre cloths 40x40cm blue, pack of 10",
+        "score": 1.0
+       }
+      ]
+     },
+     "price": 9.29,
+     "issues": []
+    },
+    {
+     "line_no": 2,
+     "customer_ref": null,
+     "description": "ramettes Clairefontaine A3 100gr blanc, 500 feuilles",
+     "quantity": 48.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "memory",
+      "sku": "794628",
+      "name": "Clairefontaine copy paper A3 100g white, ream of 500 sheets",
+      "unit": "ream of 500 sheets",
+      "score": 1.0,
+      "margin": 1.0,
+      "reason": "same wording confirmed for this customer before",
+      "candidates": [
+       {
+        "sku": "794628",
+        "name": "Clairefontaine copy paper A3 100g white, ream of 500 sheets",
+        "score": 1.0
+       }
+      ]
+     },
+     "price": 9.64,
+     "issues": []
+    },
+    {
+     "line_no": 3,
+     "customer_ref": null,
+     "description": "classeur Leitz A4 dos 8cm bleue",
+     "quantity": 15.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "hybrid",
+      "sku": "170538",
+      "name": "Leitz lever arch file A4 80mm blue",
+      "unit": "each",
+      "score": 0.889,
+      "margin": 0.599,
+      "reason": "clear best match",
+      "candidates": [
+       {
+        "sku": "170538",
+        "name": "Leitz lever arch file A4 80mm blue",
+        "score": 0.8887
+       },
+       {
+        "sku": "447041",
+        "name": "Leitz lever arch file A4 50mm blue",
+        "score": 0.2895
+       },
+       {
+        "sku": "393831",
+        "name": "Esselte lever arch file A4 80mm blue",
+        "score": 0.2668
+       }
+      ]
+     },
+     "price": 3.54,
+     "issues": []
+    },
+    {
+     "line_no": 4,
+     "customer_ref": null,
+     "description": "cartouche toner TN-2420 noir",
+     "quantity": 2.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "code",
+      "sku": "191993",
+      "name": "Brother TN-2420 original toner cartridge black",
+      "unit": "each",
+      "score": 1.0,
+      "margin": 1.0,
+      "reason": "product code in the line",
+      "candidates": [
+       {
+        "sku": "191993",
+        "name": "Brother TN-2420 original toner cartridge black",
+        "score": 1.0
+       }
+      ]
+     },
+     "price": 68.86,
+     "issues": []
+    },
+    {
+     "line_no": 5,
+     "customer_ref": null,
+     "description": "Roller de correction Tipp-Ex Mini Pocket 5mmx6m",
+     "quantity": 2.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "memory",
+      "sku": "152847",
+      "name": "Correction tape Tipp-Ex Mini Pocket 5mmx6m",
+      "unit": "each",
+      "score": 1.0,
+      "margin": 1.0,
+      "reason": "same wording confirmed for this customer before",
+      "candidates": [
+       {
+        "sku": "152847",
+        "name": "Correction tape Tipp-Ex Mini Pocket 5mmx6m",
+        "score": 1.0
+       }
+      ]
+     },
+     "price": 13.94,
+     "issues": []
+    }
+   ]
+  },
+  {
+   "file": "ord_008.eml",
+   "sender": "luc@pharmacie-centrale.be",
+   "customer_id": "C006",
+   "customer_name": "Pharmacie Centrale",
+   "po_number": "PC00142",
+   "order_date": "2026-09-05",
+   "delivery_date": null,
+   "route": "email-body",
+   "seconds": 23.9,
+   "status": "REVIEW",
+   "issues": [],
+   "lines": [
+    {
+     "line_no": 1,
+     "customer_ref": null,
+     "description": "gants nitrile non poudres noir taille XL, bte de 100",
+     "quantity": 200.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "memory",
+      "sku": "734254",
+      "name": "Disposable nitrile gloves powder-free black size XL, box of 100",
+      "unit": "box of 100",
+      "score": 1.0,
+      "margin": 1.0,
+      "reason": "same wording confirmed for this customer before",
+      "candidates": [
+       {
+        "sku": "734254",
+        "name": "Disposable nitrile gloves powder-free black size XL, box of 100",
+        "score": 1.0
+       }
+      ]
+     },
+     "price": 7.45,
+     "issues": [
+      {
+       "code": "unusual_quantity",
+       "message": "Ordered 200; usually 10 to 15. Typo?"
+      }
+     ]
+    },
+    {
+     "line_no": 2,
+     "customer_ref": null,
+     "description": "bloc spirale A4 carreaux 5x5 100 pages",
+     "quantity": 32.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "REVIEW",
+      "method": "hybrid",
+      "sku": null,
+      "name": null,
+      "unit": null,
+      "score": 0.908,
+      "margin": 0.019,
+      "reason": "close alternatives (Clairefontaine spiral notebook A4 squared 5x5 100 pages)",
+      "candidates": [
+       {
+        "sku": "495106",
+        "name": "Oxford spiral notebook A4 squared 5x5 100 pages",
+        "score": 0.9084
+       },
+       {
+        "sku": "328898",
+        "name": "Clairefontaine spiral notebook A4 squared 5x5 100 pages",
+        "score": 0.889
+       },
+       {
+        "sku": "659018",
+        "name": "Clairefontaine spiral notebook A4 seyes 100 pages",
+        "score": 0.7163
+       }
+      ]
+     },
+     "price": null,
+     "issues": [
+      {
+       "code": "choose_product",
+       "message": "Pick the product: close alternatives (Clairefontaine spiral notebook A4 squared 5x5 100 pages)"
+      }
+     ]
+    },
+    {
+     "line_no": 3,
+     "customer_ref": null,
+     "description": "gel hydro 1 litres",
+     "quantity": 4.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "memory",
+      "sku": "676104",
+      "name": "Hand sanitiser gel 1L",
+      "unit": "each",
+      "score": 1.0,
+      "margin": 1.0,
+      "reason": "same wording confirmed for this customer before",
+      "candidates": [
+       {
+        "sku": "676104",
+        "name": "Hand sanitiser gel 1L",
+        "score": 1.0
+       }
+      ]
+     },
+     "price": 3.87,
+     "issues": []
+    },
+    {
+     "line_no": 4,
+     "customer_ref": null,
+     "description": "classeur levier carton A4 dos 8cm jaune",
+     "quantity": 15.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "REVIEW",
+      "method": "hybrid",
+      "sku": null,
+      "name": null,
+      "unit": null,
+      "score": 0.821,
+      "margin": 0.018,
+      "reason": "close alternatives (Esselte lever arch file A4 80mm yellow)",
+      "candidates": [
+       {
+        "sku": "146624",
+        "name": "Leitz lever arch file A4 80mm yellow",
+        "score": 0.8211
+       },
+       {
+        "sku": "148861",
+        "name": "Esselte lever arch file A4 80mm yellow",
+        "score": 0.8036
+       },
+       {
+        "sku": "903511",
+        "name": "Clairefontaine Trophee coloured paper A4 80g yellow, ream of 500 sheets",
+        "score": 0.562
+       }
+      ]
+     },
+     "price": null,
+     "issues": [
+      {
+       "code": "choose_product",
+       "message": "Pick the product: close alternatives (Esselte lever arch file A4 80mm yellow)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "file": "ord_009.eml",
+   "sender": "nadia@atlas-marina-hotel.ma",
+   "customer_id": "C003",
+   "customer_name": "Hotel Atlas Marina",
+   "po_number": "HAM/2026/188",
+   "order_date": "2026-09-23",
+   "delivery_date": null,
+   "route": "email-body",
+   "seconds": 28.8,
+   "status": "REVIEW",
+   "issues": [],
+   "lines": [
+    {
+     "line_no": 1,
+     "customer_ref": null,
+     "description": "ENVELOPPES DL 110X220MM BLANCHES SANS FENETRE BANDE PROTECTRICE, BTE 500",
+     "quantity": 2.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "memory",
+      "sku": "503092",
+      "name": "Envelopes DL 110x220mm white no window peel and seal, box of 500",
+      "unit": "box of 500",
+      "score": 1.0,
+      "margin": 1.0,
+      "reason": "same wording confirmed for this customer before",
+      "candidates": [
+       {
+        "sku": "503092",
+        "name": "Envelopes DL 110x220mm white no window peel and seal, box of 500",
+        "score": 1.0
+       }
+      ]
+     },
+     "price": 34.14,
+     "issues": []
+    },
+    {
+     "line_no": 2,
+     "customer_ref": null,
+     "description": "classeur levier carton A4 dos 5 cm vert",
+     "quantity": 15.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "REVIEW",
+      "method": "hybrid",
+      "sku": null,
+      "name": null,
+      "unit": null,
+      "score": 0.809,
+      "margin": 0.009,
+      "reason": "close alternatives (Esselte lever arch file A4 50mm green)",
+      "candidates": [
+       {
+        "sku": "718529",
+        "name": "Leitz lever arch file A4 50mm green",
+        "score": 0.809
+       },
+       {
+        "sku": "614850",
+        "name": "Esselte lever arch file A4 50mm green",
+        "score": 0.7998
+       },
+       {
+        "sku": "117710",
+        "name": "Clairefontaine Trophee coloured paper A4 80g green, ream of 500 sheets",
+        "score": 0.5555
+       }
+      ]
+     },
+     "price": null,
+     "issues": [
+      {
+       "code": "choose_product",
+       "message": "Pick the product: close alternatives (Esselte lever arch file A4 50mm green)"
+      }
+     ]
+    },
+    {
+     "line_no": 3,
+     "customer_ref": null,
+     "description": "Nettoyant sols 5 litres",
+     "quantity": 6.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "memory",
+      "sku": "987498",
+      "name": "Floor cleaner 5L",
+      "unit": "each",
+      "score": 1.0,
+      "margin": 1.0,
+      "reason": "same wording confirmed for this customer before",
+      "candidates": [
+       {
+        "sku": "987498",
+        "name": "Floor cleaner 5L",
+        "score": 1.0
+       }
+      ]
+     },
+     "price": 14.01,
+     "issues": []
+    },
+    {
+     "line_no": 4,
+     "customer_ref": null,
+     "description": "gants nitrile non poudres bleu M, bte de 100",
+     "quantity": 6.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "memory",
+      "sku": "509871",
+      "name": "Disposable nitrile gloves powder-free blue size M, box of 100",
+      "unit": "box of 100",
+      "score": 1.0,
+      "margin": 1.0,
+      "reason": "same wording confirmed for this customer before",
+      "candidates": [
+       {
+        "sku": "509871",
+        "name": "Disposable nitrile gloves powder-free blue size M, box of 100",
+        "score": 1.0
+       }
+      ]
+     },
+     "price": 9.83,
+     "issues": []
+    }
+   ]
+  },
+  {
+   "file": "ord_010.eml",
+   "sender": "nadia@atlas-marina-hotel.ma",
+   "customer_id": "C003",
+   "customer_name": "Hotel Atlas Marina",
+   "po_number": "HAM/2026/957",
+   "order_date": "2026-10-09",
+   "delivery_date": "2026-10-14",
+   "route": "email-body",
+   "seconds": 56.2,
+   "status": "REVIEW",
+   "issues": [],
+   "lines": [
+    {
+     "line_no": 1,
+     "customer_ref": null,
+     "description": "Pochettes de plastification A4 125 microns, boite de 100 :",
+     "quantity": 1.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "REVIEW",
+      "method": "hybrid",
+      "sku": null,
+      "name": null,
+      "unit": null,
+      "score": 0.57,
+      "margin": 0.022,
+      "reason": "close alternatives (Plastic cups 20cl white, pack of 100)",
+      "candidates": [
+       {
+        "sku": "798449",
+        "name": "Facial tissues box of 100",
+        "score": 0.5695
+       },
+       {
+        "sku": "144851",
+        "name": "Plastic cups 20cl white, pack of 100",
+        "score": 0.5475
+       },
+       {
+        "sku": "474023",
+        "name": "Paper clips 32mm, box of 100",
+        "score": 0.5299
+       }
+      ]
+     },
+     "price": null,
+     "issues": [
+      {
+       "code": "choose_product",
+       "message": "Pick the product: close alternatives (Plastic cups 20cl white, pack of 100)"
+      }
+     ]
+    },
+    {
+     "line_no": 2,
+     "customer_ref": null,
+     "description": "classeur levier Leitz A4 dos 80mm noir :",
+     "quantity": 42.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "memory",
+      "sku": "727439",
+      "name": "Leitz lever arch file A4 80mm black",
+      "unit": "each",
+      "score": 1.0,
+      "margin": 1.0,
+      "reason": "same wording confirmed for this customer before",
+      "candidates": [
+       {
+        "sku": "727439",
+        "name": "Leitz lever arch file A4 80mm black",
+        "score": 1.0
+       }
+      ]
+     },
+     "price": 4.47,
+     "issues": []
+    },
+    {
+     "line_no": 3,
+     "customer_ref": null,
+     "description": "notes repositionnables 76x127mm rose, paquet de 12 :",
+     "quantity": 3.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "hybrid",
+      "sku": "624724",
+      "name": "Post-it notes 76x127mm pink, pack of 12 pads",
+      "unit": "pack of 12",
+      "score": 0.798,
+      "margin": 0.431,
+      "reason": "clear best match",
+      "candidates": [
+       {
+        "sku": "624724",
+        "name": "Post-it notes 76x127mm pink, pack of 12 pads",
+        "score": 0.7978
+       },
+       {
+        "sku": "537228",
+        "name": "Pencil HB Staedtler Noris, box of 12",
+        "score": 0.367
+       },
+       {
+        "sku": "828549",
+        "name": "Toilet paper 2-ply, pack of 12 rolls",
+        "score": 0.317
+       }
+      ]
+     },
+     "price": 14.52,
+     "issues": []
+    },
+    {
+     "line_no": 4,
+     "customer_ref": null,
+     "description": "produit vaisselle 5L :",
+     "quantity": 5.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "memory",
+      "sku": "225420",
+      "name": "Dishwashing liquid 5L",
+      "unit": "each",
+      "score": 1.0,
+      "margin": 1.0,
+      "reason": "same wording confirmed for this customer before",
+      "candidates": [
+       {
+        "sku": "225420",
+        "name": "Dishwashing liquid 5L",
+        "score": 1.0
+       }
+      ]
+     },
+     "price": 11.7,
+     "issues": []
+    },
+    {
+     "line_no": 5,
+     "customer_ref": null,
+     "description": "ENVELOPPES C4 229X324MM BLANCHES AVEC FENETRE BANDE PROTECTRICE, X250 :",
+     "quantity": 2.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "hybrid",
+      "sku": "971257",
+      "name": "Envelopes C4 229x324mm white window peel and seal, box of 250",
+      "unit": "box of 250",
+      "score": 0.967,
+      "margin": 0.655,
+      "reason": "clear best match",
+      "candidates": [
+       {
+        "sku": "971257",
+        "name": "Envelopes C4 229x324mm white window peel and seal, box of 250",
+        "score": 0.9667
+       },
+       {
+        "sku": "851070",
+        "name": "Envelopes C4 229x324mm white no window peel and seal, box of 250",
+        "score": 0.3121
+       },
+       {
+        "sku": "339490",
+        "name": "Esselte lever arch file A4 50mm white",
+        "score": 0.3083
+       }
+      ]
+     },
+     "price": 19.57,
+     "issues": []
+    },
+    {
+     "line_no": 6,
+     "customer_ref": null,
+     "description": "rame papier A3 90gr blanc :",
+     "quantity": 42.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "memory",
+      "sku": "771394",
+      "name": "Clairefontaine copy paper A3 90g white, ream of 500 sheets",
+      "unit": "ream of 500 sheets",
+      "score": 1.0,
+      "margin": 1.0,
+      "reason": "same wording confirmed for this customer before",
+      "candidates": [
+       {
+        "sku": "771394",
+        "name": "Clairefontaine copy paper A3 90g white, ream of 500 sheets",
+        "score": 1.0
+       }
+      ]
+     },
+     "price": 9.06,
+     "issues": []
+    },
+    {
+     "line_no": 7,
+     "customer_ref": null,
+     "description": "classeur levier carton a4 dos 5 cm jaune :",
+     "quantity": 7.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "REVIEW",
+      "method": "hybrid",
+      "sku": null,
+      "name": null,
+      "unit": null,
+      "score": 0.82,
+      "margin": 0.008,
+      "reason": "close alternatives (Esselte lever arch file A4 50mm yellow)",
+      "candidates": [
+       {
+        "sku": "597856",
+        "name": "Leitz lever arch file A4 50mm yellow",
+        "score": 0.8198
+       },
+       {
+        "sku": "855345",
+        "name": "Esselte lever arch file A4 50mm yellow",
+        "score": 0.8114
+       },
+       {
+        "sku": "903511",
+        "name": "Clairefontaine Trophee coloured paper A4 80g yellow, ream of 500 sheets",
+        "score": 0.5617
+       }
+      ]
+     },
+     "price": null,
+     "issues": [
+      {
+       "code": "choose_product",
+       "message": "Pick the product: close alternatives (Esselte lever arch file A4 50mm yellow)"
+      }
+     ]
+    },
+    {
+     "line_no": 8,
+     "customer_ref": null,
+     "description": "Nettoyant sols 5 litres :",
+     "quantity": 22.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "memory",
+      "sku": "987498",
+      "name": "Floor cleaner 5L",
+      "unit": "each",
+      "score": 1.0,
+      "margin": 1.0,
+      "reason": "same wording confirmed for this customer before",
+      "candidates": [
+       {
+        "sku": "987498",
+        "name": "Floor cleaner 5L",
+        "score": 1.0
+       }
+      ]
+     },
+     "price": 14.01,
+     "issues": []
+    }
+   ]
+  },
+  {
+   "file": "ord_011.eml",
+   "sender": "sophie@ecole-tilleuls.fr",
+   "customer_id": "C004",
+   "customer_name": "Ecole Les Tilleuls",
+   "po_number": "ET-943",
+   "order_date": "2026-09-18",
+   "delivery_date": null,
+   "route": "email-body",
+   "seconds": 27.6,
+   "status": "REVIEW",
+   "issues": [],
+   "lines": [
+    {
+     "line_no": 1,
+     "customer_ref": null,
+     "description": "Ramette papier A4 160g blanc",
+     "quantity": 2.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "REVIEW",
+      "method": "hybrid",
+      "sku": null,
+      "name": null,
+      "unit": null,
+      "score": 0.573,
+      "margin": 0.004,
+      "reason": "close alternatives (Esselte lever arch file A4 50mm white)",
+      "candidates": [
+       {
+        "sku": "656797",
+        "name": "Esselte lever arch file A4 80mm white",
+        "score": 0.5729
+       },
+       {
+        "sku": "339490",
+        "name": "Esselte lever arch file A4 50mm white",
+        "score": 0.5686
+       },
+       {
+        "sku": "872957",
+        "name": "Leitz lever arch file A4 80mm white",
+        "score": 0.5667
+       }
+      ]
+     },
+     "price": null,
+     "issues": [
+      {
+       "code": "choose_product",
+       "message": "Pick the product: close alternatives (Esselte lever arch file A4 50mm white)"
+      }
+     ]
+    },
+    {
+     "line_no": 2,
+     "customer_ref": null,
+     "description": "cartouche toner brother tn-243y jaune",
+     "quantity": 3.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "code",
+      "sku": "609919",
+      "name": "Brother TN-243Y original toner cartridge yellow",
+      "unit": "each",
+      "score": 1.0,
+      "margin": 1.0,
+      "reason": "product code in the line",
+      "candidates": [
+       {
+        "sku": "609919",
+        "name": "Brother TN-243Y original toner cartridge yellow",
+        "score": 1.0
+       }
+      ]
+     },
+     "price": 59.3,
+     "issues": []
+    },
+    {
+     "line_no": 3,
+     "customer_ref": null,
+     "description": "enveloppes c4 229x324mm blanches sans fenetre bande protectrice, x250",
+     "quantity": 5.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "hybrid",
+      "sku": "851070",
+      "name": "Envelopes C4 229x324mm white no window peel and seal, box of 250",
+      "unit": "box of 250",
+      "score": 0.966,
+      "margin": 0.652,
+      "reason": "clear best match",
+      "candidates": [
+       {
+        "sku": "851070",
+        "name": "Envelopes C4 229x324mm white no window peel and seal, box of 250",
+        "score": 0.9655
+       },
+       {
+        "sku": "971257",
+        "name": "Envelopes C4 229x324mm white window peel and seal, box of 250",
+        "score": 0.3132
+       },
+       {
+        "sku": "645233",
+        "name": "Envelopes C4 229x324mm white no window self-seal, box of 250",
+        "score": 0.298
+       }
+      ]
+     },
+     "price": 23.27,
+     "issues": []
+    },
+    {
+     "line_no": 4,
+     "customer_ref": null,
+     "description": "cahier spirale Clairefontiane A5 ligne 180 pages",
+     "quantity": 73.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "hybrid",
+      "sku": "822858",
+      "name": "Clairefontaine spiral notebook A5 lined 180 pages",
+      "unit": "each",
+      "score": 0.989,
+      "margin": 0.095,
+      "reason": "clear best match",
+      "candidates": [
+       {
+        "sku": "822858",
+        "name": "Clairefontaine spiral notebook A5 lined 180 pages",
+        "score": 0.9886
+       },
+       {
+        "sku": "229482",
+        "name": "Oxford spiral notebook A5 lined 180 pages",
+        "score": 0.894
+       },
+       {
+        "sku": "388627",
+        "name": "Clairefontaine spiral notebook A4 lined 180 pages",
+        "score": 0.3187
+       }
+      ]
+     },
+     "price": 3.35,
+     "issues": []
+    }
+   ]
+  },
+  {
+   "file": "ord_012.eml",
+   "sender": "nadia@atlas-marina-hotel.ma",
+   "customer_id": "C003",
+   "customer_name": "Hotel Atlas Marina",
+   "po_number": "HAM/2026/944",
+   "order_date": "2026-10-02",
+   "delivery_date": null,
+   "route": "vision",
+   "seconds": 69.0,
+   "status": "REVIEW",
+   "issues": [],
+   "lines": [
+    {
+     "line_no": 1,
+     "customer_ref": null,
+     "description": "toner laser 410 a noir",
+     "quantity": 2.0,
+     "unit_price_written": 81.34,
+     "match": {
+      "status": "AUTO",
+      "method": "hybrid",
+      "sku": "175758",
+      "name": "HP 410A original toner cartridge black (CF410A)",
+      "unit": "each",
+      "score": 0.751,
+      "margin": 0.257,
+      "reason": "clear best match",
+      "candidates": [
+       {
+        "sku": "175758",
+        "name": "HP 410A original toner cartridge black (CF410A)",
+        "score": 0.7506
+       },
+       {
+        "sku": "637244",
+        "name": "Esselte lever arch file A4 50mm black",
+        "score": 0.4937
+       },
+       {
+        "sku": "993806",
+        "name": "Esselte lever arch file A4 80mm black",
+        "score": 0.488
+       }
+      ]
+     },
+     "price": 81.34,
+     "issues": []
+    },
+    {
+     "line_no": 2,
+     "customer_ref": null,
+     "description": "Ruban adhesif emballage marron 48mmx66m, paquet de 6",
+     "quantity": 1.0,
+     "unit_price_written": 9.44,
+     "match": {
+      "status": "REVIEW",
+      "method": "hybrid",
+      "sku": null,
+      "name": null,
+      "unit": null,
+      "score": 0.973,
+      "margin": 0.084,
+      "reason": "close alternatives (Packaging tape transparent 48mmx66m, pack of 6)",
+      "candidates": [
+       {
+        "sku": "833783",
+        "name": "Packaging tape brown 48mmx66m, pack of 6",
+        "score": 0.9728
+       },
+       {
+        "sku": "530421",
+        "name": "Packaging tape transparent 48mmx66m, pack of 6",
+        "score": 0.8888
+       },
+       {
+        "sku": "754332",
+        "name": "Centrefeed wiping roll 2-ply 450 sheets, pack of 6",
+        "score": 0.4398
+       }
+      ]
+     },
+     "price": null,
+     "issues": [
+      {
+       "code": "choose_product",
+       "message": "Pick the product: close alternatives (Packaging tape transparent 48mmx66m, pack of 6)"
+      }
+     ]
+    },
+    {
+     "line_no": 3,
+     "customer_ref": null,
+     "description": "produit vaisselle 5L",
+     "quantity": 5.0,
+     "unit_price_written": 11.7,
+     "match": {
+      "status": "AUTO",
+      "method": "memory",
+      "sku": "225420",
+      "name": "Dishwashing liquid 5L",
+      "unit": "each",
+      "score": 1.0,
+      "margin": 1.0,
+      "reason": "same wording confirmed for this customer before",
+      "candidates": [
+       {
+        "sku": "225420",
+        "name": "Dishwashing liquid 5L",
+        "score": 1.0
+       }
+      ]
+     },
+     "price": 11.7,
+     "issues": []
+    }
+   ]
+  },
+  {
+   "file": "ord_013.eml",
+   "sender": "claire@dupont-avocats.fr",
+   "customer_id": "C001",
+   "customer_name": "Cabinet Dupont Avocats",
+   "po_number": "BC-2026-8697",
+   "order_date": "2026-09-27",
+   "delivery_date": "2026-10-03",
+   "route": "pdf-text",
+   "seconds": 23.3,
+   "status": "REVIEW",
+   "issues": [],
+   "lines": [
+    {
+     "line_no": 1,
+     "customer_ref": null,
+     "description": "cahier spirales a4 ligne 180 pages",
+     "quantity": 35.0,
+     "unit_price_written": 2.17,
+     "match": {
+      "status": "REVIEW",
+      "method": "hybrid",
+      "sku": null,
+      "name": null,
+      "unit": null,
+      "score": 0.927,
+      "margin": 0.022,
+      "reason": "close alternatives (Clairefontaine spiral notebook A4 lined 180 pages)",
+      "candidates": [
+       {
+        "sku": "306440",
+        "name": "Oxford spiral notebook A4 lined 180 pages",
+        "score": 0.9275
+       },
+       {
+        "sku": "388627",
+        "name": "Clairefontaine spiral notebook A4 lined 180 pages",
+        "score": 0.905
+       },
+       {
+        "sku": "575100",
+        "name": "Leitz lever arch file A4 80mm green",
+        "score": 0.3866
+       }
+      ]
+     },
+     "price": null,
+     "issues": [
+      {
+       "code": "choose_product",
+       "message": "Pick the product: close alternatives (Clairefontaine spiral notebook A4 lined 180 pages)"
+      },
+      {
+       "code": "discontinued",
+       "message": "Candidate 388627 is discontinued. Replacement: 306440 Oxford spiral notebook A4 lined 180 pages"
+      }
+     ]
+    },
+    {
+     "line_no": 2,
+     "customer_ref": null,
+     "description": "classeur a levier A4 dos 5cm bleu",
+     "quantity": 16.0,
+     "unit_price_written": 5.01,
+     "match": {
+      "status": "REVIEW",
+      "method": "hybrid",
+      "sku": null,
+      "name": null,
+      "unit": null,
+      "score": 0.911,
+      "margin": 0.056,
+      "reason": "close alternatives (Esselte lever arch file A4 50mm blue)",
+      "candidates": [
+       {
+        "sku": "447041",
+        "name": "Leitz lever arch file A4 50mm blue",
+        "score": 0.9108
+       },
+       {
+        "sku": "875766",
+        "name": "Esselte lever arch file A4 50mm blue",
+        "score": 0.8544
+       },
+       {
+        "sku": "987707",
+        "name": "Clairefontaine Trophee coloured paper A4 80g blue, ream of 500 sheets",
+        "score": 0.5087
+       }
+      ]
+     },
+     "price": null,
+     "issues": [
+      {
+       "code": "choose_product",
+       "message": "Pick the product: close alternatives (Esselte lever arch file A4 50mm blue)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "file": "ord_014.eml",
+   "sender": "emma@brightsidedental.co.uk",
+   "customer_id": "C007",
+   "customer_name": "Brightside Dental Group",
+   "po_number": "PO-2026-09074",
+   "order_date": "2026-10-03",
+   "delivery_date": "2026-10-10",
+   "route": "email-body",
+   "seconds": 47.8,
+   "status": "REVIEW",
+   "issues": [],
+   "lines": [
+    {
+     "line_no": 1,
+     "customer_ref": null,
+     "description": "FN-1716 latex gloves powder-free wht sz S, 100 per box",
+     "quantity": 21.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "hybrid",
+      "sku": "930838",
+      "name": "Disposable latex gloves powder-free white size S, box of 100",
+      "unit": "box of 100",
+      "score": 0.905,
+      "margin": 0.466,
+      "reason": "clear best match",
+      "candidates": [
+       {
+        "sku": "930838",
+        "name": "Disposable latex gloves powder-free white size S, box of 100",
+        "score": 0.9047
+       },
+       {
+        "sku": "764978",
+        "name": "Envelopes DL 110x220mm white window peel and seal, box of 500",
+        "score": 0.4385
+       },
+       {
+        "sku": "503092",
+        "name": "Envelopes DL 110x220mm white no window peel and seal, box of 500",
+        "score": 0.4347
+       }
+      ]
+     },
+     "price": 5.85,
+     "issues": []
+    },
+    {
+     "line_no": 2,
+     "customer_ref": null,
+     "description": "FN-9111 S27 stapler, 30 sheets capacity",
+     "quantity": 2.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "hybrid",
+      "sku": "149222",
+      "name": "Rapid S27 stapler, 30 sheets capacity",
+      "unit": "each",
+      "score": 0.911,
+      "margin": 0.566,
+      "reason": "clear best match",
+      "candidates": [
+       {
+        "sku": "149222",
+        "name": "Rapid S27 stapler, 30 sheets capacity",
+        "score": 0.9107
+       },
+       {
+        "sku": "339490",
+        "name": "Esselte lever arch file A4 50mm white",
+        "score": 0.3451
+       },
+       {
+        "sku": "656797",
+        "name": "Esselte lever arch file A4 80mm white",
+        "score": 0.3431
+       }
+      ]
+     },
+     "price": 46.09,
+     "issues": []
+    },
+    {
+     "line_no": 3,
+     "customer_ref": "ART-4249",
+     "description": "Energizer batts AA, 4 per pack",
+     "quantity": 3.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "REVIEW",
+      "method": "hybrid",
+      "sku": null,
+      "name": null,
+      "unit": null,
+      "score": 0.737,
+      "margin": 0.035,
+      "reason": "close alternatives (Energizer alkaline batteries AA, pack of 24)",
+      "candidates": [
+       {
+        "sku": "616986",
+        "name": "Energizer alkaline batteries AA, pack of 4",
+        "score": 0.7366
+       },
+       {
+        "sku": "650483",
+        "name": "Energizer alkaline batteries AA, pack of 24",
+        "score": 0.7021
+       },
+       {
+        "sku": "955341",
+        "name": "Energizer alkaline batteries AA, pack of 12",
+        "score": 0.6842
+       }
+      ]
+     },
+     "price": null,
+     "issues": [
+      {
+       "code": "choose_product",
+       "message": "Pick the product: close alternatives (Energizer alkaline batteries AA, pack of 24)"
+      },
+      {
+       "code": "discontinued",
+       "message": "Candidate 616986 is discontinued. Replacement: 649690 Duracell alkaline batteries AA, pack of 4"
+      }
+     ]
+    },
+    {
+     "line_no": 4,
+     "customer_ref": null,
+     "description": "FN-3183 multipurose paper a4 90 grammes white, 500 sheets",
+     "quantity": 39.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "REVIEW",
+      "method": "hybrid",
+      "sku": null,
+      "name": null,
+      "unit": null,
+      "score": 0.785,
+      "margin": 0.027,
+      "reason": "close alternatives (Navigator copy paper A4 90g white, ream of 500 sheets)",
+      "candidates": [
+       {
+        "sku": "353695",
+        "name": "Clairefontaine copy paper A4 90g white, ream of 500 sheets",
+        "score": 0.7849
+       },
+       {
+        "sku": "573780",
+        "name": "Navigator copy paper A4 90g white, ream of 500 sheets",
+        "score": 0.7578
+       },
+       {
+        "sku": "339490",
+        "name": "Esselte lever arch file A4 50mm white",
+        "score": 0.4314
+       }
+      ]
+     },
+     "price": null,
+     "issues": [
+      {
+       "code": "choose_product",
+       "message": "Pick the product: close alternatives (Navigator copy paper A4 90g white, ream of 500 sheets)"
+      }
+     ]
+    },
+    {
+     "line_no": 5,
+     "customer_ref": null,
+     "description": "FN-6636 raja trash bags 100 l black, x10",
+     "quantity": 27.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "hybrid",
+      "sku": "232124",
+      "name": "Raja bin bags 100L black, roll of 10",
+      "unit": "roll of 10",
+      "score": 0.823,
+      "margin": 0.55,
+      "reason": "clear best match",
+      "candidates": [
+       {
+        "sku": "232124",
+        "name": "Raja bin bags 100L black, roll of 10",
+        "score": 0.8225
+       },
+       {
+        "sku": "960853",
+        "name": "Raja bin bags 130L black, roll of 10",
+        "score": 0.2721
+       },
+       {
+        "sku": "310694",
+        "name": "Raja bin bags 110L black, roll of 10",
+        "score": 0.2689
+       }
+      ]
+     },
+     "price": 7.16,
+     "issues": []
+    },
+    {
+     "line_no": 6,
+     "customer_ref": "MAT-2711",
+     "description": "BIN BAGS 130 L TRANSPARENT, X10",
+     "quantity": 12.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "memory",
+      "sku": "838943",
+      "name": "Raja bin bags 130L transparent, roll of 10",
+      "unit": "roll of 10",
+      "score": 1.0,
+      "margin": 1.0,
+      "reason": "same wording confirmed for this customer before",
+      "candidates": [
+       {
+        "sku": "838943",
+        "name": "Raja bin bags 130L transparent, roll of 10",
+        "score": 1.0
+       }
+      ]
+     },
+     "price": 11.85,
+     "issues": []
+    }
+   ]
+  },
+  {
+   "file": "ord_015.eml",
+   "sender": "karim@clinique-oliviers.fr",
+   "customer_id": "C002",
+   "customer_name": "Clinique des Oliviers",
+   "po_number": "CO000018",
+   "order_date": "2026-09-02",
+   "delivery_date": "2026-09-06",
+   "route": "vision",
+   "seconds": 94.2,
+   "status": "APPROVED",
+   "issues": [],
+   "lines": [
+    {
+     "line_no": 1,
+     "customer_ref": "FN-6312",
+     "description": "sacs poubelle 100 L transparent, rouleau de 10",
+     "quantity": 4.0,
+     "unit_price_written": 6.62,
+     "match": {
+      "status": "AUTO",
+      "method": "memory",
+      "sku": "293500",
+      "name": "Sacs Pro bin bags 100L transparent, roll of 10",
+      "unit": "roll of 10",
+      "score": 1.0,
+      "margin": 1.0,
+      "reason": "same wording confirmed for this customer before",
+      "candidates": [
+       {
+        "sku": "293500",
+        "name": "Sacs Pro bin bags 100L transparent, roll of 10",
+        "score": 1.0
+       }
+      ]
+     },
+     "price": 6.62,
+     "issues": []
+    },
+    {
+     "line_no": 2,
+     "customer_ref": "FN-3925",
+     "description": "EAU MINERALE 1,5L, PACK DE",
+     "quantity": 6.0,
+     "unit_price_written": 3.77,
+     "match": {
+      "status": "AUTO",
+      "method": "memory",
+      "sku": "550379",
+      "name": "Mineral water 1.5L, pack of 6",
+      "unit": "pack of 6",
+      "score": 1.0,
+      "margin": 1.0,
+      "reason": "same wording confirmed for this customer before",
+      "candidates": [
+       {
+        "sku": "550379",
+        "name": "Mineral water 1.5L, pack of 6",
+        "score": 1.0
+       }
+      ]
+     },
+     "price": 3.77,
+     "issues": []
+    },
+    {
+     "line_no": 3,
+     "customer_ref": "MAT-2318",
+     "description": "bloc spirale Oxford A5 ligne 180 pages",
+     "quantity": 51.0,
+     "unit_price_written": 3.84,
+     "match": {
+      "status": "AUTO",
+      "method": "hybrid",
+      "sku": "229482",
+      "name": "Oxford spiral notebook A5 lined 180 pages",
+      "unit": "each",
+      "score": 0.919,
+      "margin": 0.622,
+      "reason": "clear best match",
+      "candidates": [
+       {
+        "sku": "229482",
+        "name": "Oxford spiral notebook A5 lined 180 pages",
+        "score": 0.9187
+       },
+       {
+        "sku": "306440",
+        "name": "Oxford spiral notebook A4 lined 180 pages",
+        "score": 0.2967
+       },
+       {
+        "sku": "937084",
+        "name": "Oxford spiral notebook A5 lined 100 pages",
+        "score": 0.2928
+       }
+      ]
+     },
+     "price": 3.84,
+     "issues": []
+    },
+    {
+     "line_no": 4,
+     "customer_ref": "MAT-3572",
+     "description": "ganst nitrile non poudres bleu taille L, bte 100",
+     "quantity": 17.0,
+     "unit_price_written": 7.61,
+     "match": {
+      "status": "AUTO",
+      "method": "memory",
+      "sku": "471793",
+      "name": "Disposable nitrile gloves powder-free blue size L, box of 100",
+      "unit": "box of 100",
+      "score": 1.0,
+      "margin": 1.0,
+      "reason": "same wording confirmed for this customer before",
+      "candidates": [
+       {
+        "sku": "471793",
+        "name": "Disposable nitrile gloves powder-free blue size L, box of 100",
+        "score": 1.0
+       }
+      ]
+     },
+     "price": 7.61,
+     "issues": []
+    },
+    {
+     "line_no": 5,
+     "customer_ref": "ART-5186",
+     "description": "feutre tableau blanche edding 360 rouge, (10)",
+     "quantity": 4.0,
+     "unit_price_written": 2.54,
+     "match": {
+      "status": "AUTO",
+      "method": "hybrid",
+      "sku": "318872",
+      "name": "Edding 360 whiteboard marker round tip red, box of 10",
+      "unit": "box of 10",
+      "score": 0.844,
+      "margin": 0.59,
+      "reason": "clear best match",
+      "candidates": [
+       {
+        "sku": "318872",
+        "name": "Edding 360 whiteboard marker round tip red, box of 10",
+        "score": 0.8444
+       },
+       {
+        "sku": "504928",
+        "name": "Edding 360 whiteboard marker round tip black, box of 10",
+        "score": 0.2549
+       },
+       {
+        "sku": "116262",
+        "name": "Edding 360 whiteboard marker round tip green, box of 10",
+        "score": 0.2487
+       }
+      ]
+     },
+     "price": 2.54,
+     "issues": []
+    }
+   ]
+  },
+  {
+   "file": "ord_016.eml",
+   "sender": "sean@riverside-cowork.ie",
+   "customer_id": "C010",
+   "customer_name": "Riverside Coworking",
+   "po_number": "RC-2026-840",
+   "order_date": "2026-09-22",
+   "delivery_date": null,
+   "route": "email-body",
+   "seconds": 27.7,
+   "status": "APPROVED",
+   "issues": [],
+   "lines": [
+    {
+     "line_no": 1,
+     "customer_ref": null,
+     "description": "disposable vinyl gloves pf transparent m, bx 100 :",
+     "quantity": 8.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "memory",
+      "sku": "221922",
+      "name": "Disposable vinyl gloves powder-free transparent size M, box of 100",
+      "unit": "box of 100",
+      "score": 1.0,
+      "margin": 1.0,
+      "reason": "same wording confirmed for this customer before",
+      "candidates": [
+       {
+        "sku": "221922",
+        "name": "Disposable vinyl gloves powder-free transparent size M, box of 100",
+        "score": 1.0
+       }
+      ]
+     },
+     "price": 9.31,
+     "issues": []
+    },
+    {
+     "line_no": 2,
+     "customer_ref": null,
+     "description": "TN-2420 Brother TN-2420 laser toner black :",
+     "quantity": 3.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "code",
+      "sku": "191993",
+      "name": "Brother TN-2420 original toner cartridge black",
+      "unit": "each",
+      "score": 1.0,
+      "margin": 1.0,
+      "reason": "product code in the line",
+      "candidates": [
+       {
+        "sku": "191993",
+        "name": "Brother TN-2420 original toner cartridge black",
+        "score": 1.0
+       }
+      ]
+     },
+     "price": 68.86,
+     "issues": []
+    },
+    {
+     "line_no": 3,
+     "customer_ref": null,
+     "description": "paper a3 80g white, ream of 500 sheeets :",
+     "quantity": 48.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "memory",
+      "sku": "598873",
+      "name": "Navigator copy paper A3 80g white, ream of 500 sheets",
+      "unit": "ream of 500 sheets",
+      "score": 1.0,
+      "margin": 1.0,
+      "reason": "same wording confirmed for this customer before",
+      "candidates": [
+       {
+        "sku": "598873",
+        "name": "Navigator copy paper A3 80g white, ream of 500 sheets",
+        "score": 1.0
+       }
+      ]
+     },
+     "price": 7.79,
+     "issues": []
+    }
+   ]
+  },
+  {
+   "file": "ord_017.eml",
+   "sender": "sean@riverside-cowork.ie",
+   "customer_id": "C010",
+   "customer_name": "Riverside Coworking",
+   "po_number": "RC-2026-645",
+   "order_date": "2026-10-03",
+   "delivery_date": "2026-10-08",
+   "route": "email-body",
+   "seconds": 53.0,
+   "status": "REVIEW",
+   "issues": [],
+   "lines": [
+    {
+     "line_no": 1,
+     "customer_ref": null,
+     "description": "Mineral water 1.5 litres, pack of 6",
+     "quantity": 14.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "memory",
+      "sku": "550379",
+      "name": "Mineral water 1.5L, pack of 6",
+      "unit": "pack of 6",
+      "score": 1.0,
+      "margin": 1.0,
+      "reason": "same wording confirmed for this customer before",
+      "candidates": [
+       {
+        "sku": "550379",
+        "name": "Mineral water 1.5L, pack of 6",
+        "score": 1.0
+       }
+      ]
+     },
+     "price": 3.69,
+     "issues": []
+    },
+    {
+     "line_no": 2,
+     "customer_ref": null,
+     "description": "BPS-GP retractable pen blue, 12 per box",
+     "quantity": 3.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "hybrid",
+      "sku": "721533",
+      "name": "Pilot BPS-GP ballpoint pen retractable blue, box of 12",
+      "unit": "box of 12",
+      "score": 0.929,
+      "margin": 0.257,
+      "reason": "clear best match",
+      "candidates": [
+       {
+        "sku": "721533",
+        "name": "Pilot BPS-GP ballpoint pen retractable blue, box of 12",
+        "score": 0.9286
+       },
+       {
+        "sku": "569158",
+        "name": "Pilot G2 gel pen 0.7 blue, box of 12",
+        "score": 0.6718
+       },
+       {
+        "sku": "760031",
+        "name": "Bic Cristal ballpoint pen medium blue, box of 50",
+        "score": 0.6541
+       }
+      ]
+     },
+     "price": 2.7,
+     "issues": []
+    },
+    {
+     "line_no": 3,
+     "customer_ref": null,
+     "description": "L7165 Avery L7165 sticky labels 99.1x67.7mm, 8 per sheet, 100 sheets",
+     "quantity": 5.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "code",
+      "sku": "986319",
+      "name": "Avery L7165 laser labels 99.1x67.7mm, 8 per sheet, 100 sheets",
+      "unit": "box of 100 sheets",
+      "score": 1.0,
+      "margin": 1.0,
+      "reason": "product code in the line",
+      "candidates": [
+       {
+        "sku": "986319",
+        "name": "Avery L7165 laser labels 99.1x67.7mm, 8 per sheet, 100 sheets",
+        "score": 1.0
+       }
+      ]
+     },
+     "price": 24.43,
+     "issues": []
+    },
+    {
+     "line_no": 4,
+     "customer_ref": null,
+     "description": "lever-arch binder a4 8 cm yellow",
+     "quantity": 23.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "REVIEW",
+      "method": "hybrid",
+      "sku": null,
+      "name": null,
+      "unit": null,
+      "score": 0.851,
+      "margin": 0.003,
+      "reason": "close alternatives (Leitz lever arch file A4 80mm yellow)",
+      "candidates": [
+       {
+        "sku": "148861",
+        "name": "Esselte lever arch file A4 80mm yellow",
+        "score": 0.8507
+       },
+       {
+        "sku": "146624",
+        "name": "Leitz lever arch file A4 80mm yellow",
+        "score": 0.8479
+       },
+       {
+        "sku": "903511",
+        "name": "Clairefontaine Trophee coloured paper A4 80g yellow, ream of 500 sheets",
+        "score": 0.4431
+       }
+      ]
+     },
+     "price": null,
+     "issues": [
+      {
+       "code": "choose_product",
+       "message": "Pick the product: close alternatives (Leitz lever arch file A4 80mm yellow)"
+      }
+     ]
+    },
+    {
+     "line_no": 5,
+     "customer_ref": null,
+     "description": "Xerox Performer paper A4 75gr wht, ream of 500 sheets",
+     "quantity": 26.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "memory",
+      "sku": "391674",
+      "name": "Xerox Performer copy paper A4 75g white, ream of 500 sheets",
+      "unit": "ream of 500 sheets",
+      "score": 1.0,
+      "margin": 1.0,
+      "reason": "same wording confirmed for this customer before",
+      "candidates": [
+       {
+        "sku": "391674",
+        "name": "Xerox Performer copy paper A4 75g white, ream of 500 sheets",
+        "score": 1.0
+       }
+      ]
+     },
+     "price": 3.5,
+     "issues": []
+    },
+    {
+     "line_no": 6,
+     "customer_ref": null,
+     "description": "Canon 054 laser toner yellow",
+     "quantity": 4.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "hybrid",
+      "sku": "622516",
+      "name": "Canon 054 original toner cartridge yellow (CRG-054Y)",
+      "unit": "each",
+      "score": 0.884,
+      "margin": 0.572,
+      "reason": "clear best match",
+      "candidates": [
+       {
+        "sku": "622516",
+        "name": "Canon 054 original toner cartridge yellow (CRG-054Y)",
+        "score": 0.8837
+       },
+       {
+        "sku": "710005",
+        "name": "Tea bags Lipton Yellow Label, box of 100",
+        "score": 0.3115
+       },
+       {
+        "sku": "223695",
+        "name": "Glue stick UHU 21g",
+        "score": 0.2674
+       }
+      ]
+     },
+     "price": 104.24,
+     "issues": []
+    }
+   ]
+  },
+  {
+   "file": "ord_018.eml",
+   "sender": "sean@riverside-cowork.ie",
+   "customer_id": "C010",
+   "customer_name": "Riverside Coworking",
+   "po_number": "RC-2026-747",
+   "order_date": "2026-09-22",
+   "delivery_date": "2026-09-27",
+   "route": "email-body",
+   "seconds": 29.5,
+   "status": "REVIEW",
+   "issues": [],
+   "lines": [
+    {
+     "line_no": 1,
+     "customer_ref": null,
+     "description": "sticky notes 38x51mm yellow, 12/pack",
+     "quantity": 5.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "hybrid",
+      "sku": "660829",
+      "name": "Post-it notes 38x51mm yellow, pack of 12 pads",
+      "unit": "pack of 12",
+      "score": 0.815,
+      "margin": 0.399,
+      "reason": "clear best match",
+      "candidates": [
+       {
+        "sku": "660829",
+        "name": "Post-it notes 38x51mm yellow, pack of 12 pads",
+        "score": 0.8148
+       },
+       {
+        "sku": "855345",
+        "name": "Esselte lever arch file A4 50mm yellow",
+        "score": 0.4157
+       },
+       {
+        "sku": "597856",
+        "name": "Leitz lever arch file A4 50mm yellow",
+        "score": 0.4098
+       }
+      ]
+     },
+     "price": 8.19,
+     "issues": []
+    },
+    {
+     "line_no": 2,
+     "customer_ref": null,
+     "description": "Canon 054 toner black",
+     "quantity": 3.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "hybrid",
+      "sku": "312414",
+      "name": "Canon 054 original toner cartridge black (CRG-054)",
+      "unit": "each",
+      "score": 0.944,
+      "margin": 0.651,
+      "reason": "clear best match",
+      "candidates": [
+       {
+        "sku": "312414",
+        "name": "Canon 054 original toner cartridge black (CRG-054)",
+        "score": 0.9439
+       },
+       {
+        "sku": "111856",
+        "name": "Canon 052 original toner cartridge black (CRG-052)",
+        "score": 0.2926
+       },
+       {
+        "sku": "250177",
+        "name": "Canon 052H original toner cartridge black (CRG-052H)",
+        "score": 0.2925
+       }
+      ]
+     },
+     "price": 90.62,
+     "issues": []
+    },
+    {
+     "line_no": 3,
+     "customer_ref": null,
+     "description": "sacs pro bin bags 130l transparent, 10/roll",
+     "quantity": 270.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "memory",
+      "sku": "240981",
+      "name": "Sacs Pro bin bags 130L transparent, roll of 10",
+      "unit": "roll of 10",
+      "score": 1.0,
+      "margin": 1.0,
+      "reason": "same wording confirmed for this customer before",
+      "candidates": [
+       {
+        "sku": "240981",
+        "name": "Sacs Pro bin bags 130L transparent, roll of 10",
+        "score": 1.0
+       }
+      ]
+     },
+     "price": 5.72,
+     "issues": [
+      {
+       "code": "unusual_quantity",
+       "message": "Ordered 270; usually 14 to 54. Typo?"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "file": "ord_019.eml",
+   "sender": "priya@lumen-architects.co.uk",
+   "customer_id": "C009",
+   "customer_name": "Lumen Architects Ltd",
+   "po_number": "LA-9185",
+   "order_date": "2026-09-18",
+   "delivery_date": "2026-09-20",
+   "route": "email-body",
+   "seconds": 51.2,
+   "status": "REVIEW",
+   "issues": [
+    {
+     "code": "duplicate_po",
+     "message": "PO LA-9185 was already received from this customer. Duplicate order?"
+    }
+   ],
+   "lines": [
+    {
+     "line_no": 1,
+     "customer_ref": null,
+     "description": "Leitz lever arch file A4 80 mm red",
+     "quantity": 32.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "memory",
+      "sku": "243241",
+      "name": "Leitz lever arch file A4 80mm red",
+      "unit": "each",
+      "score": 1.0,
+      "margin": 1.0,
+      "reason": "same wording confirmed for this customer before",
+      "candidates": [
+       {
+        "sku": "243241",
+        "name": "Leitz lever arch file A4 80mm red",
+        "score": 1.0
+       }
+      ]
+     },
+     "price": 3.94,
+     "issues": []
+    },
+    {
+     "line_no": 2,
+     "customer_ref": null,
+     "description": "Esselte lever-arch binder A4 8 cm red",
+     "quantity": 19.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "hybrid",
+      "sku": "885367",
+      "name": "Esselte lever arch file A4 80mm red",
+      "unit": "each",
+      "score": 0.885,
+      "margin": 0.593,
+      "reason": "clear best match",
+      "candidates": [
+       {
+        "sku": "885367",
+        "name": "Esselte lever arch file A4 80mm red",
+        "score": 0.8848
+       },
+       {
+        "sku": "541256",
+        "name": "Esselte lever arch file A4 50mm red",
+        "score": 0.2917
+       },
+       {
+        "sku": "243241",
+        "name": "Leitz lever arch file A4 80mm red",
+        "score": 0.269
+       }
+      ]
+     },
+     "price": 2.76,
+     "issues": []
+    },
+    {
+     "line_no": 3,
+     "customer_ref": null,
+     "description": "floor cleaner 5 l",
+     "quantity": 7.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "memory",
+      "sku": "987498",
+      "name": "Floor cleaner 5L",
+      "unit": "each",
+      "score": 1.0,
+      "margin": 1.0,
+      "reason": "same wording confirmed for this customer before",
+      "candidates": [
+       {
+        "sku": "987498",
+        "name": "Floor cleaner 5L",
+        "score": 1.0
+       }
+      ]
+     },
+     "price": 14.01,
+     "issues": []
+    },
+    {
+     "line_no": 4,
+     "customer_ref": null,
+     "description": "Oxford spiral pad A4 lined 180 pages",
+     "quantity": 24.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "hybrid",
+      "sku": "306440",
+      "name": "Oxford spiral notebook A4 lined 180 pages",
+      "unit": "each",
+      "score": 0.926,
+      "margin": 0.628,
+      "reason": "clear best match",
+      "candidates": [
+       {
+        "sku": "306440",
+        "name": "Oxford spiral notebook A4 lined 180 pages",
+        "score": 0.9258
+       },
+       {
+        "sku": "229482",
+        "name": "Oxford spiral notebook A5 lined 180 pages",
+        "score": 0.2979
+       },
+       {
+        "sku": "506818",
+        "name": "Oxford spiral notebook A4 lined 100 pages",
+        "score": 0.2905
+       }
+      ]
+     },
+     "price": 2.17,
+     "issues": []
+    },
+    {
+     "line_no": 5,
+     "customer_ref": null,
+     "description": "sanitizer gel 500ml",
+     "quantity": 12.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "memory",
+      "sku": "565928",
+      "name": "Hand sanitiser gel 500ml",
+      "unit": "each",
+      "score": 1.0,
+      "margin": 1.0,
+      "reason": "same wording confirmed for this customer before",
+      "candidates": [
+       {
+        "sku": "565928",
+        "name": "Hand sanitiser gel 500ml",
+        "score": 1.0
+       }
+      ]
+     },
+     "price": 2.84,
+     "issues": []
+    },
+    {
+     "line_no": 6,
+     "customer_ref": null,
+     "description": "memo pads 76x76mm green, 12 per pack",
+     "quantity": 5.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "hybrid",
+      "sku": "848917",
+      "name": "Post-it notes 76x76mm green, pack of 12 pads",
+      "unit": "pack of 12",
+      "score": 0.893,
+      "margin": 0.378,
+      "reason": "clear best match",
+      "candidates": [
+       {
+        "sku": "848917",
+        "name": "Post-it notes 76x76mm green, pack of 12 pads",
+        "score": 0.893
+       },
+       {
+        "sku": "323205",
+        "name": "Pilot G2 gel pen 0.7 green, box of 12",
+        "score": 0.5155
+       },
+       {
+        "sku": "614850",
+        "name": "Esselte lever arch file A4 50mm green",
+        "score": 0.4974
+       }
+      ]
+     },
+     "price": 12.62,
+     "issues": []
+    },
+    {
+     "line_no": 7,
+     "customer_ref": null,
+     "description": "bean coffee Qualita Oro 1kg",
+     "quantity": 30.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "memory",
+      "sku": "399631",
+      "name": "Coffee beans Lavazza Qualita Oro 1kg",
+      "unit": "each",
+      "score": 1.0,
+      "margin": 1.0,
+      "reason": "same wording confirmed for this customer before",
+      "candidates": [
+       {
+        "sku": "399631",
+        "name": "Coffee beans Lavazza Qualita Oro 1kg",
+        "score": 1.0
+       }
+      ]
+     },
+     "price": 18.23,
+     "issues": []
+    }
+   ]
+  },
+  {
+   "file": "ord_020.eml",
+   "sender": "sean@riverside-cowork.ie",
+   "customer_id": "C010",
+   "customer_name": "Riverside Coworking",
+   "po_number": "RC-2026-556",
+   "order_date": "2026-09-29",
+   "delivery_date": "2026-10-07",
+   "route": "vision",
+   "seconds": 88.1,
+   "status": "REVIEW",
+   "issues": [
+    {
+     "code": "duplicate_po",
+     "message": "PO RC-2026-556 was already received from this customer. Duplicate order?"
+    }
+   ],
+   "lines": [
+    {
+     "line_no": 1,
+     "customer_ref": null,
+     "description": "micro fibre wipes 40x40cm green, pack of",
+     "quantity": 10.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "hybrid",
+      "sku": "541139",
+      "name": "Microfibre cloths 40x40cm green, pack of 10",
+      "unit": "pack of 10",
+      "score": 0.814,
+      "margin": 0.36,
+      "reason": "clear best match",
+      "candidates": [
+       {
+        "sku": "541139",
+        "name": "Microfibre cloths 40x40cm green, pack of 10",
+        "score": 0.8139
+       },
+       {
+        "sku": "894863",
+        "name": "Bic Cristal ballpoint pen medium green, box of 50",
+        "score": 0.4537
+       },
+       {
+        "sku": "614850",
+        "name": "Esselte lever arch file A4 50mm green",
+        "score": 0.4308
+       }
+      ]
+     },
+     "price": 7.51,
+     "issues": []
+    },
+    {
+     "line_no": 2,
+     "customer_ref": null,
+     "description": "trash bags 30 L white, x20",
+     "quantity": 11.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "memory",
+      "sku": "238979",
+      "name": "Raja bin bags 30L white, roll of 20",
+      "unit": "roll of 20",
+      "score": 1.0,
+      "margin": 1.0,
+      "reason": "same wording confirmed for this customer before",
+      "candidates": [
+       {
+        "sku": "238979",
+        "name": "Raja bin bags 30L white, roll of 20",
+        "score": 1.0
+       }
+      ]
+     },
+     "price": 2.07,
+     "issues": []
+    },
+    {
+     "line_no": 3,
+     "customer_ref": null,
+     "description": "paper a3 80g white, ream of 500 sheets",
+     "quantity": 48.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "REVIEW",
+      "method": "hybrid",
+      "sku": null,
+      "name": null,
+      "unit": null,
+      "score": 0.959,
+      "margin": 0.019,
+      "reason": "close alternatives (Clairefontaine copy paper A3 80g white, ream of 500 sheets)",
+      "candidates": [
+       {
+        "sku": "753397",
+        "name": "Double A copy paper A3 80g white, ream of 500 sheets",
+        "score": 0.9592
+       },
+       {
+        "sku": "983348",
+        "name": "Clairefontaine copy paper A3 80g white, ream of 500 sheets",
+        "score": 0.9405
+       },
+       {
+        "sku": "598873",
+        "name": "Navigator copy paper A3 80g white, ream of 500 sheets",
+        "score": 0.9282
+       }
+      ]
+     },
+     "price": null,
+     "issues": [
+      {
+       "code": "choose_product",
+       "message": "Pick the product: close alternatives (Clairefontaine copy paper A3 80g white, ream of 500 sheets)"
+      }
+     ]
+    },
+    {
+     "line_no": 4,
+     "customer_ref": null,
+     "description": "Pencil HB Staedtler Noris, x12",
+     "quantity": 7.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "memory",
+      "sku": "537228",
+      "name": "Pencil HB Staedtler Noris, box of 12",
+      "unit": "each",
+      "score": 1.0,
+      "margin": 1.0,
+      "reason": "same wording confirmed for this customer before",
+      "candidates": [
+       {
+        "sku": "537228",
+        "name": "Pencil HB Staedtler Noris, box of 12",
+        "score": 1.0
+       }
+      ]
+     },
+     "price": 10.47,
+     "issues": []
+    }
+   ]
+  },
+  {
+   "file": "ord_021.eml",
+   "sender": "nadia@atlas-marina-hotel.ma",
+   "customer_id": "C003",
+   "customer_name": "Hotel Atlas Marina",
+   "po_number": "HAM/2026/617",
+   "order_date": "2026-09-04",
+   "delivery_date": null,
+   "route": "email-body",
+   "seconds": 56.0,
+   "status": "REVIEW",
+   "issues": [],
+   "lines": [
+    {
+     "line_no": 1,
+     "customer_ref": null,
+     "description": "gants nitrile non poudres bleu M, bte de 100",
+     "quantity": 24.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "memory",
+      "sku": "509871",
+      "name": "Disposable nitrile gloves powder-free blue size M, box of 100",
+      "unit": "box of 100",
+      "score": 1.0,
+      "margin": 1.0,
+      "reason": "same wording confirmed for this customer before",
+      "candidates": [
+       {
+        "sku": "509871",
+        "name": "Disposable nitrile gloves powder-free blue size M, box of 100",
+        "score": 1.0
+       }
+      ]
+     },
+     "price": 9.83,
+     "issues": []
+    },
+    {
+     "line_no": 2,
+     "customer_ref": null,
+     "description": "NETTOYANT VITRES SPRAY 5 LITRES",
+     "quantity": 4.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "memory",
+      "sku": "457404",
+      "name": "Glass cleaner spray 5L",
+      "unit": "each",
+      "score": 1.0,
+      "margin": 1.0,
+      "reason": "same wording confirmed for this customer before",
+      "candidates": [
+       {
+        "sku": "457404",
+        "name": "Glass cleaner spray 5L",
+        "score": 1.0
+       }
+      ]
+     },
+     "price": 8.97,
+     "issues": []
+    },
+    {
+     "line_no": 3,
+     "customer_ref": null,
+     "description": "SACS ORDURES SACS PRO 130 LT TRANSPARENT, 10 PAR ROULEAU",
+     "quantity": 33.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "hybrid",
+      "sku": "240981",
+      "name": "Sacs Pro bin bags 130L transparent, roll of 10",
+      "unit": "roll of 10",
+      "score": 0.925,
+      "margin": 0.513,
+      "reason": "clear best match",
+      "candidates": [
+       {
+        "sku": "240981",
+        "name": "Sacs Pro bin bags 130L transparent, roll of 10",
+        "score": 0.9255
+       },
+       {
+        "sku": "203256",
+        "name": "Plastic ruler 30cm transparent",
+        "score": 0.4123
+       },
+       {
+        "sku": "293500",
+        "name": "Sacs Pro bin bags 100L transparent, roll of 10",
+        "score": 0.296
+       }
+      ]
+     },
+     "price": 6.04,
+     "issues": []
+    },
+    {
+     "line_no": 4,
+     "customer_ref": null,
+     "description": "ENVELOPPES C4 229X324MM BLANCHES AVEC FENETRE BANDE PROTECTRICE, X250",
+     "quantity": 2.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "hybrid",
+      "sku": "971257",
+      "name": "Envelopes C4 229x324mm white window peel and seal, box of 250",
+      "unit": "box of 250",
+      "score": 0.967,
+      "margin": 0.655,
+      "reason": "clear best match",
+      "candidates": [
+       {
+        "sku": "971257",
+        "name": "Envelopes C4 229x324mm white window peel and seal, box of 250",
+        "score": 0.9667
+       },
+       {
+        "sku": "851070",
+        "name": "Envelopes C4 229x324mm white no window peel and seal, box of 250",
+        "score": 0.3121
+       },
+       {
+        "sku": "339490",
+        "name": "Esselte lever arch file A4 50mm white",
+        "score": 0.3083
+       }
+      ]
+     },
+     "price": 19.57,
+     "issues": []
+    },
+    {
+     "line_no": 5,
+     "customer_ref": null,
+     "description": "papier photocopie clairefontaine a4 100 gramems blanches",
+     "quantity": 26.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "REVIEW",
+      "method": "hybrid",
+      "sku": null,
+      "name": null,
+      "unit": null,
+      "score": 0.803,
+      "margin": 0.0,
+      "reason": "close alternatives (Clairefontaine copy paper A4 100g white, ream of 500 sheets)",
+      "candidates": [
+       {
+        "sku": "353695",
+        "name": "Clairefontaine copy paper A4 90g white, ream of 500 sheets",
+        "score": 0.8027
+       },
+       {
+        "sku": "586470",
+        "name": "Clairefontaine copy paper A4 100g white, ream of 500 sheets",
+        "score": 0.8024
+       },
+       {
+        "sku": "166233",
+        "name": "Clairefontaine copy paper A4 80g white, ream of 500 sheets",
+        "score": 0.8001
+       }
+      ]
+     },
+     "price": null,
+     "issues": [
+      {
+       "code": "choose_product",
+       "message": "Pick the product: close alternatives (Clairefontaine copy paper A4 100g white, ream of 500 sheets)"
+      }
+     ]
+    },
+    {
+     "line_no": 6,
+     "customer_ref": null,
+     "description": "stylo a bille fine cristal fine noirs, (50)",
+     "quantity": 4.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "REVIEW",
+      "method": "hybrid",
+      "sku": null,
+      "name": null,
+      "unit": null,
+      "score": 0.928,
+      "margin": 0.074,
+      "reason": "close alternatives (Bic Cristal ballpoint pen medium black, box of 50)",
+      "candidates": [
+       {
+        "sku": "162802",
+        "name": "Bic Cristal Fine ballpoint pen fine black, box of 50",
+        "score": 0.9281
+       },
+       {
+        "sku": "382880",
+        "name": "Bic Cristal ballpoint pen medium black, box of 50",
+        "score": 0.854
+       },
+       {
+        "sku": "637244",
+        "name": "Esselte lever arch file A4 50mm black",
+        "score": 0.4895
+       }
+      ]
+     },
+     "price": null,
+     "issues": [
+      {
+       "code": "choose_product",
+       "message": "Pick the product: close alternatives (Bic Cristal ballpoint pen medium black, box of 50)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "file": "ord_022.eml",
+   "sender": "sean@riverside-cowork.ie",
+   "customer_id": "C010",
+   "customer_name": "Riverside Coworking",
+   "po_number": "RC-2026-042",
+   "order_date": "2026-09-23",
+   "delivery_date": null,
+   "route": "vision",
+   "seconds": 108.0,
+   "status": "REVIEW",
+   "issues": [],
+   "lines": [
+    {
+     "line_no": 1,
+     "customer_ref": null,
+     "description": "78 A print cartridge blk",
+     "quantity": 3.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "hybrid",
+      "sku": "794435",
+      "name": "HP 78A original toner cartridge black (CE278A)",
+      "unit": "each",
+      "score": 0.813,
+      "margin": 0.305,
+      "reason": "clear best match",
+      "candidates": [
+       {
+        "sku": "794435",
+        "name": "HP 78A original toner cartridge black (CE278A)",
+        "score": 0.8133
+       },
+       {
+        "sku": "993806",
+        "name": "Esselte lever arch file A4 80mm black",
+        "score": 0.5087
+       },
+       {
+        "sku": "727439",
+        "name": "Leitz lever arch file A4 80mm black",
+        "score": 0.5058
+       }
+      ]
+     },
+     "price": 63.32,
+     "issues": [
+      {
+       "code": "quantity_unclear",
+       "message": "Line starts with 78 but quantity was read as 3. Check the quantity."
+      }
+     ]
+    },
+    {
+     "line_no": 2,
+     "customer_ref": null,
+     "description": "clairefontaine spiral notebook a5 squared 5x5 180 pages",
+     "quantity": 12.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "hybrid",
+      "sku": "894651",
+      "name": "Clairefontaine spiral notebook A5 squared 5x5 180 pages",
+      "unit": "each",
+      "score": 1.0,
+      "margin": 0.667,
+      "reason": "clear best match",
+      "candidates": [
+       {
+        "sku": "894651",
+        "name": "Clairefontaine spiral notebook A5 squared 5x5 180 pages",
+        "score": 1.0
+       },
+       {
+        "sku": "707074",
+        "name": "Clairefontaine spiral notebook A5 squared 5x5 100 pages",
+        "score": 0.333
+       },
+       {
+        "sku": "549770",
+        "name": "Clairefontaine spiral notebook A4 squared 5x5 180 pages",
+        "score": 0.3327
+       }
+      ]
+     },
+     "price": 4.78,
+     "issues": []
+    },
+    {
+     "line_no": 3,
+     "customer_ref": null,
+     "description": "Centrefeed wiping roll 2-ply 450 sheets, 6 per pack",
+     "quantity": 14.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "hybrid",
+      "sku": "754332",
+      "name": "Centrefeed wiping roll 2-ply 450 sheets, pack of 6",
+      "unit": "pack of 6",
+      "score": 0.976,
+      "margin": 0.663,
+      "reason": "clear best match",
+      "candidates": [
+       {
+        "sku": "754332",
+        "name": "Centrefeed wiping roll 2-ply 450 sheets, pack of 6",
+        "score": 0.9757
+       },
+       {
+        "sku": "874682",
+        "name": "Multi-surface cleaner 5L",
+        "score": 0.3127
+       },
+       {
+        "sku": "152847",
+        "name": "Correction tape Tipp-Ex Mini Pocket 5mmx6m",
+        "score": 0.2934
+       }
+      ]
+     },
+     "price": 29.39,
+     "issues": []
+    },
+    {
+     "line_no": 4,
+     "customer_ref": null,
+     "description": "Mineral water 1.5 litres, pack of 6",
+     "quantity": 21.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "memory",
+      "sku": "550379",
+      "name": "Mineral water 1.5L, pack of 6",
+      "unit": "pack of 6",
+      "score": 1.0,
+      "margin": 1.0,
+      "reason": "same wording confirmed for this customer before",
+      "candidates": [
+       {
+        "sku": "550379",
+        "name": "Mineral water 1.5L, pack of 6",
+        "score": 1.0
+       }
+      ]
+     },
+     "price": 3.69,
+     "issues": []
+    },
+    {
+     "line_no": 5,
+     "customer_ref": null,
+     "description": "Duracell alkalline batteries AAA, pk 12",
+     "quantity": 16.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "memory",
+      "sku": "641083",
+      "name": "Duracell alkaline batteries AAA, pack of 12",
+      "unit": "pack of 12",
+      "score": 1.0,
+      "margin": 1.0,
+      "reason": "same wording confirmed for this customer before",
+      "candidates": [
+       {
+        "sku": "641083",
+        "name": "Duracell alkaline batteries AAA, pack of 12",
+        "score": 1.0
+       }
+      ]
+     },
+     "price": 14.43,
+     "issues": []
+    },
+    {
+     "line_no": 6,
+     "customer_ref": null,
+     "description": "clairefontaine trophée color paper a4 80 g green, 500 sheets",
+     "quantity": 31.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "memory",
+      "sku": "117710",
+      "name": "Clairefontaine Trophee coloured paper A4 80g green, ream of 500 sheets",
+      "unit": "ream of 500 sheets",
+      "score": 1.0,
+      "margin": 1.0,
+      "reason": "same wording confirmed for this customer before",
+      "candidates": [
+       {
+        "sku": "117710",
+        "name": "Clairefontaine Trophee coloured paper A4 80g green, ream of 500 sheets",
+        "score": 1.0
+       }
+      ]
+     },
+     "price": 7.27,
+     "issues": []
+    },
+    {
+     "line_no": 7,
+     "customer_ref": null,
+     "description": "Avery L7651 labels 38.1x21.2mm, 65 per sheet, 100 sheets",
+     "quantity": 1.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "code",
+      "sku": "739038",
+      "name": "Avery L7651 laser labels 38.1x21.2mm, 65 per sheet, 100 sheets",
+      "unit": "box of 100 sheets",
+      "score": 1.0,
+      "margin": 1.0,
+      "reason": "product code in the line",
+      "candidates": [
+       {
+        "sku": "739038",
+        "name": "Avery L7651 laser labels 38.1x21.2mm, 65 per sheet, 100 sheets",
+        "score": 1.0
+       }
+      ]
+     },
+     "price": 34.99,
+     "issues": []
+    }
+   ]
+  },
+  {
+   "file": "ord_023.eml",
+   "sender": "priya@lumen-architects.co.uk",
+   "customer_id": "C009",
+   "customer_name": "Lumen Architects Ltd",
+   "po_number": "LA-9078",
+   "order_date": "2026-10-09",
+   "delivery_date": null,
+   "route": "email-body",
+   "seconds": 43.5,
+   "status": "REVIEW",
+   "issues": [],
+   "lines": [
+    {
+     "line_no": 1,
+     "customer_ref": null,
+     "description": "alkaline batteries aa, pk 12",
+     "quantity": 1.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "memory",
+      "sku": "955341",
+      "name": "Energizer alkaline batteries AA, pack of 12",
+      "unit": "pack of 12",
+      "score": 1.0,
+      "margin": 1.0,
+      "reason": "same wording confirmed for this customer before",
+      "candidates": [
+       {
+        "sku": "955341",
+        "name": "Energizer alkaline batteries AA, pack of 12",
+        "score": 1.0
+       }
+      ]
+     },
+     "price": 12.88,
+     "issues": []
+    },
+    {
+     "line_no": 2,
+     "customer_ref": null,
+     "description": "Esselte arch file A4 50mm black",
+     "quantity": 26.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "memory",
+      "sku": "637244",
+      "name": "Esselte lever arch file A4 50mm black",
+      "unit": "each",
+      "score": 1.0,
+      "margin": 1.0,
+      "reason": "same wording confirmed for this customer before",
+      "candidates": [
+       {
+        "sku": "637244",
+        "name": "Esselte lever arch file A4 50mm black",
+        "score": 1.0
+       }
+      ]
+     },
+     "price": 2.52,
+     "issues": []
+    },
+    {
+     "line_no": 3,
+     "customer_ref": null,
+     "description": "Correction tape Tipp-Ex Mini Pocket 5mmx6m",
+     "quantity": 14.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "memory",
+      "sku": "152847",
+      "name": "Correction tape Tipp-Ex Mini Pocket 5mmx6m",
+      "unit": "each",
+      "score": 1.0,
+      "margin": 1.0,
+      "reason": "same wording confirmed for this customer before",
+      "candidates": [
+       {
+        "sku": "152847",
+        "name": "Correction tape Tipp-Ex Mini Pocket 5mmx6m",
+        "score": 1.0
+       }
+      ]
+     },
+     "price": 14.72,
+     "issues": []
+    },
+    {
+     "line_no": 4,
+     "customer_ref": null,
+     "description": "mailing envelopes DL 110x220mm white window strip seal, 500 per box",
+     "quantity": 3.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "REVIEW",
+      "method": "hybrid",
+      "sku": null,
+      "name": null,
+      "unit": null,
+      "score": 0.928,
+      "margin": 0.009,
+      "reason": "close alternatives (Envelopes DL 110x220mm white window peel and seal, box of 500)",
+      "candidates": [
+       {
+        "sku": "524418",
+        "name": "Envelopes DL 110x220mm white window self-seal, box of 500",
+        "score": 0.9282
+       },
+       {
+        "sku": "764978",
+        "name": "Envelopes DL 110x220mm white window peel and seal, box of 500",
+        "score": 0.9192
+       },
+       {
+        "sku": "299126",
+        "name": "Navigator copy paper A4 100g white, ream of 500 sheets",
+        "score": 0.3535
+       }
+      ]
+     },
+     "price": null,
+     "issues": [
+      {
+       "code": "choose_product",
+       "message": "Pick the product: close alternatives (Envelopes DL 110x220mm white window peel and seal, box of 500)"
+      }
+     ]
+    },
+    {
+     "line_no": 5,
+     "customer_ref": null,
+     "description": "SACS PRO GARBAGE BAGS 50 L BLU, X20",
+     "quantity": 12.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "memory",
+      "sku": "899011",
+      "name": "Sacs Pro bin bags 50L blue, roll of 20",
+      "unit": "roll of 20",
+      "score": 1.0,
+      "margin": 1.0,
+      "reason": "same wording confirmed for this customer before",
+      "candidates": [
+       {
+        "sku": "899011",
+        "name": "Sacs Pro bin bags 50L blue, roll of 20",
+        "score": 1.0
+       }
+      ]
+     },
+     "price": 2.94,
+     "issues": []
+    }
+   ]
+  },
+  {
+   "file": "ord_024.eml",
+   "sender": "grace@harbourviewcare.co.uk",
+   "customer_id": "C012",
+   "customer_name": "Harbour View Care Home",
+   "po_number": "HV0667",
+   "order_date": "2026-09-13",
+   "delivery_date": "2026-09-17",
+   "route": "email-body",
+   "seconds": 33.3,
+   "status": "APPROVED",
+   "issues": [],
+   "lines": [
+    {
+     "line_no": 1,
+     "customer_ref": null,
+     "description": "batteries d, pk 2",
+     "quantity": 9.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "memory",
+      "sku": "710519",
+      "name": "Energizer alkaline batteries D, pack of 2",
+      "unit": "pack of 2",
+      "score": 1.0,
+      "margin": 1.0,
+      "reason": "same wording confirmed for this customer before",
+      "candidates": [
+       {
+        "sku": "710519",
+        "name": "Energizer alkaline batteries D, pack of 2",
+        "score": 1.0
+       }
+      ]
+     },
+     "price": 3.7,
+     "issues": []
+    },
+    {
+     "line_no": 2,
+     "customer_ref": "687878",
+     "description": "Ground coffee Carte Noire 25",
+     "quantity": 16.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "code",
+      "sku": "687878",
+      "name": "Ground coffee Carte Noire 250g",
+      "unit": "each",
+      "score": 1.0,
+      "margin": 1.0,
+      "reason": "product code in the line",
+      "candidates": [
+       {
+        "sku": "687878",
+        "name": "Ground coffee Carte Noire 250g",
+        "score": 1.0
+       }
+      ]
+     },
+     "price": 4.01,
+     "issues": []
+    },
+    {
+     "line_no": 3,
+     "customer_ref": null,
+     "description": "alkaline batteries AA, pack of 24",
+     "quantity": 4.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "memory",
+      "sku": "650483",
+      "name": "Energizer alkaline batteries AA, pack of 24",
+      "unit": "pack of 24",
+      "score": 1.0,
+      "margin": 1.0,
+      "reason": "same wording confirmed for this customer before",
+      "candidates": [
+       {
+        "sku": "650483",
+        "name": "Energizer alkaline batteries AA, pack of 24",
+        "score": 1.0
+       }
+      ]
+     },
+     "price": 33.09,
+     "issues": []
+    },
+    {
+     "line_no": 4,
+     "customer_ref": null,
+     "description": "printer paper A3 80gsm wht, ream",
+     "quantity": 34.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "memory",
+      "sku": "598873",
+      "name": "Navigator copy paper A3 80g white, ream of 500 sheets",
+      "unit": "ream of 500 sheets",
+      "score": 1.0,
+      "margin": 1.0,
+      "reason": "same wording confirmed for this customer before",
+      "candidates": [
+       {
+        "sku": "598873",
+        "name": "Navigator copy paper A3 80g white, ream of 500 sheets",
+        "score": 1.0
+       }
+      ]
+     },
+     "price": 8.22,
+     "issues": []
+    }
+   ]
+  },
+  {
+   "file": "ord_025.eml",
+   "sender": "sophie@ecole-tilleuls.fr",
+   "customer_id": "C004",
+   "customer_name": "Ecole Les Tilleuls",
+   "po_number": "ET-748",
+   "order_date": "2026-10-01",
+   "delivery_date": "2026-10-06",
+   "route": "vision",
+   "seconds": 89.3,
+   "status": "APPROVED",
+   "issues": [],
+   "lines": [
+    {
+     "line_no": 1,
+     "customer_ref": null,
+     "description": "classeur a levier A4 dos 50mm noir",
+     "quantity": 11.0,
+     "unit_price_written": 2.38,
+     "match": {
+      "status": "AUTO",
+      "method": "memory",
+      "sku": "637244",
+      "name": "Esselte lever arch file A4 50mm black",
+      "unit": "each",
+      "score": 1.0,
+      "margin": 1.0,
+      "reason": "same wording confirmed for this customer before",
+      "candidates": [
+       {
+        "sku": "637244",
+        "name": "Esselte lever arch file A4 50mm black",
+        "score": 1.0
+       }
+      ]
+     },
+     "price": 2.38,
+     "issues": []
+    },
+    {
+     "line_no": 2,
+     "customer_ref": null,
+     "description": "enveloppes c4 229x324mm blanches sans fenetre bande protectrice, x250",
+     "quantity": 5.0,
+     "unit_price_written": 23.27,
+     "match": {
+      "status": "AUTO",
+      "method": "hybrid",
+      "sku": "851070",
+      "name": "Envelopes C4 229x324mm white no window peel and seal, box of 250",
+      "unit": "box of 250",
+      "score": 0.966,
+      "margin": 0.652,
+      "reason": "clear best match",
+      "candidates": [
+       {
+        "sku": "851070",
+        "name": "Envelopes C4 229x324mm white no window peel and seal, box of 250",
+        "score": 0.9655
+       },
+       {
+        "sku": "971257",
+        "name": "Envelopes C4 229x324mm white window peel and seal, box of 250",
+        "score": 0.3132
+       },
+       {
+        "sku": "645233",
+        "name": "Envelopes C4 229x324mm white no window self-seal, box of 250",
+        "score": 0.298
+       }
+      ]
+     },
+     "price": 23.27,
+     "issues": []
+    },
+    {
+     "line_no": 3,
+     "customer_ref": null,
+     "description": "sacs-poubelle raja 100-litre transparent, 10 par rouleau",
+     "quantity": 20.0,
+     "unit_price_written": 5.11,
+     "match": {
+      "status": "AUTO",
+      "method": "hybrid",
+      "sku": "818499",
+      "name": "Raja bin bags 100L transparent, roll of 10",
+      "unit": "roll of 10",
+      "score": 0.931,
+      "margin": 0.531,
+      "reason": "clear best match",
+      "candidates": [
+       {
+        "sku": "818499",
+        "name": "Raja bin bags 100L transparent, roll of 10",
+        "score": 0.9314
+       },
+       {
+        "sku": "203256",
+        "name": "Plastic ruler 30cm transparent",
+        "score": 0.4
+       },
+       {
+        "sku": "710005",
+        "name": "Tea bags Lipton Yellow Label, box of 100",
+        "score": 0.3176
+       }
+      ]
+     },
+     "price": 5.11,
+     "issues": []
+    },
+    {
+     "line_no": 4,
+     "customer_ref": null,
+     "description": "Roller de correction Tipp-Ex Mini Pocket 5mmx6m",
+     "quantity": 1.0,
+     "unit_price_written": 13.94,
+     "match": {
+      "status": "AUTO",
+      "method": "memory",
+      "sku": "152847",
+      "name": "Correction tape Tipp-Ex Mini Pocket 5mmx6m",
+      "unit": "each",
+      "score": 1.0,
+      "margin": 1.0,
+      "reason": "same wording confirmed for this customer before",
+      "candidates": [
+       {
+        "sku": "152847",
+        "name": "Correction tape Tipp-Ex Mini Pocket 5mmx6m",
+        "score": 1.0
+       }
+      ]
+     },
+     "price": 13.94,
+     "issues": []
+    }
+   ]
+  },
+  {
+   "file": "ord_026.eml",
+   "sender": "james@northgate-academy.org.uk",
+   "customer_id": "C008",
+   "customer_name": "Northgate Academy",
+   "po_number": "NGA04846",
+   "order_date": "2026-09-17",
+   "delivery_date": null,
+   "route": "email-body",
+   "seconds": 55.1,
+   "status": "REVIEW",
+   "issues": [],
+   "lines": [
+    {
+     "line_no": 1,
+     "customer_ref": null,
+     "description": "Bic Cristal Fine pen fine red, x50",
+     "quantity": 50.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "memory",
+      "sku": "286309",
+      "name": "Bic Cristal Fine ballpoint pen fine red, box of 50",
+      "unit": "box of 50",
+      "score": 1.0,
+      "margin": 1.0,
+      "reason": "same wording confirmed for this customer before",
+      "candidates": [
+       {
+        "sku": "286309",
+        "name": "Bic Cristal Fine ballpoint pen fine red, box of 50",
+        "score": 1.0
+       }
+      ]
+     },
+     "price": 10.75,
+     "issues": [
+      {
+       "code": "unusual_quantity",
+       "message": "Ordered 50; usually 1 to 1. Typo?"
+      }
+     ]
+    },
+    {
+     "line_no": 2,
+     "customer_ref": null,
+     "description": "clairefontaine spiral pad a5 squared 5x5 180 pages",
+     "quantity": 1.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "memory",
+      "sku": "894651",
+      "name": "Clairefontaine spiral notebook A5 squared 5x5 180 pages",
+      "unit": "each",
+      "score": 1.0,
+      "margin": 1.0,
+      "reason": "same wording confirmed for this customer before",
+      "candidates": [
+       {
+        "sku": "894651",
+        "name": "Clairefontaine spiral notebook A5 squared 5x5 180 pages",
+        "score": 1.0
+       }
+      ]
+     },
+     "price": 5.04,
+     "issues": []
+    },
+    {
+     "line_no": 3,
+     "customer_ref": null,
+     "description": "11 coloured paper A4 80 grammes green, per ream",
+     "quantity": 1.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "hybrid",
+      "sku": "117710",
+      "name": "Clairefontaine Trophee coloured paper A4 80g green, ream of 500 sheets",
+      "unit": "ream of 500 sheets",
+      "score": 0.828,
+      "margin": 0.308,
+      "reason": "clear best match",
+      "candidates": [
+       {
+        "sku": "117710",
+        "name": "Clairefontaine Trophee coloured paper A4 80g green, ream of 500 sheets",
+        "score": 0.8283
+       },
+       {
+        "sku": "531412",
+        "name": "Esselte lever arch file A4 80mm green",
+        "score": 0.5204
+       },
+       {
+        "sku": "614850",
+        "name": "Esselte lever arch file A4 50mm green",
+        "score": 0.5101
+       }
+      ]
+     },
+     "price": 7.68,
+     "issues": [
+      {
+       "code": "quantity_unclear",
+       "message": "Line starts with 11 but quantity was read as 1. Check the quantity."
+      }
+     ]
+    },
+    {
+     "line_no": 4,
+     "customer_ref": null,
+     "description": "14 printer paper A4 80 g wht, 500 sheets",
+     "quantity": 1.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "REVIEW",
+      "method": "hybrid",
+      "sku": null,
+      "name": null,
+      "unit": null,
+      "score": 0.815,
+      "margin": 0.004,
+      "reason": "close alternatives (Clairefontaine copy paper A4 80g white, ream of 500 sheets)",
+      "candidates": [
+       {
+        "sku": "515403",
+        "name": "Double A copy paper A4 80g white, ream of 500 sheets",
+        "score": 0.8152
+       },
+       {
+        "sku": "166233",
+        "name": "Clairefontaine copy paper A4 80g white, ream of 500 sheets",
+        "score": 0.8117
+       },
+       {
+        "sku": "998485",
+        "name": "Navigator copy paper A4 80g white, ream of 500 sheets",
+        "score": 0.7988
+       }
+      ]
+     },
+     "price": null,
+     "issues": [
+      {
+       "code": "quantity_unclear",
+       "message": "Line starts with 14 but quantity was read as 1. Check the quantity."
+      },
+      {
+       "code": "choose_product",
+       "message": "Pick the product: close alternatives (Clairefontaine copy paper A4 80g white, ream of 500 sheets)"
+      }
+     ]
+    },
+    {
+     "line_no": 5,
+     "customer_ref": "726872",
+     "description": "COFFEE BEANS CREMA E AROMA",
+     "quantity": 1.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "code",
+      "sku": "726872",
+      "name": "Coffee beans Lavazza Crema e Aroma 1kg",
+      "unit": "each",
+      "score": 1.0,
+      "margin": 1.0,
+      "reason": "product code in the line",
+      "candidates": [
+       {
+        "sku": "726872",
+        "name": "Coffee beans Lavazza Crema e Aroma 1kg",
+        "score": 1.0
+       }
+      ]
+     },
+     "price": 16.82,
+     "issues": []
+    },
+    {
+     "line_no": 6,
+     "customer_ref": null,
+     "description": "memo pads 76x76mm yellow, 12/pack",
+     "quantity": 1.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "hybrid",
+      "sku": "786862",
+      "name": "Post-it notes 76x76mm yellow, pack of 12 pads",
+      "unit": "pack of 12",
+      "score": 0.855,
+      "margin": 0.453,
+      "reason": "clear best match",
+      "candidates": [
+       {
+        "sku": "786862",
+        "name": "Post-it notes 76x76mm yellow, pack of 12 pads",
+        "score": 0.8554
+       },
+       {
+        "sku": "597856",
+        "name": "Leitz lever arch file A4 50mm yellow",
+        "score": 0.4027
+       },
+       {
+        "sku": "146624",
+        "name": "Leitz lever arch file A4 80mm yellow",
+        "score": 0.3983
+       }
+      ]
+     },
+     "price": 9.48,
+     "issues": []
+    },
+    {
+     "line_no": 7,
+     "customer_ref": null,
+     "description": "Slider Memo XB pen extra broad black, x10",
+     "quantity": 1.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "memory",
+      "sku": "562990",
+      "name": "Schneider Slider Memo XB ballpoint pen extra broad black, box of 10",
+      "unit": "box of 10",
+      "score": 1.0,
+      "margin": 1.0,
+      "reason": "same wording confirmed for this customer before",
+      "candidates": [
+       {
+        "sku": "562990",
+        "name": "Schneider Slider Memo XB ballpoint pen extra broad black, box of 10",
+        "score": 1.0
+       }
+      ]
+     },
+     "price": 5.66,
+     "issues": []
+    }
+   ]
+  },
+  {
+   "file": "ord_027.eml",
+   "sender": "grace@harbourviewcare.co.uk",
+   "customer_id": "C012",
+   "customer_name": "Harbour View Care Home",
+   "po_number": "HV5628",
+   "order_date": "2026-09-23",
+   "delivery_date": null,
+   "route": "email-body",
+   "seconds": 26.3,
+   "status": "REVIEW",
+   "issues": [],
+   "lines": [
+    {
+     "line_no": 1,
+     "customer_ref": null,
+     "description": "disposable vinyl gloves PF transparent S, box of 100",
+     "quantity": 110.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "memory",
+      "sku": "943916",
+      "name": "Disposable vinyl gloves powder-free transparent size S, box of 100",
+      "unit": "box of 100",
+      "score": 1.0,
+      "margin": 1.0,
+      "reason": "same wording confirmed for this customer before",
+      "candidates": [
+       {
+        "sku": "943916",
+        "name": "Disposable vinyl gloves powder-free transparent size S, box of 100",
+        "score": 1.0
+       }
+      ]
+     },
+     "price": 8.64,
+     "issues": [
+      {
+       "code": "unusual_quantity",
+       "message": "Ordered 110; usually 6 to 22. Typo?"
+      }
+     ]
+    },
+    {
+     "line_no": 2,
+     "customer_ref": null,
+     "description": "Rubber bands assorted 100g",
+     "quantity": 10.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "memory",
+      "sku": "480949",
+      "name": "Rubber bands assorted 100g",
+      "unit": "each",
+      "score": 1.0,
+      "margin": 1.0,
+      "reason": "same wording confirmed for this customer before",
+      "candidates": [
+       {
+        "sku": "480949",
+        "name": "Rubber bands assorted 100g",
+        "score": 1.0
+       }
+      ]
+     },
+     "price": 12.99,
+     "issues": []
+    },
+    {
+     "line_no": 3,
+     "customer_ref": null,
+     "description": "Glue stick UHU 21g",
+     "quantity": 1.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "memory",
+      "sku": "223695",
+      "name": "Glue stick UHU 21g",
+      "unit": "each",
+      "score": 1.0,
+      "margin": 1.0,
+      "reason": "same wording confirmed for this customer before",
+      "candidates": [
+       {
+        "sku": "223695",
+        "name": "Glue stick UHU 21g",
+        "score": 1.0
+       }
+      ]
+     },
+     "price": 15.18,
+     "issues": []
+    }
+   ]
+  },
+  {
+   "file": "ord_028.eml",
+   "sender": "luc@pharmacie-centrale.be",
+   "customer_id": "C006",
+   "customer_name": "Pharmacie Centrale",
+   "po_number": "PC02825",
+   "order_date": "2026-10-08",
+   "delivery_date": null,
+   "route": "email-body",
+   "seconds": 27.5,
+   "status": "APPROVED",
+   "issues": [],
+   "lines": [
+    {
+     "line_no": 1,
+     "customer_ref": null,
+     "description": "toner laser hp59a noire",
+     "quantity": 3.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "hybrid",
+      "sku": "818427",
+      "name": "HP 59A original toner cartridge black (CF259A)",
+      "unit": "each",
+      "score": 0.766,
+      "margin": 0.291,
+      "reason": "clear best match",
+      "candidates": [
+       {
+        "sku": "818427",
+        "name": "HP 59A original toner cartridge black (CF259A)",
+        "score": 0.7663
+       },
+       {
+        "sku": "637244",
+        "name": "Esselte lever arch file A4 50mm black",
+        "score": 0.4757
+       },
+       {
+        "sku": "196670",
+        "name": "Leitz lever arch file A4 50mm black",
+        "score": 0.4682
+       }
+      ]
+     },
+     "price": 74.86,
+     "issues": []
+    },
+    {
+     "line_no": 2,
+     "customer_ref": null,
+     "description": "bloc spirale oxford a4 carreaux 5x5 180 pages",
+     "quantity": 24.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "hybrid",
+      "sku": "627067",
+      "name": "Oxford spiral notebook A4 squared 5x5 180 pages",
+      "unit": "each",
+      "score": 0.918,
+      "margin": 0.158,
+      "reason": "clear best match",
+      "candidates": [
+       {
+        "sku": "627067",
+        "name": "Oxford spiral notebook A4 squared 5x5 180 pages",
+        "score": 0.9182
+       },
+       {
+        "sku": "203771",
+        "name": "Oxford spiral notebook A4 seyes 180 pages",
+        "score": 0.7602
+       },
+       {
+        "sku": "306440",
+        "name": "Oxford spiral notebook A4 lined 180 pages",
+        "score": 0.731
+       }
+      ]
+     },
+     "price": 3.65,
+     "issues": []
+    },
+    {
+     "line_no": 3,
+     "customer_ref": null,
+     "description": "cahier spirales A5 petits carreaux 100 pages",
+     "quantity": 67.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "memory",
+      "sku": "707074",
+      "name": "Clairefontaine spiral notebook A5 squared 5x5 100 pages",
+      "unit": "each",
+      "score": 1.0,
+      "margin": 1.0,
+      "reason": "same wording confirmed for this customer before",
+      "candidates": [
+       {
+        "sku": "707074",
+        "name": "Clairefontaine spiral notebook A5 squared 5x5 100 pages",
+        "score": 1.0
+       }
+      ]
+     },
+     "price": 3.26,
+     "issues": []
+    }
+   ]
+  },
+  {
+   "file": "ord_029.eml",
+   "sender": "nadia@atlas-marina-hotel.ma",
+   "customer_id": "C003",
+   "customer_name": "Hotel Atlas Marina",
+   "po_number": "HAM/2026/875",
+   "order_date": "2026-10-02",
+   "delivery_date": "2026-10-08",
+   "route": "vision",
+   "seconds": 100.7,
+   "status": "APPROVED",
+   "issues": [],
+   "lines": [
+    {
+     "line_no": 1,
+     "customer_ref": null,
+     "description": "SURIS SANS FIL M185 GRISE",
+     "quantity": 2.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "hybrid",
+      "sku": "304142",
+      "name": "Logitech M185 wireless mouse grey",
+      "unit": "each",
+      "score": 0.807,
+      "margin": 0.495,
+      "reason": "clear best match",
+      "candidates": [
+       {
+        "sku": "304142",
+        "name": "Logitech M185 wireless mouse grey",
+        "score": 0.8072
+       },
+       {
+        "sku": "223695",
+        "name": "Glue stick UHU 21g",
+        "score": 0.3121
+       },
+       {
+        "sku": "659944",
+        "name": "Kingston USB 3.0 flash drive 32GB",
+        "score": 0.3105
+       }
+      ]
+     },
+     "price": 12.9,
+     "issues": []
+    },
+    {
+     "line_no": 2,
+     "customer_ref": null,
+     "description": "Agrafes 26/6, bte de 5000",
+     "quantity": 8.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "memory",
+      "sku": "698298",
+      "name": "Rapid staples 26/6 galvanised, box of 5000",
+      "unit": "box of 5000",
+      "score": 1.0,
+      "margin": 1.0,
+      "reason": "same wording confirmed for this customer before",
+      "candidates": [
+       {
+        "sku": "698298",
+        "name": "Rapid staples 26/6 galvanised, box of 5000",
+        "score": 1.0
+       }
+      ]
+     },
+     "price": 9.88,
+     "issues": []
+    },
+    {
+     "line_no": 3,
+     "customer_ref": null,
+     "description": "ENVELOPPES DL 110X220MM BLANCHES SANS FENETRE BANDE PROTECTRICE, BTE 500",
+     "quantity": 2.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "memory",
+      "sku": "503092",
+      "name": "Envelopes DL 110x220mm white no window peel and seal, box of 500",
+      "unit": "box of 500",
+      "score": 1.0,
+      "margin": 1.0,
+      "reason": "same wording confirmed for this customer before",
+      "candidates": [
+       {
+        "sku": "503092",
+        "name": "Envelopes DL 110x220mm white no window peel and seal, box of 500",
+        "score": 1.0
+       }
+      ]
+     },
+     "price": 34.14,
+     "issues": []
+    },
+    {
+     "line_no": 4,
+     "customer_ref": null,
+     "description": "roller gel g2 rouge, boite de 12",
+     "quantity": 3.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "memory",
+      "sku": "502392",
+      "name": "Pilot G2 gel pen 0.7 red, box of 12",
+      "unit": "box of 12",
+      "score": 1.0,
+      "margin": 1.0,
+      "reason": "same wording confirmed for this customer before",
+      "candidates": [
+       {
+        "sku": "502392",
+        "name": "Pilot G2 gel pen 0.7 red, box of 12",
+        "score": 1.0
+       }
+      ]
+     },
+     "price": 3.37,
+     "issues": []
+    },
+    {
+     "line_no": 5,
+     "customer_ref": null,
+     "description": "Lavettes micofibre 40x40cm jaune, 10 par lot",
+     "quantity": 2.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "hybrid",
+      "sku": "725540",
+      "name": "Microfibre cloths 40x40cm yellow, pack of 10",
+      "unit": "pack of 10",
+      "score": 0.93,
+      "margin": 0.398,
+      "reason": "clear best match",
+      "candidates": [
+       {
+        "sku": "725540",
+        "name": "Microfibre cloths 40x40cm yellow, pack of 10",
+        "score": 0.9297
+       },
+       {
+        "sku": "597856",
+        "name": "Leitz lever arch file A4 50mm yellow",
+        "score": 0.5315
+       },
+       {
+        "sku": "855345",
+        "name": "Esselte lever arch file A4 50mm yellow",
+        "score": 0.5289
+       }
+      ]
+     },
+     "price": 10.42,
+     "issues": []
+    },
+    {
+     "line_no": 6,
+     "customer_ref": null,
+     "description": "rame papier A3 90gr blanc",
+     "quantity": 21.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "memory",
+      "sku": "771394",
+      "name": "Clairefontaine copy paper A3 90g white, ream of 500 sheets",
+      "unit": "ream of 500 sheets",
+      "score": 1.0,
+      "margin": 1.0,
+      "reason": "same wording confirmed for this customer before",
+      "candidates": [
+       {
+        "sku": "771394",
+        "name": "Clairefontaine copy paper A3 90g white, ream of 500 sheets",
+        "score": 1.0
+       }
+      ]
+     },
+     "price": 9.06,
+     "issues": []
+    }
+   ]
+  },
+  {
+   "file": "ord_030.eml",
+   "sender": "sophie@ecole-tilleuls.fr",
+   "customer_id": "C004",
+   "customer_name": "Ecole Les Tilleuls",
+   "po_number": "ET-050",
+   "order_date": "2026-10-01",
+   "delivery_date": "2026-10-06",
+   "route": "vision",
+   "seconds": 93.2,
+   "status": "REVIEW",
+   "issues": [],
+   "lines": [
+    {
+     "line_no": 1,
+     "customer_ref": null,
+     "description": "CRG-054M toner laser Canon 054 magenta",
+     "quantity": 3.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "code",
+      "sku": "792049",
+      "name": "Canon 054 original toner cartridge magenta (CRG-054M)",
+      "unit": "each",
+      "score": 1.0,
+      "margin": 1.0,
+      "reason": "product code in the line",
+      "candidates": [
+       {
+        "sku": "792049",
+        "name": "Canon 054 original toner cartridge magenta (CRG-054M)",
+        "score": 1.0
+       }
+      ]
+     },
+     "price": 102.91,
+     "issues": []
+    },
+    {
+     "line_no": 2,
+     "customer_ref": null,
+     "description": "cartouche hp 410a noir",
+     "quantity": 1.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "memory",
+      "sku": "175758",
+      "name": "HP 410A original toner cartridge black (CF410A)",
+      "unit": "each",
+      "score": 1.0,
+      "margin": 1.0,
+      "reason": "same wording confirmed for this customer before",
+      "candidates": [
+       {
+        "sku": "175758",
+        "name": "HP 410A original toner cartridge black (CF410A)",
+        "score": 1.0
+       }
+      ]
+     },
+     "price": 77.06,
+     "issues": []
+    },
+    {
+     "line_no": 3,
+     "customer_ref": null,
+     "description": "enveloppes courrier c4 229x324mm blanches sans fenetre auto-adhesive, (250)",
+     "quantity": 5.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "REVIEW",
+      "method": "hybrid",
+      "sku": null,
+      "name": null,
+      "unit": null,
+      "score": 0.867,
+      "margin": 0.018,
+      "reason": "close alternatives (Envelopes C4 229x324mm white no window peel and seal, box of 250)",
+      "candidates": [
+       {
+        "sku": "645233",
+        "name": "Envelopes C4 229x324mm white no window self-seal, box of 250",
+        "score": 0.8665
+       },
+       {
+        "sku": "851070",
+        "name": "Envelopes C4 229x324mm white no window peel and seal, box of 250",
+        "score": 0.8483
+       },
+       {
+        "sku": "339490",
+        "name": "Esselte lever arch file A4 50mm white",
+        "score": 0.3018
+       }
+      ]
+     },
+     "price": null,
+     "issues": [
+      {
+       "code": "choose_product",
+       "message": "Pick the product: close alternatives (Envelopes C4 229x324mm white no window peel and seal, box of 250)"
+      }
+     ]
+    },
+    {
+     "line_no": 4,
+     "customer_ref": null,
+     "description": "cartouche toner TN-2420 noir",
+     "quantity": 4.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "code",
+      "sku": "191993",
+      "name": "Brother TN-2420 original toner cartridge black",
+      "unit": "each",
+      "score": 1.0,
+      "margin": 1.0,
+      "reason": "product code in the line",
+      "candidates": [
+       {
+        "sku": "191993",
+        "name": "Brother TN-2420 original toner cartridge black",
+        "score": 1.0
+       }
+      ]
+     },
+     "price": 68.86,
+     "issues": []
+    },
+    {
+     "line_no": 5,
+     "customer_ref": null,
+     "description": "sacs a dechets Sacs Pro 30 lt noire, 20 par rouleau",
+     "quantity": 12.0,
+     "unit_price_written": null,
+     "match": {
+      "status": "AUTO",
+      "method": "hybrid",
+      "sku": "460182",
+      "name": "Sacs Pro bin bags 30L black, roll of 20",
+      "unit": "roll of 20",
+      "score": 0.89,
+      "margin": 0.606,
+      "reason": "clear best match",
+      "candidates": [
+       {
+        "sku": "460182",
+        "name": "Sacs Pro bin bags 30L black, roll of 20",
+        "score": 0.8897
+       },
+       {
+        "sku": "710005",
+        "name": "Tea bags Lipton Yellow Label, box of 100",
+        "score": 0.2837
+       },
+       {
+        "sku": "605490",
+        "name": "Sacs Pro bin bags 50L black, roll of 20",
+        "score": 0.2832
+       }
+      ]
+     },
+     "price": 2.61,
+     "issues": []
+    }
+   ]
+  }
+ ],
+ "summary": {
+  "orders": 30,
+  "approved": 10,
+  "approved_fully_correct": 10,
+  "errors_reaching_erp": 0,
+  "clean_orders": 18,
+  "clean_orders_approved": 10,
+  "anomalies_total": 12,
+  "anomalies_caught": 11,
+  "anomalies_by_type": {
+   "qty_outlier": "3/3",
+   "price_mismatch": "2/3",
+   "discontinued": "2/2",
+   "not_in_catalog": "2/2",
+   "duplicate_po": "2/2"
+  },
+  "header_accuracy": {
+   "po_number": 1.0,
+   "order_date": 1.0,
+   "delivery_date": 1.0
+  },
+  "lines": 140,
+  "lines_extracted": 140,
+  "description_exact": 0.9285714285714286,
+  "quantity_accuracy": 0.9571428571428572,
+  "price_accuracy": 1.0,
+  "lines_auto_matched": 121,
+  "line_auto_rate": 0.8642857142857143,
+  "wrong_auto_matches": 0,
+  "avg_seconds_by_route": {
+   "email-body": 36.9,
+   "pdf-text": 31.9,
+   "vision": 86.7
+  },
+  "errors": []
+ }
+}

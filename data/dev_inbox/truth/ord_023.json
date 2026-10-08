@@ -1,0 +1,53 @@
+{
+ "order_id": "ord_023",
+ "customer_id": "C006",
+ "sender": "luc@pharmacie-centrale.be",
+ "po_number": "PC03199",
+ "order_date": "2026-09-29",
+ "delivery_date": "2026-10-04",
+ "lines": [
+  {
+   "text": "papier photocopie navigator a3 90 g/m2 blanc, 500 ff",
+   "customer_ref": null,
+   "quantity": 25.0,
+   "unit_price": null,
+   "sku": "295217",
+   "kind": "new",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "etiquettes L7173 99.1x57mm, 10 par feuille, 100 feuilles",
+   "customer_ref": null,
+   "quantity": 5.0,
+   "unit_price": null,
+   "sku": "803907",
+   "kind": "new",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "toner HP 59X noir (CF259X)",
+   "customer_ref": null,
+   "quantity": 4.0,
+   "unit_price": null,
+   "sku": "181442",
+   "kind": "repeat",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "Pochettes de plastification A4 125 microns, boite de 100",
+   "customer_ref": null,
+   "quantity": 3.0,
+   "unit_price": null,
+   "sku": null,
+   "kind": "not_in_catalog",
+   "ambiguous": false,
+   "anomaly": "not_in_catalog"
+  }
+ ],
+ "anomaly": "not_in_catalog",
+ "format": "email",
+ "with_prices": false
+}

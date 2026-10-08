@@ -1,0 +1,43 @@
+{
+ "order_id": "ord_012",
+ "customer_id": "C003",
+ "sender": "nadia@atlas-marina-hotel.ma",
+ "po_number": "HAM/2026/944",
+ "order_date": "2026-10-02",
+ "delivery_date": null,
+ "lines": [
+  {
+   "text": "toner laser 410 a noir",
+   "customer_ref": null,
+   "quantity": 2.0,
+   "unit_price": 81.34,
+   "sku": "175758",
+   "kind": "new",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "Ruban adhesif emballage marron 48mmx66m, paquet de 6",
+   "customer_ref": null,
+   "quantity": 1.0,
+   "unit_price": 9.44,
+   "sku": "833783",
+   "kind": "new",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "produit vaisselle 5L",
+   "customer_ref": null,
+   "quantity": 5.0,
+   "unit_price": 11.7,
+   "sku": "225420",
+   "kind": "repeat",
+   "ambiguous": false,
+   "anomaly": null
+  }
+ ],
+ "anomaly": null,
+ "format": "photo",
+ "with_prices": true
+}

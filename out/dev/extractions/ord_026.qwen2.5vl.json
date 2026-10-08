@@ -1,0 +1,101 @@
+{
+ "sender": "grace@harbourviewcare.co.uk",
+ "po_number": "HV9375",
+ "order_date": "2026-09-15",
+ "delivery_date": "2026-09-24",
+ "lines": [
+  {
+   "customer_ref": null,
+   "description": "bic cristal fine fine ballpen blk, 50 per box",
+   "quantity": 5.0,
+   "unit_price": null
+  },
+  {
+   "customer_ref": null,
+   "description": "Jumbo toilet roll 2-ply 200m, pk 6",
+   "quantity": 7.0,
+   "unit_price": null
+  },
+  {
+   "customer_ref": null,
+   "description": "Esselte lever-arch binder A4 8 cm black",
+   "quantity": 20.0,
+   "unit_price": null
+  },
+  {
+   "customer_ref": null,
+   "description": "microfibre cloths 40x40cm blue, pk 10",
+   "quantity": 11.0,
+   "unit_price": null
+  },
+  {
+   "customer_ref": null,
+   "description": "energizer batts aaa, pk 24",
+   "quantity": 10.0,
+   "unit_price": null
+  },
+  {
+   "customer_ref": null,
+   "description": "MICROFIBER CLOTHS 40X40CM YELLOW, X10",
+   "quantity": 8.0,
+   "unit_price": null
+  },
+  {
+   "customer_ref": null,
+   "description": "printer paper A3 80gsm wht, ream",
+   "quantity": 340.0,
+   "unit_price": null
+  }
+ ],
+ "route": "email-body",
+ "seconds": 57.08499062500778,
+ "raw": {
+  "po_number": "HV9375",
+  "order_date": "",
+  "delivery_date": "24/09/2026",
+  "lines": [
+   {
+    "customer_ref": "",
+    "description": "bic cristal fine fine ballpen blk, 50 per box",
+    "quantity": "5",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "Jumbo toilet roll 2-ply 200m, pk 6",
+    "quantity": "7",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "Esselte lever-arch binder A4 8 cm black",
+    "quantity": "20",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "microfibre cloths 40x40cm blue, pk 10",
+    "quantity": "11",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "energizer batts aaa, pk 24",
+    "quantity": "10",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "MICROFIBER CLOTHS 40X40CM YELLOW, X10",
+    "quantity": "8",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "printer paper A3 80gsm wht, ream",
+    "quantity": "340",
+    "unit_price": ""
+   }
+  ]
+ }
+}

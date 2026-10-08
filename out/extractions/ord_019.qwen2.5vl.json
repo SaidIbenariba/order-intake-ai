@@ -1,0 +1,108 @@
+{
+ "sender": "priya@lumen-architects.co.uk",
+ "po_number": "LA-9185",
+ "order_date": "2026-09-18",
+ "delivery_date": "2026-09-20",
+ "lines": [
+  {
+   "customer_ref": null,
+   "description": "Leitz lever arch file A4 80 mm red",
+   "quantity": 32.0,
+   "unit_price": null,
+   "qty_note": null
+  },
+  {
+   "customer_ref": null,
+   "description": "Esselte lever-arch binder A4 8 cm red",
+   "quantity": 19.0,
+   "unit_price": null,
+   "qty_note": null
+  },
+  {
+   "customer_ref": null,
+   "description": "floor cleaner 5 l",
+   "quantity": 7.0,
+   "unit_price": null,
+   "qty_note": null
+  },
+  {
+   "customer_ref": null,
+   "description": "Oxford spiral pad A4 lined 180 pages",
+   "quantity": 24.0,
+   "unit_price": null,
+   "qty_note": null
+  },
+  {
+   "customer_ref": null,
+   "description": "sanitizer gel 500ml",
+   "quantity": 12.0,
+   "unit_price": null,
+   "qty_note": null
+  },
+  {
+   "customer_ref": null,
+   "description": "memo pads 76x76mm green, 12 per pack",
+   "quantity": 5.0,
+   "unit_price": null,
+   "qty_note": null
+  },
+  {
+   "customer_ref": null,
+   "description": "bean coffee Qualita Oro 1kg",
+   "quantity": 30.0,
+   "unit_price": null,
+   "qty_note": null
+  }
+ ],
+ "route": "email-body",
+ "seconds": 51.16074375000608,
+ "raw": {
+  "po_number": "LA-9185",
+  "order_date": "",
+  "delivery_date": "20/09/2026",
+  "lines": [
+   {
+    "customer_ref": "",
+    "description": "Leitz lever arch file A4 80 mm red",
+    "quantity": "32",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "Esselte lever-arch binder A4 8 cm red",
+    "quantity": "19",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "floor cleaner 5 l",
+    "quantity": "7",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "Oxford spiral pad A4 lined 180 pages",
+    "quantity": "24",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "sanitizer gel 500ml",
+    "quantity": "12",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "memo pads 76x76mm green, 12 per pack",
+    "quantity": "5",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "bean coffee Qualita Oro 1kg",
+    "quantity": "30",
+    "unit_price": ""
+   }
+  ]
+ }
+}

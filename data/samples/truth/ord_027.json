@@ -1,0 +1,43 @@
+{
+ "order_id": "ord_027",
+ "customer_id": "C012",
+ "sender": "grace@harbourviewcare.co.uk",
+ "po_number": "HV5628",
+ "order_date": "2026-09-23",
+ "delivery_date": null,
+ "lines": [
+  {
+   "text": "disposable vinyl gloves PF transparent S, box of 100",
+   "customer_ref": null,
+   "quantity": 110.0,
+   "unit_price": null,
+   "sku": "943916",
+   "kind": "repeat",
+   "ambiguous": false,
+   "anomaly": "qty_outlier"
+  },
+  {
+   "text": "Rubber bands assorted 100g",
+   "customer_ref": null,
+   "quantity": 10.0,
+   "unit_price": null,
+   "sku": "480949",
+   "kind": "repeat",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "Glue stick UHU 21g",
+   "customer_ref": null,
+   "quantity": 1.0,
+   "unit_price": null,
+   "sku": "223695",
+   "kind": "repeat",
+   "ambiguous": false,
+   "anomaly": null
+  }
+ ],
+ "anomaly": "qty_outlier",
+ "format": "email",
+ "with_prices": false
+}

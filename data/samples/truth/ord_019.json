@@ -1,0 +1,83 @@
+{
+ "order_id": "ord_019",
+ "customer_id": "C009",
+ "sender": "priya@lumen-architects.co.uk",
+ "po_number": "LA-9185",
+ "order_date": "2026-09-18",
+ "delivery_date": "2026-09-20",
+ "lines": [
+  {
+   "text": "Leitz lever arch file A4 80 mm red",
+   "customer_ref": null,
+   "quantity": 32.0,
+   "unit_price": null,
+   "sku": "243241",
+   "kind": "repeat",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "Esselte lever-arch binder A4 8 cm red",
+   "customer_ref": null,
+   "quantity": 19.0,
+   "unit_price": null,
+   "sku": "885367",
+   "kind": "new",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "floor cleaner 5 l",
+   "customer_ref": null,
+   "quantity": 7.0,
+   "unit_price": null,
+   "sku": "987498",
+   "kind": "repeat",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "Oxford spiral pad A4 lined 180 pages",
+   "customer_ref": null,
+   "quantity": 24.0,
+   "unit_price": null,
+   "sku": "306440",
+   "kind": "new",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "sanitizer gel 500ml",
+   "customer_ref": null,
+   "quantity": 12.0,
+   "unit_price": null,
+   "sku": "565928",
+   "kind": "repeat",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "memo pads 76x76mm green, 12 per pack",
+   "customer_ref": null,
+   "quantity": 5.0,
+   "unit_price": null,
+   "sku": "848917",
+   "kind": "new",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "bean coffee Qualita Oro 1kg",
+   "customer_ref": null,
+   "quantity": 30.0,
+   "unit_price": null,
+   "sku": "399631",
+   "kind": "repeat",
+   "ambiguous": false,
+   "anomaly": null
+  }
+ ],
+ "anomaly": "duplicate_po",
+ "format": "email",
+ "with_prices": false
+}

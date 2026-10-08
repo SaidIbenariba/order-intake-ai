@@ -1,0 +1,101 @@
+{
+ "sender": "daniel@kestrel-eng.com",
+ "po_number": "4500008998",
+ "order_date": "2026-09-08",
+ "delivery_date": "2026-09-08",
+ "lines": [
+  {
+   "customer_ref": "FN-1870",
+   "description": "Esselte lever arch A4 80 mm blu",
+   "quantity": 8.0,
+   "unit_price": 3.49
+  },
+  {
+   "customer_ref": "FN-2417",
+   "description": "nitrile gloves non-powdered blu XL, (100)",
+   "quantity": 27.0,
+   "unit_price": 7.21
+  },
+  {
+   "customer_ref": "MAT-4343",
+   "description": "notes 76x76mm yellow",
+   "quantity": 3.0,
+   "unit_price": 8.98
+  },
+  {
+   "customer_ref": "MAT-8113",
+   "description": "Oxford spiral notebook A4 squared 5x5 180 pages",
+   "quantity": 11.0,
+   "unit_price": 3.46
+  },
+  {
+   "customer_ref": "ART-9827",
+   "description": "SanDisk usb stick 128GB",
+   "quantity": 4.0,
+   "unit_price": 9.69
+  },
+  {
+   "customer_ref": "MAT-1172",
+   "description": "tinted paper a4 80grs pink, 500 sht ream",
+   "quantity": 26.0,
+   "unit_price": 8.27
+  },
+  {
+   "customer_ref": "MAT-9366",
+   "description": "office paper A4 90grs white, ream of 500 sheets",
+   "quantity": 26.0,
+   "unit_price": 5.1
+  }
+ ],
+ "route": "pdf-text",
+ "seconds": 155.60743262499454,
+ "raw": {
+  "po_number": "4500008998",
+  "order_date": "",
+  "delivery_date": "08/09/2026",
+  "lines": [
+   {
+    "customer_ref": "FN-1870",
+    "description": "Esselte lever arch A4 80 mm blu",
+    "quantity": "8",
+    "unit_price": "3.49"
+   },
+   {
+    "customer_ref": "FN-2417",
+    "description": "nitrile gloves non-powdered blu XL, (100)",
+    "quantity": "27",
+    "unit_price": "7.21"
+   },
+   {
+    "customer_ref": "MAT-4343",
+    "description": "notes 76x76mm yellow",
+    "quantity": "3",
+    "unit_price": "8.98"
+   },
+   {
+    "customer_ref": "MAT-8113",
+    "description": "Oxford spiral notebook A4 squared 5x5 180 pages",
+    "quantity": "11",
+    "unit_price": "3.46"
+   },
+   {
+    "customer_ref": "ART-9827",
+    "description": "SanDisk usb stick 128GB",
+    "quantity": "4",
+    "unit_price": "9.69"
+   },
+   {
+    "customer_ref": "MAT-1172",
+    "description": "tinted paper a4 80grs pink, 500 sht ream",
+    "quantity": "26",
+    "unit_price": "8.27"
+   },
+   {
+    "customer_ref": "MAT-9366",
+    "description": "office paper A4 90grs white, ream of 500 sheets",
+    "quantity": "26",
+    "unit_price": "5.10"
+   }
+  ]
+ }
+}

@@ -1,0 +1,63 @@
+{
+ "order_id": "ord_030",
+ "customer_id": "C004",
+ "sender": "sophie@ecole-tilleuls.fr",
+ "po_number": "ET-050",
+ "order_date": "2026-10-01",
+ "delivery_date": "2026-10-06",
+ "lines": [
+  {
+   "text": "CRG-054M toner laser Canon 054 magenta",
+   "customer_ref": null,
+   "quantity": 3.0,
+   "unit_price": null,
+   "sku": "792049",
+   "kind": "mpn_code",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "cartouche hp 410a noir",
+   "customer_ref": null,
+   "quantity": 1.0,
+   "unit_price": null,
+   "sku": "175758",
+   "kind": "repeat",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "enveloppes courrier c4 229x324mm blanches sans fenetre auto-adhesive, (250)",
+   "customer_ref": null,
+   "quantity": 5.0,
+   "unit_price": null,
+   "sku": "645233",
+   "kind": "new",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "cartouche toner TN-2420 noir",
+   "customer_ref": null,
+   "quantity": 4.0,
+   "unit_price": null,
+   "sku": "191993",
+   "kind": "repeat",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "sacs a dechets Sacs Pro 30 lt noire, 20 par rouleau",
+   "customer_ref": null,
+   "quantity": 12.0,
+   "unit_price": null,
+   "sku": "460182",
+   "kind": "new",
+   "ambiguous": false,
+   "anomaly": null
+  }
+ ],
+ "anomaly": null,
+ "format": "photo",
+ "with_prices": false
+}

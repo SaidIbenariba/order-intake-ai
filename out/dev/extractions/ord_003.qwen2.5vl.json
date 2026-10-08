@@ -1,0 +1,77 @@
+{
+ "sender": "sophie@ecole-tilleuls.fr",
+ "po_number": "ET-263",
+ "order_date": "2026-10-10",
+ "delivery_date": "2026-10-17",
+ "lines": [
+  {
+   "customer_ref": null,
+   "description": "classeur a levier A4 dos 50mm noir",
+   "quantity": 22.0,
+   "unit_price": null
+  },
+  {
+   "customer_ref": null,
+   "description": "CF226A TONER LASER HP 26 A NOIRE",
+   "quantity": 1.0,
+   "unit_price": null
+  },
+  {
+   "customer_ref": null,
+   "description": "baton de colle uhu 21g",
+   "quantity": 9.0,
+   "unit_price": null
+  },
+  {
+   "customer_ref": null,
+   "description": "memoire usb Kingston 32 Go",
+   "quantity": 3.0,
+   "unit_price": null
+  },
+  {
+   "customer_ref": null,
+   "description": "papier photocopie Xerox Performer A3 80 grammes blanc",
+   "quantity": 23.0,
+   "unit_price": null
+  }
+ ],
+ "route": "email-body",
+ "seconds": 63.15666608400352,
+ "raw": {
+  "po_number": "ET-263",
+  "order_date": "",
+  "delivery_date": "17/10/2026",
+  "lines": [
+   {
+    "customer_ref": "",
+    "description": "classeur a levier A4 dos 50mm noir",
+    "quantity": "22",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "CF226A TONER LASER HP 26 A NOIRE",
+    "quantity": "1",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "baton de colle uhu 21g",
+    "quantity": "9",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "memoire usb Kingston 32 Go",
+    "quantity": "3",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "papier photocopie Xerox Performer A3 80 grammes blanc",
+    "quantity": "23",
+    "unit_price": ""
+   }
+  ]
+ }
+}

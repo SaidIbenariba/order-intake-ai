@@ -1,0 +1,53 @@
+{
+ "sender": "nadia@atlas-marina-hotel.ma",
+ "po_number": "HAM/2026/671",
+ "order_date": "2026-09-24",
+ "delivery_date": "2026-10-03",
+ "lines": [
+  {
+   "customer_ref": null,
+   "description": "produit vaisselle 5L",
+   "quantity": 5.0,
+   "unit_price": null
+  },
+  {
+   "customer_ref": null,
+   "description": "cartouche laser hp85a noir",
+   "quantity": 3.0,
+   "unit_price": null
+  },
+  {
+   "customer_ref": null,
+   "description": "ENVELOPPES DL 110X220MM BLANCHES SANS FENETRE BANDE PROTECTRICE, BTE 500",
+   "quantity": 3.0,
+   "unit_price": null
+  }
+ ],
+ "route": "email-body",
+ "seconds": 35.438668667004094,
+ "raw": {
+  "po_number": "HAM/2026/671",
+  "order_date": "",
+  "delivery_date": "03/10/2026",
+  "lines": [
+   {
+    "customer_ref": "",
+    "description": "produit vaisselle 5L",
+    "quantity": "5",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "cartouche laser hp85a noir",
+    "quantity": "3",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "ENVELOPPES DL 110X220MM BLANCHES SANS FENETRE BANDE PROTECTRICE, BTE 500",
+    "quantity": "3",
+    "unit_price": ""
+   }
+  ]
+ }
+}

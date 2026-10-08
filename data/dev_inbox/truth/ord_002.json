@@ -1,0 +1,73 @@
+{
+ "order_id": "ord_002",
+ "customer_id": "C004",
+ "sender": "sophie@ecole-tilleuls.fr",
+ "po_number": "ET-263",
+ "order_date": "2026-09-22",
+ "delivery_date": "2026-10-02",
+ "lines": [
+  {
+   "text": "cartouche toner TN-243C cyan",
+   "customer_ref": null,
+   "quantity": 1.0,
+   "unit_price": null,
+   "sku": "218368",
+   "kind": "repeat",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "LAVETTES MICROFIBRE 40X40CM BLEU, X10",
+   "customer_ref": null,
+   "quantity": 12.0,
+   "unit_price": null,
+   "sku": "504648",
+   "kind": "repeat",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "toner HP 410 A magenta",
+   "customer_ref": null,
+   "quantity": 4.0,
+   "unit_price": null,
+   "sku": "979094",
+   "kind": "new",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "Trombones 32mm, x100",
+   "customer_ref": null,
+   "quantity": 5.0,
+   "unit_price": null,
+   "sku": "474023",
+   "kind": "new",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "sacs a dechets Raja 110 lt noir, 10 par rouleau",
+   "customer_ref": null,
+   "quantity": 8.0,
+   "unit_price": null,
+   "sku": "310694",
+   "kind": "new",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "ramette reprographique Navigator A3 80grs blanc, 500 ff",
+   "customer_ref": null,
+   "quantity": 33.0,
+   "unit_price": null,
+   "sku": "598873",
+   "kind": "new",
+   "ambiguous": false,
+   "anomaly": null
+  }
+ ],
+ "anomaly": null,
+ "format": "photo",
+ "with_prices": false
+}

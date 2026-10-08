@@ -1,0 +1,44 @@
+order_ref,customer_id,customer_name,po_number,order_date,delivery_date,line_no,sku,product,unit,quantity,unit_price,line_total
+ord_001,C010,Riverside Coworking,RC-2026-556,2026-10-01,2026-10-03,1,306139,"Stabilo Boss Original highlighter pink, box of 10",box of 10,4.0,4.58,18.32
+ord_001,C010,Riverside Coworking,RC-2026-556,2026-10-01,2026-10-03,2,304940,Bleach 2.6% 5L,each,4.0,10.16,40.64
+ord_003,C006,Pharmacie Centrale,PC06132,2026-10-01,2026-10-05,1,707074,Clairefontaine spiral notebook A5 squared 5x5 100 pages,each,67.0,3.26,218.42
+ord_003,C006,Pharmacie Centrale,PC06132,2026-10-01,2026-10-05,2,715141,Kingston USB 3.0 flash drive 128GB,each,1.0,17.18,17.18
+ord_003,C006,Pharmacie Centrale,PC06132,2026-10-01,2026-10-05,3,267810,"Disposable vinyl gloves powder-free transparent size L, box of 100",box of 100,20.0,9.7,194.0
+ord_003,C006,Pharmacie Centrale,PC06132,2026-10-01,2026-10-05,4,731262,"Pilot BPS-GP ballpoint pen retractable red, box of 12",box of 12,10.0,3.6,36.0
+ord_005,C009,Lumen Architects Ltd,LA-9185,2026-09-27,2026-10-05,1,509871,"Disposable nitrile gloves powder-free blue size M, box of 100",box of 100,13.0,9.83,127.79
+ord_005,C009,Lumen Architects Ltd,LA-9185,2026-09-27,2026-10-05,2,146624,Leitz lever arch file A4 80mm yellow,each,54.0,3.52,190.08
+ord_005,C009,Lumen Architects Ltd,LA-9185,2026-09-27,2026-10-05,3,899011,"Sacs Pro bin bags 50L blue, roll of 20",roll of 20,12.0,2.94,35.28
+ord_005,C009,Lumen Architects Ltd,LA-9185,2026-09-27,2026-10-05,4,243241,Leitz lever arch file A4 80mm red,each,32.0,3.94,126.08
+ord_005,C009,Lumen Architects Ltd,LA-9185,2026-09-27,2026-10-05,5,152847,Correction tape Tipp-Ex Mini Pocket 5mmx6m,each,18.0,14.72,264.96
+ord_005,C009,Lumen Architects Ltd,LA-9185,2026-09-27,2026-10-05,6,574456,"Rapid staples 24/6 galvanised, box of 1000",box of 1000,4.0,2.18,8.72
+ord_005,C009,Lumen Architects Ltd,LA-9185,2026-09-27,2026-10-05,7,399631,Coffee beans Lavazza Qualita Oro 1kg,each,40.0,18.23,729.2
+ord_007,C004,Ecole Les Tilleuls,ET-996,2026-10-02,,1,504648,"Microfibre cloths 40x40cm blue, pack of 10",pack of 10,6.0,9.29,55.74
+ord_007,C004,Ecole Les Tilleuls,ET-996,2026-10-02,,2,794628,"Clairefontaine copy paper A3 100g white, ream of 500 sheets",ream of 500 sheets,48.0,9.64,462.72
+ord_007,C004,Ecole Les Tilleuls,ET-996,2026-10-02,,3,170538,Leitz lever arch file A4 80mm blue,each,15.0,3.54,53.1
+ord_007,C004,Ecole Les Tilleuls,ET-996,2026-10-02,,4,191993,Brother TN-2420 original toner cartridge black,each,2.0,68.86,137.72
+ord_007,C004,Ecole Les Tilleuls,ET-996,2026-10-02,,5,152847,Correction tape Tipp-Ex Mini Pocket 5mmx6m,each,2.0,13.94,27.88
+ord_015,C002,Clinique des Oliviers,CO000018,2026-09-02,2026-09-06,1,293500,"Sacs Pro bin bags 100L transparent, roll of 10",roll of 10,4.0,6.62,26.48
+ord_015,C002,Clinique des Oliviers,CO000018,2026-09-02,2026-09-06,2,550379,"Mineral water 1.5L, pack of 6",pack of 6,6.0,3.77,22.62
+ord_015,C002,Clinique des Oliviers,CO000018,2026-09-02,2026-09-06,3,229482,Oxford spiral notebook A5 lined 180 pages,each,51.0,3.84,195.84
+ord_015,C002,Clinique des Oliviers,CO000018,2026-09-02,2026-09-06,4,471793,"Disposable nitrile gloves powder-free blue size L, box of 100",box of 100,17.0,7.61,129.37
+ord_015,C002,Clinique des Oliviers,CO000018,2026-09-02,2026-09-06,5,318872,"Edding 360 whiteboard marker round tip red, box of 10",box of 10,4.0,2.54,10.16
+ord_016,C010,Riverside Coworking,RC-2026-840,2026-09-22,,1,221922,"Disposable vinyl gloves powder-free transparent size M, box of 100",box of 100,8.0,9.31,74.48
+ord_016,C010,Riverside Coworking,RC-2026-840,2026-09-22,,2,191993,Brother TN-2420 original toner cartridge black,each,3.0,68.86,206.58
+ord_016,C010,Riverside Coworking,RC-2026-840,2026-09-22,,3,598873,"Navigator copy paper A3 80g white, ream of 500 sheets",ream of 500 sheets,48.0,7.79,373.92
+ord_024,C012,Harbour View Care Home,HV0667,2026-09-13,2026-09-17,1,710519,"Energizer alkaline batteries D, pack of 2",pack of 2,9.0,3.7,33.3
+ord_024,C012,Harbour View Care Home,HV0667,2026-09-13,2026-09-17,2,687878,Ground coffee Carte Noire 250g,each,16.0,4.01,64.16
+ord_024,C012,Harbour View Care Home,HV0667,2026-09-13,2026-09-17,3,650483,"Energizer alkaline batteries AA, pack of 24",pack of 24,4.0,33.09,132.36
+ord_024,C012,Harbour View Care Home,HV0667,2026-09-13,2026-09-17,4,598873,"Navigator copy paper A3 80g white, ream of 500 sheets",ream of 500 sheets,34.0,8.22,279.48
+ord_025,C004,Ecole Les Tilleuls,ET-748,2026-10-01,2026-10-06,1,637244,Esselte lever arch file A4 50mm black,each,11.0,2.38,26.18
+ord_025,C004,Ecole Les Tilleuls,ET-748,2026-10-01,2026-10-06,2,851070,"Envelopes C4 229x324mm white no window peel and seal, box of 250",box of 250,5.0,23.27,116.35
+ord_025,C004,Ecole Les Tilleuls,ET-748,2026-10-01,2026-10-06,3,818499,"Raja bin bags 100L transparent, roll of 10",roll of 10,20.0,5.11,102.2
+ord_025,C004,Ecole Les Tilleuls,ET-748,2026-10-01,2026-10-06,4,152847,Correction tape Tipp-Ex Mini Pocket 5mmx6m,each,1.0,13.94,13.94
+ord_028,C006,Pharmacie Centrale,PC02825,2026-10-08,,1,818427,HP 59A original toner cartridge black (CF259A),each,3.0,74.86,224.58
+ord_028,C006,Pharmacie Centrale,PC02825,2026-10-08,,2,627067,Oxford spiral notebook A4 squared 5x5 180 pages,each,24.0,3.65,87.6
+ord_028,C006,Pharmacie Centrale,PC02825,2026-10-08,,3,707074,Clairefontaine spiral notebook A5 squared 5x5 100 pages,each,67.0,3.26,218.42
+ord_029,C003,Hotel Atlas Marina,HAM/2026/875,2026-10-02,2026-10-08,1,304142,Logitech M185 wireless mouse grey,each,2.0,12.9,25.8
+ord_029,C003,Hotel Atlas Marina,HAM/2026/875,2026-10-02,2026-10-08,2,698298,"Rapid staples 26/6 galvanised, box of 5000",box of 5000,8.0,9.88,79.04
+ord_029,C003,Hotel Atlas Marina,HAM/2026/875,2026-10-02,2026-10-08,3,503092,"Envelopes DL 110x220mm white no window peel and seal, box of 500",box of 500,2.0,34.14,68.28
+ord_029,C003,Hotel Atlas Marina,HAM/2026/875,2026-10-02,2026-10-08,4,502392,"Pilot G2 gel pen 0.7 red, box of 12",box of 12,3.0,3.37,10.11
+ord_029,C003,Hotel Atlas Marina,HAM/2026/875,2026-10-02,2026-10-08,5,725540,"Microfibre cloths 40x40cm yellow, pack of 10",pack of 10,2.0,10.42,20.84
+ord_029,C003,Hotel Atlas Marina,HAM/2026/875,2026-10-02,2026-10-08,6,771394,"Clairefontaine copy paper A3 90g white, ream of 500 sheets",ream of 500 sheets,21.0,9.06,190.26

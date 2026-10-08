@@ -1,0 +1,53 @@
+{
+ "order_id": "ord_006",
+ "customer_id": "C011",
+ "sender": "daniel@kestrel-eng.com",
+ "po_number": "4500004296",
+ "order_date": "2026-09-07",
+ "delivery_date": "2026-09-12",
+ "lines": [
+  {
+   "text": "wireound notebook A5 lined 100 pages",
+   "customer_ref": "ART-7743",
+   "quantity": 30.0,
+   "unit_price": 4.02,
+   "sku": "937084",
+   "kind": "new",
+   "ambiguous": true,
+   "anomaly": "discontinued"
+  },
+  {
+   "text": "raja refuse sacks 30-litre black, 20 per roll",
+   "customer_ref": "MAT-6996",
+   "quantity": 30.0,
+   "unit_price": 2.19,
+   "sku": "201566",
+   "kind": "new",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "wirebound nottebook A4 lined 100 pages",
+   "customer_ref": "FN-3166",
+   "quantity": 68.0,
+   "unit_price": 1.9,
+   "sku": "458669",
+   "kind": "new",
+   "ambiguous": true,
+   "anomaly": null
+  },
+  {
+   "text": "env C5 162x229mm wht window peel and seal, 500/box",
+   "customer_ref": "FN-8055",
+   "quantity": 4.0,
+   "unit_price": 15.54,
+   "sku": "467782",
+   "kind": "repeat",
+   "ambiguous": false,
+   "anomaly": null
+  }
+ ],
+ "anomaly": "discontinued",
+ "format": "pdf",
+ "with_prices": true
+}

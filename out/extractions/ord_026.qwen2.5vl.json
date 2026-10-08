@@ -1,0 +1,108 @@
+{
+ "sender": "james@northgate-academy.org.uk",
+ "po_number": "NGA04846",
+ "order_date": "2026-09-17",
+ "delivery_date": null,
+ "lines": [
+  {
+   "customer_ref": null,
+   "description": "Bic Cristal Fine pen fine red, x50",
+   "quantity": 50.0,
+   "unit_price": null,
+   "qty_note": null
+  },
+  {
+   "customer_ref": null,
+   "description": "clairefontaine spiral pad a5 squared 5x5 180 pages",
+   "quantity": 1.0,
+   "unit_price": null,
+   "qty_note": null
+  },
+  {
+   "customer_ref": null,
+   "description": "11 coloured paper A4 80 grammes green, per ream",
+   "quantity": 1.0,
+   "unit_price": null,
+   "qty_note": "Line starts with 11 but quantity was read as 1"
+  },
+  {
+   "customer_ref": null,
+   "description": "14 printer paper A4 80 g wht, 500 sheets",
+   "quantity": 1.0,
+   "unit_price": null,
+   "qty_note": "Line starts with 14 but quantity was read as 1"
+  },
+  {
+   "customer_ref": "726872",
+   "description": "COFFEE BEANS CREMA E AROMA",
+   "quantity": 1.0,
+   "unit_price": null,
+   "qty_note": null
+  },
+  {
+   "customer_ref": null,
+   "description": "memo pads 76x76mm yellow, 12/pack",
+   "quantity": 1.0,
+   "unit_price": null,
+   "qty_note": null
+  },
+  {
+   "customer_ref": null,
+   "description": "Slider Memo XB pen extra broad black, x10",
+   "quantity": 1.0,
+   "unit_price": null,
+   "qty_note": null
+  }
+ ],
+ "route": "email-body",
+ "seconds": 55.08260362500732,
+ "raw": {
+  "po_number": "NGA04846",
+  "order_date": "",
+  "delivery_date": "",
+  "lines": [
+   {
+    "customer_ref": "",
+    "description": "Bic Cristal Fine pen fine red, x50",
+    "quantity": "50",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "clairefontaine spiral pad a5 squared 5x5 180 pages",
+    "quantity": "1",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "11 coloured paper A4 80 grammes green, per ream",
+    "quantity": "1",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "14 printer paper A4 80 g wht, 500 sheets",
+    "quantity": "1",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "726872",
+    "description": "COFFEE BEANS CREMA E AROMA 1",
+    "quantity": "1",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "memo pads 76x76mm yellow, 12/pack",
+    "quantity": "1",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "Slider Memo XB pen extra broad black, x10",
+    "quantity": "1",
+    "unit_price": ""
+   }
+  ]
+ }
+}

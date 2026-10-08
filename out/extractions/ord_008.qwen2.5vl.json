@@ -1,0 +1,69 @@
+{
+ "sender": "luc@pharmacie-centrale.be",
+ "po_number": "PC00142",
+ "order_date": "2026-09-05",
+ "delivery_date": null,
+ "lines": [
+  {
+   "customer_ref": null,
+   "description": "gants nitrile non poudres noir taille XL, bte de 100",
+   "quantity": 200.0,
+   "unit_price": null,
+   "qty_note": null
+  },
+  {
+   "customer_ref": null,
+   "description": "bloc spirale A4 carreaux 5x5 100 pages",
+   "quantity": 32.0,
+   "unit_price": null,
+   "qty_note": null
+  },
+  {
+   "customer_ref": null,
+   "description": "gel hydro 1 litres",
+   "quantity": 4.0,
+   "unit_price": null,
+   "qty_note": null
+  },
+  {
+   "customer_ref": null,
+   "description": "classeur levier carton A4 dos 8cm jaune",
+   "quantity": 15.0,
+   "unit_price": null,
+   "qty_note": null
+  }
+ ],
+ "route": "email-body",
+ "seconds": 23.946320750008454,
+ "raw": {
+  "po_number": "PC00142",
+  "order_date": "",
+  "delivery_date": "",
+  "lines": [
+   {
+    "customer_ref": "",
+    "description": "gants nitrile non poudres noir taille XL, bte de 100",
+    "quantity": "200",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "bloc spirale A4 carreaux 5x5 100 pages",
+    "quantity": "32",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "gel hydro 1 litres",
+    "quantity": "4",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "classeur levier carton A4 dos 8cm jaune",
+    "quantity": "15",
+    "unit_price": ""
+   }
+  ]
+ }
+}

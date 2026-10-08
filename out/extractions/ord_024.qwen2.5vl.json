@@ -1,0 +1,69 @@
+{
+ "sender": "grace@harbourviewcare.co.uk",
+ "po_number": "HV0667",
+ "order_date": "2026-09-13",
+ "delivery_date": "2026-09-17",
+ "lines": [
+  {
+   "customer_ref": null,
+   "description": "batteries d, pk 2",
+   "quantity": 9.0,
+   "unit_price": null,
+   "qty_note": null
+  },
+  {
+   "customer_ref": "687878",
+   "description": "Ground coffee Carte Noire 25",
+   "quantity": 16.0,
+   "unit_price": null,
+   "qty_note": null
+  },
+  {
+   "customer_ref": null,
+   "description": "alkaline batteries AA, pack of 24",
+   "quantity": 4.0,
+   "unit_price": null,
+   "qty_note": null
+  },
+  {
+   "customer_ref": null,
+   "description": "printer paper A3 80gsm wht, ream",
+   "quantity": 34.0,
+   "unit_price": null,
+   "qty_note": null
+  }
+ ],
+ "route": "email-body",
+ "seconds": 33.253181457999744,
+ "raw": {
+  "po_number": "HV0667",
+  "order_date": "",
+  "delivery_date": "17/09/2026",
+  "lines": [
+   {
+    "customer_ref": "",
+    "description": "batteries d, pk 2",
+    "quantity": "9",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "687878",
+    "description": "Ground coffee Carte Noire 25",
+    "quantity": "16",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "alkaline batteries AA, pack of 24",
+    "quantity": "4",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "printer paper A3 80gsm wht, ream",
+    "quantity": "34",
+    "unit_price": ""
+   }
+  ]
+ }
+}

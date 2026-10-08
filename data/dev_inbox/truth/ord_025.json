@@ -1,0 +1,53 @@
+{
+ "order_id": "ord_025",
+ "customer_id": "C002",
+ "sender": "karim@clinique-oliviers.fr",
+ "po_number": "CO000866",
+ "order_date": "2026-09-16",
+ "delivery_date": null,
+ "lines": [
+  {
+   "text": "ganst nitrile non poudres bleu taille L, bte 100",
+   "customer_ref": "MAT-3572",
+   "quantity": 17.0,
+   "unit_price": 7.61,
+   "sku": "471793",
+   "kind": "repeat",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "RAME PAPIER A4 100GSM BLANC, 500 FEUILLES",
+   "customer_ref": "FN-6905",
+   "quantity": 16.0,
+   "unit_price": 5.12,
+   "sku": "299126",
+   "kind": "repeat",
+   "ambiguous": true,
+   "anomaly": null
+  },
+  {
+   "text": "papier photocopie a4 90grs blanc, 500 feuilles",
+   "customer_ref": "ART-9655",
+   "quantity": 8.0,
+   "unit_price": 5.22,
+   "sku": "573780",
+   "kind": "new",
+   "ambiguous": true,
+   "anomaly": null
+  },
+  {
+   "text": "cartouche 207A jaune",
+   "customer_ref": "FN-6588",
+   "quantity": 6.0,
+   "unit_price": 110.13,
+   "sku": "579991",
+   "kind": "repeat",
+   "ambiguous": false,
+   "anomaly": null
+  }
+ ],
+ "anomaly": null,
+ "format": "photo",
+ "with_prices": true
+}

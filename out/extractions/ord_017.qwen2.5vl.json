@@ -1,0 +1,95 @@
+{
+ "sender": "sean@riverside-cowork.ie",
+ "po_number": "RC-2026-645",
+ "order_date": "2026-10-03",
+ "delivery_date": "2026-10-08",
+ "lines": [
+  {
+   "customer_ref": null,
+   "description": "Mineral water 1.5 litres, pack of 6",
+   "quantity": 14.0,
+   "unit_price": null,
+   "qty_note": null
+  },
+  {
+   "customer_ref": null,
+   "description": "BPS-GP retractable pen blue, 12 per box",
+   "quantity": 3.0,
+   "unit_price": null,
+   "qty_note": null
+  },
+  {
+   "customer_ref": null,
+   "description": "L7165 Avery L7165 sticky labels 99.1x67.7mm, 8 per sheet, 100 sheets",
+   "quantity": 5.0,
+   "unit_price": null,
+   "qty_note": null
+  },
+  {
+   "customer_ref": null,
+   "description": "lever-arch binder a4 8 cm yellow",
+   "quantity": 23.0,
+   "unit_price": null,
+   "qty_note": null
+  },
+  {
+   "customer_ref": null,
+   "description": "Xerox Performer paper A4 75gr wht, ream of 500 sheets",
+   "quantity": 26.0,
+   "unit_price": null,
+   "qty_note": null
+  },
+  {
+   "customer_ref": null,
+   "description": "Canon 054 laser toner yellow",
+   "quantity": 4.0,
+   "unit_price": null,
+   "qty_note": null
+  }
+ ],
+ "route": "email-body",
+ "seconds": 53.035359166999115,
+ "raw": {
+  "po_number": "RC-2026-645",
+  "order_date": "",
+  "delivery_date": "8 Oct 2026",
+  "lines": [
+   {
+    "customer_ref": "",
+    "description": "14 Mineral water 1.5 litres, pack of 6",
+    "quantity": "14",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "3 BPS-GP retractable pen blue, 12 per box",
+    "quantity": "3",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "5 L7165 Avery L7165 sticky labels 99.1x67.7mm, 8 per sheet, 100 sheets",
+    "quantity": "5",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "23 lever-arch binder a4 8 cm yellow",
+    "quantity": "23",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "26 Xerox Performer paper A4 75gr wht, ream of 500 sheets",
+    "quantity": "26",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "4 Canon 054 laser toner yellow",
+    "quantity": "4",
+    "unit_price": ""
+   }
+  ]
+ }
+}

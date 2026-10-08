@@ -1,0 +1,53 @@
+{
+ "order_id": "ord_025",
+ "customer_id": "C004",
+ "sender": "sophie@ecole-tilleuls.fr",
+ "po_number": "ET-748",
+ "order_date": "2026-10-01",
+ "delivery_date": "2026-10-06",
+ "lines": [
+  {
+   "text": "classeur a levier A4 dos 50mm noir",
+   "customer_ref": null,
+   "quantity": 11.0,
+   "unit_price": 2.38,
+   "sku": "637244",
+   "kind": "repeat",
+   "ambiguous": true,
+   "anomaly": null
+  },
+  {
+   "text": "enveloppes c4 229x324mm blanches sans fenetre bande protectrice, x250",
+   "customer_ref": null,
+   "quantity": 5.0,
+   "unit_price": 23.27,
+   "sku": "851070",
+   "kind": "repeat",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "sacs-poubelle raja 100-litre transparent, 10 par rouleau",
+   "customer_ref": null,
+   "quantity": 20.0,
+   "unit_price": 5.11,
+   "sku": "818499",
+   "kind": "new",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "Roller de correction Tipp-Ex Mini Pocket 5mmx6m",
+   "customer_ref": null,
+   "quantity": 1.0,
+   "unit_price": 13.94,
+   "sku": "152847",
+   "kind": "repeat",
+   "ambiguous": false,
+   "anomaly": null
+  }
+ ],
+ "anomaly": null,
+ "format": "photo",
+ "with_prices": true
+}

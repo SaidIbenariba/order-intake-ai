@@ -1,0 +1,73 @@
+{
+ "order_id": "ord_027",
+ "customer_id": "C006",
+ "sender": "luc@pharmacie-centrale.be",
+ "po_number": "PC03213",
+ "order_date": "2026-10-05",
+ "delivery_date": null,
+ "lines": [
+  {
+   "text": "feutre permanent fine bleus, 12 par boite",
+   "customer_ref": null,
+   "quantity": 1.0,
+   "unit_price": null,
+   "sku": "752370",
+   "kind": "new",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "Ruban adhesif scotch magic invisible 19mmx33m, paquet de 6",
+   "customer_ref": null,
+   "quantity": 2.0,
+   "unit_price": null,
+   "sku": "266925",
+   "kind": "new",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "javel 2,6% 1-litre",
+   "customer_ref": null,
+   "quantity": 6.0,
+   "unit_price": null,
+   "sku": "521061",
+   "kind": "new",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "gel hydro 1 litres",
+   "customer_ref": null,
+   "quantity": 3.0,
+   "unit_price": null,
+   "sku": "676104",
+   "kind": "repeat",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "TN-2420 toner laser TN-2420 noir",
+   "customer_ref": null,
+   "quantity": 3.0,
+   "unit_price": null,
+   "sku": "191993",
+   "kind": "mpn_code",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "toner 054 cyan",
+   "customer_ref": null,
+   "quantity": 4.0,
+   "unit_price": null,
+   "sku": "890386",
+   "kind": "repeat",
+   "ambiguous": false,
+   "anomaly": null
+  }
+ ],
+ "anomaly": null,
+ "format": "email",
+ "with_prices": false
+}

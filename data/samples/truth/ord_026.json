@@ -1,0 +1,83 @@
+{
+ "order_id": "ord_026",
+ "customer_id": "C008",
+ "sender": "james@northgate-academy.org.uk",
+ "po_number": "NGA04846",
+ "order_date": "2026-09-17",
+ "delivery_date": null,
+ "lines": [
+  {
+   "text": "Bic Cristal Fine pen fine red, x50",
+   "customer_ref": null,
+   "quantity": 1.0,
+   "unit_price": null,
+   "sku": "286309",
+   "kind": "repeat",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "clairefontaine spiral pad a5 squared 5x5 180 pages",
+   "customer_ref": null,
+   "quantity": 116.0,
+   "unit_price": null,
+   "sku": "894651",
+   "kind": "repeat",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "coloured paper A4 80 grammes green, per ream",
+   "customer_ref": null,
+   "quantity": 11.0,
+   "unit_price": null,
+   "sku": "117710",
+   "kind": "new",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "printer paper A4 80 g wht, 500 sheets",
+   "customer_ref": null,
+   "quantity": 14.0,
+   "unit_price": null,
+   "sku": "998485",
+   "kind": "repeat",
+   "ambiguous": true,
+   "anomaly": null
+  },
+  {
+   "text": "Ref 726872 COFFEE BEANS CREMA E AROMA 1",
+   "customer_ref": null,
+   "quantity": 14.0,
+   "unit_price": null,
+   "sku": "726872",
+   "kind": "sku_code",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "memo pads 76x76mm yellow, 12/pack",
+   "customer_ref": null,
+   "quantity": 6.0,
+   "unit_price": null,
+   "sku": "786862",
+   "kind": "new",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "Slider Memo XB pen extra broad black, x10",
+   "customer_ref": null,
+   "quantity": 1.0,
+   "unit_price": null,
+   "sku": "562990",
+   "kind": "repeat",
+   "ambiguous": false,
+   "anomaly": null
+  }
+ ],
+ "anomaly": null,
+ "format": "email",
+ "with_prices": false
+}

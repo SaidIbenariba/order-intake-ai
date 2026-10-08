@@ -1,0 +1,41 @@
+{
+ "sender": "emma@brightsidedental.co.uk",
+ "po_number": "-2026-09378",
+ "order_date": "2026-09-22",
+ "delivery_date": null,
+ "lines": [
+  {
+   "customer_ref": "MAT-2136",
+   "description": "batteriies D, pk 2",
+   "quantity": 1.0,
+   "unit_price": null
+  },
+  {
+   "customer_ref": "FN-9111",
+   "description": "Rapid S27 stapling machine, 30 sheets capacity",
+   "quantity": 8.0,
+   "unit_price": null
+  }
+ ],
+ "route": "email-body",
+ "seconds": 28.854215416999068,
+ "raw": {
+  "po_number": "PO-2026-09378",
+  "order_date": "",
+  "delivery_date": "",
+  "lines": [
+   {
+    "customer_ref": "MAT-2136",
+    "description": "batteriies D, pk 2",
+    "quantity": "1",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "FN-9111",
+    "description": "Rapid S27 stapling machine, 30 sheets capacity",
+    "quantity": "8",
+    "unit_price": ""
+   }
+  ]
+ }
+}

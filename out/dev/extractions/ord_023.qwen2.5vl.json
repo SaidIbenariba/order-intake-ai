@@ -1,0 +1,65 @@
+{
+ "sender": "luc@pharmacie-centrale.be",
+ "po_number": "PC03199",
+ "order_date": "2026-09-29",
+ "delivery_date": "2026-10-04",
+ "lines": [
+  {
+   "customer_ref": null,
+   "description": "25 papier photocopie navigator a3 90 g/m2 blanc, 500 ff",
+   "quantity": 25.0,
+   "unit_price": null
+  },
+  {
+   "customer_ref": null,
+   "description": "5 etiquettes L7173 99.1x57mm, 10 par feuille, 100 feuilles",
+   "quantity": 5.0,
+   "unit_price": null
+  },
+  {
+   "customer_ref": null,
+   "description": "4 toner HP 59X noir (CF259X)",
+   "quantity": 4.0,
+   "unit_price": null
+  },
+  {
+   "customer_ref": null,
+   "description": "3 Pochettes de plastification A4 125 microns, boite de 100",
+   "quantity": 3.0,
+   "unit_price": null
+  }
+ ],
+ "route": "email-body",
+ "seconds": 42.717789292000816,
+ "raw": {
+  "po_number": "PC03199",
+  "order_date": "",
+  "delivery_date": "04/10/2026",
+  "lines": [
+   {
+    "customer_ref": "",
+    "description": "25 papier photocopie navigator a3 90 g/m2 blanc, 500 ff",
+    "quantity": "25",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "5 etiquettes L7173 99.1x57mm, 10 par feuille, 100 feuilles",
+    "quantity": "5",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "4 toner HP 59X noir (CF259X)",
+    "quantity": "4",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "3 Pochettes de plastification A4 125 microns, boite de 100",
+    "quantity": "3",
+    "unit_price": ""
+   }
+  ]
+ }
+}

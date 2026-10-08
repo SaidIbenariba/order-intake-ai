@@ -1,0 +1,53 @@
+{
+ "order_id": "ord_016",
+ "customer_id": "C005",
+ "sender": "youssef@benali-transports.ma",
+ "po_number": "TB-20261585",
+ "order_date": "2026-09-10",
+ "delivery_date": "2026-09-12",
+ "lines": [
+  {
+   "text": "MARQUEUR EFFACABLE EDIDNG 360 ROUGE, X10",
+   "customer_ref": null,
+   "quantity": 1.0,
+   "unit_price": null,
+   "sku": "318872",
+   "kind": "repeat",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "cahier spirale Clairefontaine A4 grands carreaux 180 pages",
+   "customer_ref": null,
+   "quantity": 54.0,
+   "unit_price": null,
+   "sku": "247325",
+   "kind": "repeat",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "sacs poubelle Raja 100 lires transparent, x10",
+   "customer_ref": null,
+   "quantity": 40.0,
+   "unit_price": null,
+   "sku": "818499",
+   "kind": "repeat",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "Nettoyant virtes spray 5L",
+   "customer_ref": null,
+   "quantity": 9.0,
+   "unit_price": null,
+   "sku": "457404",
+   "kind": "repeat",
+   "ambiguous": false,
+   "anomaly": null
+  }
+ ],
+ "anomaly": null,
+ "format": "pdf",
+ "with_prices": false
+}

@@ -1,0 +1,63 @@
+{
+ "order_id": "ord_012",
+ "customer_id": "C010",
+ "sender": "sean@riverside-cowork.ie",
+ "po_number": "RC-2026-277",
+ "order_date": "2026-09-16",
+ "delivery_date": null,
+ "lines": [
+  {
+   "text": "trash bags 30 L white, x20",
+   "customer_ref": null,
+   "quantity": 22.0,
+   "unit_price": 2.07,
+   "sku": "238979",
+   "kind": "repeat",
+   "ambiguous": true,
+   "anomaly": null
+  },
+  {
+   "text": "disposable vinyl gloves pf transparent m, bx 100",
+   "customer_ref": null,
+   "quantity": 15.0,
+   "unit_price": 9.31,
+   "sku": "221922",
+   "kind": "repeat",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "Pencil HB Staedtler Noris, x12",
+   "customer_ref": null,
+   "quantity": 7.0,
+   "unit_price": 10.47,
+   "sku": "537228",
+   "kind": "repeat",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "Mineral water 1.5 litres, pack of 6",
+   "customer_ref": null,
+   "quantity": 21.0,
+   "unit_price": 3.69,
+   "sku": "550379",
+   "kind": "repeat",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "Pilot BPS-GP ballpoint retrctable blue, (12)",
+   "customer_ref": null,
+   "quantity": 5.0,
+   "unit_price": 2.7,
+   "sku": "721533",
+   "kind": "new",
+   "ambiguous": false,
+   "anomaly": null
+  }
+ ],
+ "anomaly": null,
+ "format": "photo",
+ "with_prices": true
+}

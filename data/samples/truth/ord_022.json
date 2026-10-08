@@ -1,0 +1,83 @@
+{
+ "order_id": "ord_022",
+ "customer_id": "C010",
+ "sender": "sean@riverside-cowork.ie",
+ "po_number": "RC-2026-042",
+ "order_date": "2026-09-23",
+ "delivery_date": null,
+ "lines": [
+  {
+   "text": "78 A print cartridge blk",
+   "customer_ref": null,
+   "quantity": 3.0,
+   "unit_price": null,
+   "sku": "794435",
+   "kind": "new",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "clairefontaine spiral notebook a5 squared 5x5 180 pages",
+   "customer_ref": null,
+   "quantity": 12.0,
+   "unit_price": null,
+   "sku": "894651",
+   "kind": "new",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "Centrefeed wiping roll 2-ply 450 sheets, 6 per pack",
+   "customer_ref": null,
+   "quantity": 14.0,
+   "unit_price": null,
+   "sku": "754332",
+   "kind": "new",
+   "ambiguous": true,
+   "anomaly": null
+  },
+  {
+   "text": "Mineral water 1.5 litres, pack of 6",
+   "customer_ref": null,
+   "quantity": 21.0,
+   "unit_price": null,
+   "sku": "550379",
+   "kind": "repeat",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "Duracell alkalline batteries AAA, pk 12",
+   "customer_ref": null,
+   "quantity": 16.0,
+   "unit_price": null,
+   "sku": "641083",
+   "kind": "repeat",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "clairefontaine trophee color paper a4 80 g green, 500 sheets",
+   "customer_ref": null,
+   "quantity": 31.0,
+   "unit_price": null,
+   "sku": "117710",
+   "kind": "repeat",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "Avery L7651 labels 38.1x21.2mm, 65 per sheet, 100 sheets",
+   "customer_ref": null,
+   "quantity": 1.0,
+   "unit_price": null,
+   "sku": "739038",
+   "kind": "repeat",
+   "ambiguous": false,
+   "anomaly": null
+  }
+ ],
+ "anomaly": null,
+ "format": "photo",
+ "with_prices": false
+}

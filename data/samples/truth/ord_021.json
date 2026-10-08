@@ -1,0 +1,73 @@
+{
+ "order_id": "ord_021",
+ "customer_id": "C003",
+ "sender": "nadia@atlas-marina-hotel.ma",
+ "po_number": "HAM/2026/617",
+ "order_date": "2026-09-04",
+ "delivery_date": null,
+ "lines": [
+  {
+   "text": "gants nitrile non poudres bleu M, bte de 100",
+   "customer_ref": null,
+   "quantity": 24.0,
+   "unit_price": null,
+   "sku": "509871",
+   "kind": "repeat",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "NETTOYANT VITRES SPRAY 5 LITRES",
+   "customer_ref": null,
+   "quantity": 4.0,
+   "unit_price": null,
+   "sku": "457404",
+   "kind": "repeat",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "SACS ORDURES SACS PRO 130 LT TRANSPARENT, 10 PAR ROULEAU",
+   "customer_ref": null,
+   "quantity": 33.0,
+   "unit_price": null,
+   "sku": "240981",
+   "kind": "new",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "ENVELOPPES C4 229X324MM BLANCHES AVEC FENETRE BANDE PROTECTRICE, X250",
+   "customer_ref": null,
+   "quantity": 2.0,
+   "unit_price": null,
+   "sku": "971257",
+   "kind": "repeat",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "papier photocopie clairefontaine a4 100 gramems blanches",
+   "customer_ref": null,
+   "quantity": 26.0,
+   "unit_price": null,
+   "sku": "586470",
+   "kind": "new",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "stylo a bille fine cristal fine noirs, (50)",
+   "customer_ref": null,
+   "quantity": 4.0,
+   "unit_price": null,
+   "sku": "162802",
+   "kind": "new",
+   "ambiguous": false,
+   "anomaly": null
+  }
+ ],
+ "anomaly": null,
+ "format": "email",
+ "with_prices": false
+}

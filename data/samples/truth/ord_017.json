@@ -1,0 +1,73 @@
+{
+ "order_id": "ord_017",
+ "customer_id": "C010",
+ "sender": "sean@riverside-cowork.ie",
+ "po_number": "RC-2026-645",
+ "order_date": "2026-10-03",
+ "delivery_date": "2026-10-08",
+ "lines": [
+  {
+   "text": "Mineral water 1.5 litres, pack of 6",
+   "customer_ref": null,
+   "quantity": 14.0,
+   "unit_price": null,
+   "sku": "550379",
+   "kind": "repeat",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "BPS-GP retractable pen blue, 12 per box",
+   "customer_ref": null,
+   "quantity": 3.0,
+   "unit_price": null,
+   "sku": "721533",
+   "kind": "new",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "L7165 Avery L7165 sticky labels 99.1x67.7mm, 8 per sheet, 100 sheets",
+   "customer_ref": null,
+   "quantity": 5.0,
+   "unit_price": null,
+   "sku": "986319",
+   "kind": "mpn_code",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "lever-arch binder a4 8 cm yellow",
+   "customer_ref": null,
+   "quantity": 23.0,
+   "unit_price": null,
+   "sku": "148861",
+   "kind": "new",
+   "ambiguous": true,
+   "anomaly": null
+  },
+  {
+   "text": "Xerox Performer paper A4 75gr wht, ream of 500 sheets",
+   "customer_ref": null,
+   "quantity": 26.0,
+   "unit_price": null,
+   "sku": "391674",
+   "kind": "repeat",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "Canon 054 laser toner yellow",
+   "customer_ref": null,
+   "quantity": 4.0,
+   "unit_price": null,
+   "sku": "622516",
+   "kind": "new",
+   "ambiguous": false,
+   "anomaly": null
+  }
+ ],
+ "anomaly": null,
+ "format": "email",
+ "with_prices": false
+}

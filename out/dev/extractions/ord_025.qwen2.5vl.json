@@ -1,0 +1,65 @@
+{
+ "sender": "karim@clinique-oliviers.fr",
+ "po_number": "CO000866",
+ "order_date": "2026-09-16",
+ "delivery_date": null,
+ "lines": [
+  {
+   "customer_ref": "MAT-3572",
+   "description": "ganst nitrile non poudres bleu taille L, bte 100",
+   "quantity": 17.0,
+   "unit_price": 7.61
+  },
+  {
+   "customer_ref": "FN-6905",
+   "description": "RAME PAPIER A4 100GSM BLANC, 500 FEUILLES",
+   "quantity": 16.0,
+   "unit_price": 5.12
+  },
+  {
+   "customer_ref": "ART-9655",
+   "description": "papier photocopie a4 90grs blanc, 500 feuilles",
+   "quantity": 8.0,
+   "unit_price": 5.22
+  },
+  {
+   "customer_ref": "FN-6588",
+   "description": "cartouche 207A jaune",
+   "quantity": 6.0,
+   "unit_price": 110.13
+  }
+ ],
+ "route": "vision",
+ "seconds": 95.03077279200079,
+ "raw": {
+  "po_number": "CO000866",
+  "order_date": "16/09/2026",
+  "delivery_date": "",
+  "lines": [
+   {
+    "customer_ref": "MAT-3572",
+    "description": "ganst nitrile non poudres bleu taille L, bte 100",
+    "quantity": "17",
+    "unit_price": "7,61"
+   },
+   {
+    "customer_ref": "FN-6905",
+    "description": "RAME PAPIER A4 100GSM BLANC, 500 FEUILLES",
+    "quantity": "16",
+    "unit_price": "5,12"
+   },
+   {
+    "customer_ref": "ART-9655",
+    "description": "papier photocopie a4 90grs blanc, 500 feuilles",
+    "quantity": "8",
+    "unit_price": "5,22"
+   },
+   {
+    "customer_ref": "FN-6588",
+    "description": "cartouche 207A jaune",
+    "quantity": "6",
+    "unit_price": "110,13"
+   }
+  ]
+ }
+}

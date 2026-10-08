@@ -1,0 +1,53 @@
+{
+ "sender": "grace@harbourviewcare.co.uk",
+ "po_number": "HV0676",
+ "order_date": "2026-09-20",
+ "delivery_date": null,
+ "lines": [
+  {
+   "customer_ref": "286309",
+   "description": "Bic Cristal Fine ballpoinnt",
+   "quantity": 2.0,
+   "unit_price": null
+  },
+  {
+   "customer_ref": null,
+   "description": "printer paper A3 80gsm wht, ream",
+   "quantity": 510.0,
+   "unit_price": null
+  },
+  {
+   "customer_ref": "223695",
+   "description": "Glue stick UHU 21g",
+   "quantity": 2.0,
+   "unit_price": null
+  }
+ ],
+ "route": "email-body",
+ "seconds": 26.30152508300671,
+ "raw": {
+  "po_number": "HV0676",
+  "order_date": "",
+  "delivery_date": "",
+  "lines": [
+   {
+    "customer_ref": "286309",
+    "description": "Bic Cristal Fine ballpoinnt",
+    "quantity": "2",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "printer paper A3 80gsm wht, ream",
+    "quantity": "510",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "223695",
+    "description": "Glue stick UHU 21g",
+    "quantity": "2",
+    "unit_price": ""
+   }
+  ]
+ }
+}

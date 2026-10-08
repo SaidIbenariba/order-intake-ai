@@ -1,0 +1,113 @@
+{
+ "sender": "priya@lumen-architects.co.uk",
+ "po_number": "LA-3534",
+ "order_date": "2026-09-11",
+ "delivery_date": "2026-09-20",
+ "lines": [
+  {
+   "customer_ref": null,
+   "description": "battery D, x2",
+   "quantity": 6.0,
+   "unit_price": 4.48
+  },
+  {
+   "customer_ref": null,
+   "description": "Esselte arch file A4 50mm black",
+   "quantity": 26.0,
+   "unit_price": 2.52
+  },
+  {
+   "customer_ref": null,
+   "description": "Paper clips 32mm, 100 per box",
+   "quantity": 6.0,
+   "unit_price": 5.6
+  },
+  {
+   "customer_ref": null,
+   "description": "Leitz lever arch file A4 80 mm red",
+   "quantity": 16.0,
+   "unit_price": 3.94
+  },
+  {
+   "customer_ref": null,
+   "description": "Packaging tape transparent 48mmx66m, 6 per pack",
+   "quantity": 1.0,
+   "unit_price": 14.31
+  },
+  {
+   "customer_ref": null,
+   "description": "clairefontaine spiral notebook a4 lind 100 pages",
+   "quantity": 79.0,
+   "unit_price": 2.0
+  },
+  {
+   "customer_ref": null,
+   "description": "Leitz arch file A4 80mm yellow",
+   "quantity": 27.0,
+   "unit_price": 3.94
+  },
+  {
+   "customer_ref": null,
+   "description": "multipurpose cleaner 5-litre",
+   "quantity": 8.0,
+   "unit_price": 7.94
+  }
+ ],
+ "route": "pdf-text",
+ "seconds": 121.31568237500323,
+ "raw": {
+  "po_number": "LA-3534",
+  "order_date": "11/09/2026",
+  "delivery_date": "20 Sep 2026",
+  "lines": [
+   {
+    "customer_ref": "",
+    "description": "battery D, x2",
+    "quantity": "6",
+    "unit_price": "4.48"
+   },
+   {
+    "customer_ref": "",
+    "description": "Esselte arch file A4 50mm black",
+    "quantity": "26",
+    "unit_price": "2.52"
+   },
+   {
+    "customer_ref": "",
+    "description": "Paper clips 32mm, 100 per box",
+    "quantity": "6",
+    "unit_price": "5.60"
+   },
+   {
+    "customer_ref": "",
+    "description": "Leitz lever arch file A4 80 mm red",
+    "quantity": "16",
+    "unit_price": "3.94"
+   },
+   {
+    "customer_ref": "",
+    "description": "Packaging tape transparent 48mmx66m, 6 per pack",
+    "quantity": "1",
+    "unit_price": "14.31"
+   },
+   {
+    "customer_ref": "",
+    "description": "clairefontaine spiral notebook a4 lind 100 pages",
+    "quantity": "79",
+    "unit_price": "2.00"
+   },
+   {
+    "customer_ref": "",
+    "description": "Leitz arch file A4 80mm yellow",
+    "quantity": "27",
+    "unit_price": "3.94"
+   },
+   {
+    "customer_ref": "",
+    "description": "multipurpose cleaner 5-litre",
+    "quantity": "8",
+    "unit_price": "7.94"
+   }
+  ]
+ }
+}

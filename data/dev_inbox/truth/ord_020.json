@@ -1,0 +1,63 @@
+{
+ "order_id": "ord_020",
+ "customer_id": "C007",
+ "sender": "emma@brightsidedental.co.uk",
+ "po_number": "PO-2026-08595",
+ "order_date": "2026-09-20",
+ "delivery_date": null,
+ "lines": [
+  {
+   "text": "nitrile gloves powder free blue size S, bx 100",
+   "customer_ref": "FN-6923",
+   "quantity": 24.0,
+   "unit_price": 11.08,
+   "sku": "181375",
+   "kind": "repeat",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "clairefontaine spiral pad a5 seyes 180 pages",
+   "customer_ref": "FN-8228",
+   "quantity": 40.0,
+   "unit_price": 2.73,
+   "sku": "688808",
+   "kind": "repeat",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "copy paper a3 80g white, ream",
+   "customer_ref": "ART-3007",
+   "quantity": 10.0,
+   "unit_price": 8.18,
+   "sku": "403080",
+   "kind": "repeat",
+   "ambiguous": true,
+   "anomaly": "price_mismatch"
+  },
+  {
+   "text": "edding 360 dry wipe marker black, (10)",
+   "customer_ref": "ART-5796",
+   "quantity": 2.0,
+   "unit_price": 3.47,
+   "sku": "504928",
+   "kind": "new",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "avery l7160 sticky labels 63.5x38.1mm, 21 per sheet, 100 sheets",
+   "customer_ref": "MAT-7286",
+   "quantity": 2.0,
+   "unit_price": 31.66,
+   "sku": "648177",
+   "kind": "new",
+   "ambiguous": false,
+   "anomaly": null
+  }
+ ],
+ "anomaly": "price_mismatch",
+ "format": "pdf",
+ "with_prices": true
+}

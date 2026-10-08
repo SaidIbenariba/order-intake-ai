@@ -1,0 +1,83 @@
+{
+ "order_id": "ord_026",
+ "customer_id": "C012",
+ "sender": "grace@harbourviewcare.co.uk",
+ "po_number": "HV9375",
+ "order_date": "2026-09-15",
+ "delivery_date": "2026-09-24",
+ "lines": [
+  {
+   "text": "bic cristal fine fine ballpen blk, 50 per box",
+   "customer_ref": null,
+   "quantity": 5.0,
+   "unit_price": null,
+   "sku": "162802",
+   "kind": "new",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "Jumbo toilet roll 2-ply 200m, pk 6",
+   "customer_ref": null,
+   "quantity": 7.0,
+   "unit_price": null,
+   "sku": "857737",
+   "kind": "new",
+   "ambiguous": true,
+   "anomaly": null
+  },
+  {
+   "text": "Esselte lever-arch binder A4 8 cm black",
+   "customer_ref": null,
+   "quantity": 20.0,
+   "unit_price": null,
+   "sku": "993806",
+   "kind": "new",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "microfibre cloths 40x40cm blue, pk 10",
+   "customer_ref": null,
+   "quantity": 11.0,
+   "unit_price": null,
+   "sku": "504648",
+   "kind": "repeat",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "energizer batts aaa, pk 24",
+   "customer_ref": null,
+   "quantity": 10.0,
+   "unit_price": null,
+   "sku": "137355",
+   "kind": "new",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "MICROFIBER CLOTHS 40X40CM YELLOW, X10",
+   "customer_ref": null,
+   "quantity": 8.0,
+   "unit_price": null,
+   "sku": "725540",
+   "kind": "repeat",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "printer paper A3 80gsm wht, ream",
+   "customer_ref": null,
+   "quantity": 340.0,
+   "unit_price": null,
+   "sku": "598873",
+   "kind": "repeat",
+   "ambiguous": true,
+   "anomaly": "qty_outlier"
+  }
+ ],
+ "anomaly": "qty_outlier",
+ "format": "email",
+ "with_prices": false
+}

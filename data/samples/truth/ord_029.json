@@ -1,0 +1,73 @@
+{
+ "order_id": "ord_029",
+ "customer_id": "C003",
+ "sender": "nadia@atlas-marina-hotel.ma",
+ "po_number": "HAM/2026/875",
+ "order_date": "2026-10-02",
+ "delivery_date": "2026-10-08",
+ "lines": [
+  {
+   "text": "SURIS SANS FIL M185 GRISE",
+   "customer_ref": null,
+   "quantity": 2.0,
+   "unit_price": null,
+   "sku": "304142",
+   "kind": "new",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "Agrafes 26/6, bte de 5000",
+   "customer_ref": null,
+   "quantity": 8.0,
+   "unit_price": null,
+   "sku": "698298",
+   "kind": "repeat",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "ENVELOPPES DL 110X220MM BLANCHES SANS FENETRE BANDE PROTECTRICE, BTE 500",
+   "customer_ref": null,
+   "quantity": 2.0,
+   "unit_price": null,
+   "sku": "503092",
+   "kind": "repeat",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "roller gel g2 rouge, boite de 12",
+   "customer_ref": null,
+   "quantity": 3.0,
+   "unit_price": null,
+   "sku": "502392",
+   "kind": "repeat",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "Lavettes micofibre 40x40cm jaune, 10 par lot",
+   "customer_ref": null,
+   "quantity": 2.0,
+   "unit_price": null,
+   "sku": "725540",
+   "kind": "new",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "rame papier A3 90gr blanc",
+   "customer_ref": null,
+   "quantity": 21.0,
+   "unit_price": null,
+   "sku": "771394",
+   "kind": "repeat",
+   "ambiguous": true,
+   "anomaly": null
+  }
+ ],
+ "anomaly": null,
+ "format": "photo",
+ "with_prices": false
+}

@@ -1,0 +1,43 @@
+{
+ "order_id": "ord_016",
+ "customer_id": "C010",
+ "sender": "sean@riverside-cowork.ie",
+ "po_number": "RC-2026-840",
+ "order_date": "2026-09-22",
+ "delivery_date": null,
+ "lines": [
+  {
+   "text": "disposable vinyl gloves pf transparent m, bx 100",
+   "customer_ref": null,
+   "quantity": 8.0,
+   "unit_price": null,
+   "sku": "221922",
+   "kind": "repeat",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "TN-2420 Brother TN-2420 laser toner black",
+   "customer_ref": null,
+   "quantity": 3.0,
+   "unit_price": null,
+   "sku": "191993",
+   "kind": "mpn_code",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "paper a3 80g white, ream of 500 sheeets",
+   "customer_ref": null,
+   "quantity": 48.0,
+   "unit_price": null,
+   "sku": "598873",
+   "kind": "repeat",
+   "ambiguous": true,
+   "anomaly": null
+  }
+ ],
+ "anomaly": null,
+ "format": "email",
+ "with_prices": false
+}

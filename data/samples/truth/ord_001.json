@@ -1,0 +1,33 @@
+{
+ "order_id": "ord_001",
+ "customer_id": "C010",
+ "sender": "sean@riverside-cowork.ie",
+ "po_number": "RC-2026-556",
+ "order_date": "2026-10-01",
+ "delivery_date": "2026-10-03",
+ "lines": [
+  {
+   "text": "Stabilo Boss text marker pink, 10 per box",
+   "customer_ref": null,
+   "quantity": 4.0,
+   "unit_price": null,
+   "sku": "306139",
+   "kind": "new",
+   "ambiguous": false,
+   "anomaly": null
+  },
+  {
+   "text": "blach 2.6% 5 lt",
+   "customer_ref": null,
+   "quantity": 4.0,
+   "unit_price": null,
+   "sku": "304940",
+   "kind": "new",
+   "ambiguous": false,
+   "anomaly": null
+  }
+ ],
+ "anomaly": null,
+ "format": "email",
+ "with_prices": false
+}

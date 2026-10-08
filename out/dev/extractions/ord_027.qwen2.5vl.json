@@ -1,0 +1,89 @@
+{
+ "sender": "luc@pharmacie-centrale.be",
+ "po_number": "PC03213",
+ "order_date": "2026-10-05",
+ "delivery_date": null,
+ "lines": [
+  {
+   "customer_ref": null,
+   "description": "1 feutre permanent fine bleus, 12 par boite",
+   "quantity": 12.0,
+   "unit_price": null
+  },
+  {
+   "customer_ref": null,
+   "description": "2 Ruban adhesif scotch magic invisible 19mmx33m, paquet de 6",
+   "quantity": 6.0,
+   "unit_price": null
+  },
+  {
+   "customer_ref": null,
+   "description": "6 javel 2,6% 1-litre",
+   "quantity": 6.0,
+   "unit_price": null
+  },
+  {
+   "customer_ref": null,
+   "description": "3 gel hydro 1 litres",
+   "quantity": 3.0,
+   "unit_price": null
+  },
+  {
+   "customer_ref": "TN-2420",
+   "description": "toner laser TN-2420 noir",
+   "quantity": 3.0,
+   "unit_price": null
+  },
+  {
+   "customer_ref": "054",
+   "description": "toner 054 cyan",
+   "quantity": 4.0,
+   "unit_price": null
+  }
+ ],
+ "route": "email-body",
+ "seconds": 45.92562687500322,
+ "raw": {
+  "po_number": "PC03213",
+  "order_date": "",
+  "delivery_date": "",
+  "lines": [
+   {
+    "customer_ref": "",
+    "description": "1 feutre permanent fine bleus, 12 par boite",
+    "quantity": "12",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "2 Ruban adhesif scotch magic invisible 19mmx33m, paquet de 6",
+    "quantity": "6",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "6 javel 2,6% 1-litre",
+    "quantity": "6",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "",
+    "description": "3 gel hydro 1 litres",
+    "quantity": "3",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "TN-2420",
+    "description": "toner laser TN-2420 noir",
+    "quantity": "3",
+    "unit_price": ""
+   },
+   {
+    "customer_ref": "054",
+    "description": "toner 054 cyan",
+    "quantity": "4",
+    "unit_price": ""
+   }
+  ]
+ }
+}
